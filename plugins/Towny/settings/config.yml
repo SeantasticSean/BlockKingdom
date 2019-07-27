@@ -31,7 +31,7 @@ levels:
   town_level:
   - numResidents: 0
     namePostfix: ' Ruins'
-    mayorPrefix: 'Spirit'
+    mayorPrefix: Spirit
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 1
@@ -39,7 +39,7 @@ levels:
     townOutpostLimit: 0
   - numResidents: 1
     namePostfix: ' (Settlement)'
-    mayorPrefix: 'Hermit'
+    mayorPrefix: Hermit
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 16
@@ -47,7 +47,7 @@ levels:
     townOutpostLimit: 0
   - numResidents: 2
     namePostfix: ' (Hamlet)'
-    mayorPrefix: 'Chief'
+    mayorPrefix: Chief
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 32
@@ -55,7 +55,7 @@ levels:
     townOutpostLimit: 1
   - numResidents: 6
     namePostfix: ' (Village)'
-    mayorPrefix: 'Baron Von'
+    mayorPrefix: Baron Von
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 96
@@ -63,7 +63,7 @@ levels:
     townOutpostLimit: 1
   - numResidents: 10
     namePostfix: ' (Town)'
-    mayorPrefix: 'Viscount'
+    mayorPrefix: Viscount
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 160
@@ -71,7 +71,7 @@ levels:
     townOutpostLimit: 2
   - numResidents: 14
     namePostfix: ' (Large Town)'
-    mayorPrefix: 'Count Von'
+    mayorPrefix: Count Von
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 224
@@ -79,7 +79,7 @@ levels:
     townOutpostLimit: 2
   - numResidents: 20
     namePostfix: ' (City)'
-    mayorPrefix: 'Earl'
+    mayorPrefix: Earl
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 320
@@ -87,7 +87,7 @@ levels:
     townOutpostLimit: 3
   - numResidents: 24
     namePostfix: ' (Large City)'
-    mayorPrefix: 'Duke'
+    mayorPrefix: Duke
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 384
@@ -95,7 +95,7 @@ levels:
     townOutpostLimit: 3
   - numResidents: 28
     namePostfix: ' (Metropolis)'
-    mayorPrefix: 'Lord'
+    mayorPrefix: Lord
     namePrefix: ''
     mayorPostfix: ''
     townBlockLimit: 448
@@ -106,7 +106,7 @@ levels:
   - kingPostfix: ''
     capitalPostfix: ''
     upkeepModifier: 1.0
-    kingPrefix: 'Leader'
+    kingPrefix: Leader
     capitalPrefix: ''
     numResidents: 0
     nationBonusOutpostLimit: 0
@@ -118,7 +118,7 @@ levels:
   - kingPostfix: ''
     capitalPostfix: ''
     upkeepModifier: 1.0
-    kingPrefix: 'Count'
+    kingPrefix: Count
     capitalPrefix: ''
     numResidents: 10
     nationBonusOutpostLimit: 1
@@ -130,7 +130,7 @@ levels:
   - kingPostfix: ''
     capitalPostfix: ''
     upkeepModifier: 1.0
-    kingPrefix: 'Duke'
+    kingPrefix: Duke
     capitalPrefix: ''
     numResidents: 20
     nationBonusOutpostLimit: 2
@@ -142,7 +142,7 @@ levels:
   - kingPostfix: ''
     capitalPostfix: ''
     upkeepModifier: 1.0
-    kingPrefix: 'King'
+    kingPrefix: King
     capitalPrefix: ''
     numResidents: 30
     nationBonusOutpostLimit: 3
@@ -154,7 +154,7 @@ levels:
   - kingPostfix: ''
     capitalPostfix: ''
     upkeepModifier: 1.0
-    kingPrefix: 'Emperor'
+    kingPrefix: Emperor
     capitalPrefix: ''
     numResidents: 40
     nationBonusOutpostLimit: 4
@@ -166,13 +166,13 @@ levels:
   - kingPostfix: ''
     capitalPostfix: ''
     upkeepModifier: 1.0
-    kingPrefix: 'God Emperor'
+    kingPrefix: God Emperor
     capitalPrefix: ''
     numResidents: 60
     nationBonusOutpostLimit: 5
     namePostfix: ' Realm'
     townBlockLimitBonus: 140
-    namePrefix: 'The'
+    namePrefix: The
     nationZonesSize: 3
     nationTownUpkeepModifier: 1.0
  
