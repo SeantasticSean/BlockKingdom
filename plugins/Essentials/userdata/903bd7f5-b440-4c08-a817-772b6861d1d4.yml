@@ -1,0 +1,31 @@
+lastAccountName: ItzMecha
+timestamps:
+  login: 1564252533841
+  lastteleport: 1564253886602
+  logout: 1564252359515
+  kits:
+    member: 1564244271198
+ipAddress: 73.254.245.54
+lastlocation:
+  world: world
+  x: -1653.699999988079
+  y: 52.0
+  z: 1914.9971916872319
+  yaw: 263.99927
+  pitch: 9.148062
+money: '460.16749999999974143'
+logoutlocation:
+  world: world
+  x: -3409.3392423205255
+  y: 66.0
+  z: -3395.3772809620473
+  yaw: 201.76752
+  pitch: -3.4874606
+homes:
+  home:
+    world: world
+    x: -3400.0714213702436
+    y: 7.0
+    z: -3400.05302459261
+    yaw: -179.5625
+    pitch: 4.0267243

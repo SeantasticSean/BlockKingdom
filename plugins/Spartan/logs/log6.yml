@@ -1,0 +1,50 @@
+(1)[2019/07/27 18:49:32]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS: 19.95),
+  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(2)[2019/07/27 18:49:41]: End3rduty found 1 gold-ore on -1811, 16, 1876
+(3)[2019/07/27 18:49:42]: End3rduty found 1 gold-ore on -1812, 15, 1876
+(4)[2019/07/27 18:49:43]: End3rduty found 1 gold-ore on -1812, 15, 1876
+(5)[2019/07/27 18:49:45]: End3rduty found 1 gold-ore on -1812, 15, 1876
+(6)[2019/07/27 18:49:46]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 34ms), (TPS:
+  19.80), (Plib: false), (Online: 4), (t: interact, c: furnace, r: crafting-table)]'
+(7)[2019/07/27 18:50:14]: '[Spartan Build 250-105521/596204925] zNihility failed GhostHand
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 325ms), (TPS: 14.94),
+  (Plib: false), (Online: 4), (t: break, c: mossy-cobblestone, r: mossy-cobblestone)]'
+(8)[2019/07/27 18:51:00]: End3rduty found 1 gold-ore on -1841, 22, 1874
+(9)[2019/07/27 18:51:01]: End3rduty found 2 gold-ores on -1841, 22, 1874
+(10)[2019/07/27 18:51:02]: End3rduty found 1 gold-ore on -1840, 22, 1874
+(11)[2019/07/27 18:51:03]: End3rduty found 1 gold-ore on -1840, 22, 1875
+(12)[2019/07/27 18:52:20]: End3rduty found 1 gold-ore on -1838, 16, 1867
+(13)[2019/07/27 18:52:25]: End3rduty found 1 gold-ore on -1839, 15, 1867
+(14)[2019/07/27 18:56:29]: End3rduty found 1 gold-ore on -1830, 15, 1802
+(15)[2019/07/27 18:56:29]: End3rduty found 1 gold-ore on -1830, 15, 1802
+(16)[2019/07/27 18:56:31]: End3rduty found 2 gold-ores on -1829, 16, 1802
+(17)[2019/07/27 18:56:32]: End3rduty found 1 gold-ore on -1829, 16, 1802
+(18)[2019/07/27 18:56:33]: End3rduty found 1 gold-ore on -1829, 16, 1802
+(19)[2019/07/27 18:56:35]: End3rduty found 1 gold-ore on -1829, 16, 1802
+(20)[2019/07/27 18:59:55]: '[Spartan Build 250-105521/596204925] ItzMecha failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 104ms), (TPS: 19.85),
+  (Plib: false), (Online: 4), (t: interact, c: chest, r: dispenser)]'
+(21)[2019/07/27 19:01:14]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 266ms), (TPS:
+  19.98), (Plib: false), (Online: 4), (t: break, c: stone, r: stone)]'
+(22)[2019/07/27 19:04:01]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 43ms), (TPS:
+  19.91), (Plib: false), (Online: 4), (t: break, c: sand, r: sand)]'
+(23)[2019/07/27 19:04:45]: '[Spartan Build 250-105521/596204925] ItzMecha failed ImpossibleActions
+  (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 102ms), (TPS: 19.86),
+  (Plib: false), (Online: 4), (t: tower(normal), b: dirt)]'
+(24)[2019/07/27 19:05:57]: '[Spartan Build 250-105521/596204925] zNihility failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 266ms), (TPS:
+  19.95), (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(25)[2019/07/27 19:07:49]: '[Spartan Build 250-105521/596204925] ItzMecha failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS: 19.88),
+  (Plib: false), (Online: 4), (t: break, c: grass-block, r: grass-block)]'
+(26)[2019/07/27 19:15:22]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 44ms), (TPS:
+  19.94), (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(27)[2019/07/27 19:17:27]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 49ms), (TPS:
+  19.85), (Plib: false), (Online: 5), (t: difference, c: 11.78546300918059, n: 2.979756743063906,
+  d: 8.805706266116685, t: 27, l: 1.5, p: true)]'

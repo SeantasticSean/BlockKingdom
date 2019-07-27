@@ -1,0 +1,37 @@
+Softies:
+  Leader: b7d591a6-7fb2-4346-968c-f58d00ea2a4a|SoftNina
+  Locked: true
+  Level: 10
+  Xp: 4610
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - b7d591a6-7fb2-4346-968c-f58d00ea2a4a|SoftNina
+  - fa0f1dc1-4c4b-4b94-bc3c-d9de62fba23e|End3rduty
+  - 9550dfb4-a66f-42fe-a15d-a494e68a783e|martyiswarty
+  - d7394801-5961-45b8-9448-fe5d445122bd|k0tu
+Pu$$yRippers:
+  Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
+  Locked: true
+  Level: 10
+  Xp: 1750
+  Ally: ''
+  ExpShareMode: EQUAL
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
+  - 89808db2-8c04-4212-8038-1e8d605f7b89|zKirk
+  - 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo

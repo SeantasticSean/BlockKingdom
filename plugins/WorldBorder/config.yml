@@ -1,0 +1,39 @@
+cfg-version: 11
+message: '&8[&eBorder Patrol&8] &cYou have reached the edge of this world!'
+round-border: false
+debug-mode: false
+whoosh-effect: true
+portal-redirection: true
+knock-back-dist: 4.0
+timer-delay-ticks: 5
+remount-delay-ticks: 0
+dynmap-border-enabled: true
+dynmap-border-message: World Border
+dynmap-border-hideByDefault: false
+dynmap-border-priority: 0
+player-killed-bad-spawn: false
+deny-enderpearl: true
+fill-autosave-frequency: 30
+bypass-list-uuids: []
+fill-memory-tolerance: 500
+prevent-block-place: false
+prevent-mob-spawn: false
+worlds:
+  world:
+    x: 0.0
+    z: 0.0
+    radiusX: 4096
+    radiusZ: 4096
+    wrapping: false
+  world_nether:
+    x: 0.0
+    z: 0.0
+    radiusX: 1024
+    radiusZ: 1024
+    wrapping: false
+  world_the_end:
+    x: 0.0
+    z: 0.0
+    radiusX: 256
+    radiusZ: 256
+    wrapping: false

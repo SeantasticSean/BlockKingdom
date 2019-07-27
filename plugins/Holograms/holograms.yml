@@ -1,0 +1,19 @@
+holograms:
+  Welcome:
+    location: world;-32.67448821634692;69.0;-35.56656373023886;24.900404;-73.34912
+    lines:
+    - §6==========
+    - §5Welcome to the
+    - §2Block§3Kingdom
+    - §6§lBETA
+    - §6==========
+  website:
+    location: world;-28.47047901205749;69.0;-41.50316454595448;10.650081;-270.5949
+    lines:
+    - §5Please go onto
+    - §fblockkingdom.org
+    - §5to find our §3Discord
+  wild:
+    location: world;-32.5784962183481;69.0;-47.48878112170424;83.25033;37.806477
+    lines:
+    - §fDo §2/wild §f to start your adventure!

@@ -1,0 +1,188 @@
+worth:
+
+  # Items not listed in this file will not be sellable on the server
+  # Setting the worth to 0 will sell items for free, delete the item or set to -1 to disable.
+
+  # This will set the worth of all logs to '2'
+  log: 0.47
+
+  # This will work similar to the above syntax
+  wool:
+    '0': 0.40
+    
+  # This will only allow selling leaves with datavalue '0' and '1'
+  leaves: 
+    '0': 0.10
+    '1': 0.10
+    
+  # This will allow the selling of all, but sells '0' slightly cheaper  
+  sapling:
+    '0': 0.20  
+    '*': 0.20
+
+
+  stonebutton: -1
+  wood: 0.11
+  arrow: 0.79
+  diamondpickaxe: -1
+  rawfish: 0.53
+  minecart: -1
+  leatherchestplate: -1
+  storageminecart: -1
+  leaves: -1
+  feather: 0.46
+  goldchestplate: -1
+  mushroomsoup: -1
+  bread: 0.32
+  stationarywater: -1
+  workbench: -1
+  stonehoe: -1
+  brownmushroom: 0.47
+  mossycobblestone: 0.81
+  diamondhoe: -1
+  woodsword: -1
+  torch: -1
+  grass: 0.8
+  poweredminecart: -1
+  snowball: 0.09
+  goldenapple: -1
+  leatherleggings: -1
+  diamondaxe: -1
+  slimeball: 0.50
+  fence: -1
+  stonespade: -1
+  claybrick: -1
+  noteblock: -1
+  ironaxe: -1
+  coalore: 5
+  clayball: -1
+  fishingrod: -1
+  ironhoe: -1
+  goldrecord: -1
+  ironpickaxe: -1
+  irondoor: -1
+  bucket: -1
+  redrose: 0.31
+  grilledpork: 0.62
+  gravel: 1.0
+  wooddoor: -1
+  chainmailhelmet: -1
+  ironchestplate: -1
+  diamondblock: 180
+  diamondhelmet: -1
+  goldhelmet: -1
+  redstonetorchon: -1
+  ironspade: -1
+  furnace: -1
+  ironsword: -1
+  dispenser: -1
+  woodaxe: -1
+  seeds: -1
+  painting: -1
+  woodplate: -1
+  redstoneore: -1
+  diamondspade: -1
+  waterbucket: -1
+  water: -1
+  bedrock: -1
+  irondoorblock: -1
+  goldhoe: -1
+  sand: 0.63
+  goldsword: -1
+  stoneaxe: -1
+  bookshelf: -1
+  ironblock: 63
+  jackolantern: -1
+  boat: -1
+  diamondchestplate: -1
+  redstonewire: 0.32
+  redmushroom: 0.46
+  string: 1.06
+  stoneplate: -1
+  wallsign: -1
+  cactus: 0.39
+  sulphur: 0.78
+  rails: -1
+  ironore: -1
+  leatherhelmet: -1
+  stone: 0.32
+  egg: 0.62
+  diamondore: -1
+  woodhoe: -1
+  goldleggings: -1
+  chainmailleggings: -1
+  yellowflower: -1
+  ironhelmet: -1
+  obsidian: 6.25
+  dirt: 0.63
+  leather: 0.90
+  leatherboots: -1
+  lever: -1
+  cobblestone: 0.16
+  cake: -1
+  woodstairs: -1
+  ironingot: 10
+  goldore: -1
+  pumpkin: 0.63
+  bed: -1
+  watch: -1
+  ironleggings: -1
+  sign: -1
+  doublestep: -1
+  woodpickaxe: -1
+  stonepickaxe: -1
+  chainmailboots: -1
+  diamondleggings: -1
+  cookedfish: 2.18
+  saddle: -1
+  cobblestonestairs: -1
+  tnt: -1
+  glowingredstoneore: -1
+  apple: 1.55
+  woodspade: -1
+  goldingot: 15
+  #
+  diode: -1
+  soil: -1
+  clay: 2.50
+  goldblock: 135
+  stick: -1
+  paper: -1
+  brick: -1
+  stationarylava: -1
+  chest: -1
+  #
+  sandstone: 0.33
+  goldpickaxe: -1
+  compass: -1
+  sugarcane: 0.75
+  diamondsword: -1
+  goldboots: -1
+  sponge: -1
+  stonesword: -1
+  coal: 5
+  goldaxe: -1
+  bone: 0.60
+  diamond: -1
+  glass: 1.25
+  goldspade: -1
+  lapisblock: 20
+  lavabucket: -1
+  wheat: 1.56
+  ladder: -1
+  sugarcaneblock: -1
+  bowl: -1
+  chainmailchestplate: -1
+  diamondboots: -1
+  lapisore: -1
+  lava: -1
+  milkbucket: -1
+  redstone: 3.34
+  greenrecord: -1
+  inksack: -1
+  glowstonedust: -1
+  book: -1
+  bow: -1
+  ironboots: -1
+  step: -1
+  sugar: -1

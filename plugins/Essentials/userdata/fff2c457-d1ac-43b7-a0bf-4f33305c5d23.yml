@@ -1,0 +1,31 @@
+lastAccountName: SeantasticSean
+timestamps:
+  login: 1564253311579
+  lastteleport: 1564254076352
+  kits:
+    member: 1564195368178
+  logout: 1564248967897
+ipAddress: 24.187.178.184
+lastlocation:
+  world: world
+  x: -3405.5659475334023
+  y: 66.0
+  z: -3395.356324499884
+  yaw: -172.04004
+  pitch: -17.577845
+money: '83.40450000000013971'
+homes:
+  home:
+    world: world
+    x: 3429.707994866185
+    y: 60.0
+    z: -890.5368702149368
+    yaw: 189.57962
+    pitch: -0.32544532
+logoutlocation:
+  world: world
+  x: 3430.461910412078
+  y: 60.0
+  z: -890.5746250858882
+  yaw: -109.339966
+  pitch: 16.548729

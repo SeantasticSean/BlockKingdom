@@ -1,0 +1,31 @@
+lastAccountName: End3rduty
+timestamps:
+  login: 1564252970902
+  logout: 1564249662845
+  lastteleport: 1564253333502
+  kits:
+    member: 1564183567477
+ipAddress: 73.54.255.249
+lastlocation:
+  world: world
+  x: -2186.845520474901
+  y: 18.0
+  z: 46.467650458844375
+  yaw: 18.003113
+  pitch: -12.608209
+logoutlocation:
+  world: world
+  x: -1818.2962304363018
+  y: 19.0
+  z: 1879.4434674073143
+  yaw: 47.621094
+  pitch: 2.2079341
+money: '44.33550000000007183'
+homes:
+  home:
+    world: world
+    x: -1769.300000011921
+    y: 20.0
+    z: 1900.5936736391207
+    yaw: 91.24341
+    pitch: 10.349993

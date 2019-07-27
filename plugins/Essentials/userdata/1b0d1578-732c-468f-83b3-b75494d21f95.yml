@@ -1,0 +1,30 @@
+lastAccountName: uxits
+timestamps:
+  login: 1564245777918
+  logout: 1564248425201
+  lastteleport: 1564248272039
+  kits:
+    member: 1564190505435
+ipAddress: 76.104.13.96
+lastlocation:
+  world: world
+  x: -38.52324438384747
+  y: 68.0
+  z: -41.41332265928405
+  yaw: -45.59375
+  pitch: 8.549795
+logoutlocation:
+  world: world
+  x: 267.4321710386362
+  y: 68.0
+  z: -711.1575369918284
+  yaw: 350.16806
+  pitch: 14.550004
+homes:
+  home:
+    world: world
+    x: 273.11074080724933
+    y: 71.0
+    z: -663.3000000119209
+    yaw: -208.33649
+    pitch: 59.77203

@@ -1,0 +1,29 @@
+lastAccountName: iGooMo
+timestamps:
+  login: 1564244029381
+  logout: 1564244118744
+  lastteleport: 1564244076589
+ipAddress: 24.209.206.59
+lastlocation:
+  world: world
+  x: -2826.3552510593167
+  y: 68.0
+  z: -3315.6222872822823
+  yaw: -101.0961
+  pitch: 27.204458
+money: '2157.02799999999999411'
+logoutlocation:
+  world: world
+  x: -3399.5093457668704
+  y: 6.0
+  z: -3396.9965280801816
+  yaw: -178.97517
+  pitch: 32.58866
+homes:
+  home:
+    world: world
+    x: -3400.9428231741476
+    y: 6.0
+    z: -3399.6970597113072
+    yaw: -299.1338
+    pitch: 21.054623

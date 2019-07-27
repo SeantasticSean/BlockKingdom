@@ -1,0 +1,31 @@
+Command:
+  Wilderness:
+    permission: btf.wilderness
+    no-permission-msg: '&cYou dont have permission!'
+    delay: 5
+    countdown: true
+    countdown-message: '&f> &eWarping to &2Wilderness &ein &a{seconds}. &eDo not move!'
+    cancelled-due-movement: '&f> &cYou moved while warming up!'
+    deny-teleport-to-factions: false
+    max-tries-to-find-location: 3000
+    no-suitable-location: '&f> &cWe didnt find any suitable location, try again!'
+    teleporting: '&f> &eTeleporting...'
+    enabled: true
+    blacklisted-blocks:
+    - WATER
+    - LAVA
+    blacklisted-biomes:
+    - OCEAN
+    - JUNGLE
+    - DEEP_OCEAN
+    world-not-allowed: '&cThe world you are in, does not allow &7/wild &c!'
+    Worlds:
+      world:
+        max-radius: 2048
+        min-radius: 256
+      world_nether:
+        max-radius: 512
+        min-radius: 64
+      other_world_name:
+        max-radius: 3000
+        min-radius: 600

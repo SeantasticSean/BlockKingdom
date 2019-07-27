@@ -1,0 +1,31 @@
+lastAccountName: zKirk
+timestamps:
+  login: 1564242069320
+  lastteleport: 1564242086789
+  logout: 1564242143492
+  kits:
+    member: 1564242103345
+ipAddress: 65.189.0.145
+lastlocation:
+  world: world
+  x: -32.14284425742085
+  y: 67.0
+  z: -42.64707170480177
+  yaw: 6.305908
+  pitch: 17.69982
+logoutlocation:
+  world: world
+  x: -3231.4296997650176
+  y: 12.0
+  z: -3405.0677056140544
+  yaw: -286.57327
+  pitch: -2.099875
+money: '3981.39500000000001112'
+homes:
+  home:
+    world: world
+    x: -3231.311839506384
+    y: 12.0
+    z: -3407.305542764628
+    yaw: -309.07306
+    pitch: 25.800058

@@ -1,0 +1,23 @@
+lastAccountName: k0tu
+timestamps:
+  login: 1564207995911
+  logout: 1564220663700
+  lastteleport: 1564210198889
+  kits:
+    member: 1564212173910
+ipAddress: 76.90.93.70
+lastlocation:
+  world: world
+  x: -34.3677473956095
+  y: 67.0
+  z: -39.44595477355886
+  yaw: -29.378202
+  pitch: 12.2504425
+logoutlocation:
+  world: world
+  x: 1012.2767440836083
+  y: 63.5625
+  z: -3458.038309989212
+  yaw: 62.06192
+  pitch: 15.333078
+money: '1843.21250000000000913'

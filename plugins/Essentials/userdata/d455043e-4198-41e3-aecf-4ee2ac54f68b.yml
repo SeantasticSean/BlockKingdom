@@ -1,0 +1,31 @@
+lastAccountName: CringeMonster
+timestamps:
+  login: 1564197198949
+  lastteleport: 1564200721122
+  logout: 1564197190123
+  kits:
+    member: 1564187079070
+ipAddress: 99.22.48.228
+lastlocation:
+  world: world
+  x: -1980.3768874210216
+  y: 19.0
+  z: 3532.699999988079
+  yaw: -263.1466
+  pitch: 21.38701
+money: '1148.71000000000003096'
+homes:
+  home:
+    world: world
+    x: -2034.3632601202346
+    y: 55.0
+    z: 3508.9249653618413
+    yaw: -77.558105
+    pitch: 21.149733
+logoutlocation:
+  world: world
+  x: -1527.1599700510167
+  y: 69.00133597911214
+  z: 1637.5267923131796
+  yaw: -180.5317
+  pitch: 22.202671

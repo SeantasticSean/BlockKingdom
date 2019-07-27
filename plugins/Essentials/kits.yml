@@ -1,0 +1,228 @@
+# EssentialsX new Kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - itemID[:DataValue/Durability] Amount [Enchantment:Level].. [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+#Vote Ranks
+  member:
+    delay: 604800
+    items:
+    - iron_helmet 1
+    - iron_chestplate 1
+    - iron_leggings 1
+    - iron_boots 1
+    - iron_sword 1
+    - iron_shovel 1
+    - iron_pickaxe 1
+    - iron_axe 1
+    - cooked_beef 16
+  jade:
+    delay: 604800
+    items:
+    - iron_helmet 1 protection:1
+    - iron_chestplate 1 protection:3
+    - iron_leggings 1 protection:3
+    - iron_boots 1 protection:3
+    - iron_sword 1 sharpness:2
+    - iron_shovel 1 efficiency:3
+    - iron_pickaxe 1 efficiency:3
+    - iron_axe 1 efficiency:3
+    - cooked_beef 16
+  effvipickaxe:
+    delay: 100000000000000000000
+    items:
+    - diamond_pickaxe 1 efficiency:6 unbreaking:4 silktouch:1
+  garnet:
+    delay: 604800
+    items:
+    - iron_helmet 1 protection:2
+    - iron_chestplate 1 protection:2
+    - iron_leggings 1 protection:2
+    - iron_boots 1 protection:2
+    - iron_sword 1 sharpness:3
+    - iron_shovel 1 efficiency:3 unbreaking:2
+    - iron_pickaxe 1 efficiency:3 unbreaking:2
+    - iron_axe 1 efficiency:3 unbreaking:2
+    - cooked_beef 16
+  amethyst:
+    delay: 604800
+    items:
+    - iron_helmet 1 protection:3
+    - iron_chestplate 1 protection:3
+    - iron_leggings 1 protection:3
+    - iron_boots 1 protection:3
+    - iron_sword 1 sharpness:3 unbreaking:2
+    - diamond_shovel 1 efficiency:3 unbreaking:2
+    - diamond_pickaxe 1 efficiency:3 unbreaking:3
+    - iron_axe 1 efficiency:3 unbreaking:2
+    - cooked_beef 16
+  #overlord:
+   # delay: 604800
+    #items:
+    #- diamond_helmet 1 protection:4 unbreaking:3
+    #- diamond_chestplate 1 protection:4 unbreaking:3
+    #- diamond_leggings 1 protection:4 unbreaking:3
+    #- diamond_boots 1 protection:4 unbreaking:3
+    #- diamond_sword 1 sharpness:4 unbreaking:3
+    #- diamond_shovel 1 efficiency:4 unbreaking:3
+    #- diamond_pickaxe 1 efficiency:4 unbreaking:3 fortune:3
+    #- diamond_axe 1 efficiency:4 unbreaking:3
+    #- cooked_beef 64
+  #mystic:
+    #delay: 604800
+    #items:
+    #- diamond_helmet 1 protection:4 unbreaking:5
+    #- diamond_chestplate 1 protection:4 unbreaking:5
+    #- diamond_leggings 1 protection:4 unbreaking:5
+    #- diamond_boots 1 protection:4 unbreaking:5
+    #- diamond_sword 1 sharpness:5 unbreaking:5
+    #- diamond_shovel 1 efficiency:5 unbreaking:5
+    #- diamond_pickaxe 1 efficiency:5 unbreaking:5 fortune:3
+    #- diamond_axe 1 efficiency:5 unbreaking:5
+    #- cooked_beef 64
+  #titan:
+    #delay: 1209600
+    #items:
+    #- diamond_helmet 1 protection:5 unbreaking:3
+    #- diamond_chestplate 1 protection:5 unbreaking:3
+    #- diamond_leggings 1 protection:5 unbreaking:3
+    #- diamond_boots 1 protection:5 unbreaking:3
+    #- diamond_sword 1 sharpness:6 unbreaking:4
+    #- diamond_shovel 1 efficiency:6 unbreaking:4
+    #- diamond_pickaxe 1 efficiency:6 unbreaking:4 fortune:4
+    #- diamond_axe 1 efficiency:6 unbreaking:4
+    #- cooked_beef 64
+#New Ranks Below
+  sapphire:
+    delay: 1209600
+    items:
+    - diamond_helmet 1 protection:3 unbreaking:3
+    - diamond_chestplate 1 protection:3 unbreaking:3
+    - diamond_leggings 1 protection:3 unbreaking:3
+    - diamond_boots 1 protection:3 unbreaking:3
+    - diamond_sword 1 sharpness:4 unbreaking:3
+    - diamond_shovel 1 efficiency:4 unbreaking:3
+    - diamond_pickaxe 1 efficiency:4 unbreaking:3
+    - diamond_axe 1 efficiency:4 unbreaking:3
+    - cooked_beef 64
+  diamond:
+    delay: 1209600
+    items:
+    - diamond_helmet 1 protection:2 unbreaking:2
+    - diamond_chestplate 1 protection:2 unbreaking:2
+    - diamond_leggings 1 protection:2 unbreaking:2
+    - diamond_boots 1 protection:2 unbreaking:2
+    - diamond_sword 1 sharpness:3 unbreaking:2
+    - diamond_shovel 1 efficiency:3 unbreaking:2
+    - diamond_pickaxe 1 efficiency:3 unbreaking:2 fortune:2
+    - diamond_axe 1 efficiency:3 unbreaking:2
+    - cooked_beef 64
+  #earl:
+    #delay: 1209600
+    #items:
+    #- diamond_helmet 1 protection:1 unbreaking:1
+    #- diamond_chestplate 1 protection:1 unbreaking:1
+    #- diamond_leggings 1 protection:1 unbreaking:1
+    #- diamond_boots 1 protection:1 unbreaking:1
+    #- diamond_sword 1 sharpness:2 unbreaking:1
+    #- diamond_shovel 1 efficiency:2 unbreaking:1
+    #- diamond_pickaxe 1 efficiency:2 unbreaking:1 fortune:1
+    #- diamond_axe 1 efficiency:2 unbreaking:1
+    #- cooked_beef 64
+  #baron:
+    #delay: 1209600
+    #items:
+    #- iron_helmet 1 protection:2 unbreaking:1
+    #- iron_chestplate 1 protection:2 unbreaking:1
+    #- iron_leggings 1 protection:2 unbreaking:1
+    #- iron_boots 1 protection:2 unbreaking:1
+    #- iron_sword 1 sharpness:2 unbreaking:1
+    #- iron_shovel 1 efficiency:2 unbreaking:1
+    #- iron_pickaxe 1 efficiency:2 unbreaking:1 fortune:1
+    #- iron_axe 1 efficiency:2 unbreaking:1
+    #- iron_hoe 1 unbreaking:3
+    #- cooked_beef 64
+  protectionivarmor:
+    delay: 0
+    items:
+    - diamond_helmet 1 protection:4 unbreaking:3
+    - diamond_chestplate 1 protection:4 unbreaking:3
+    - diamond_leggings 1 protection:4 unbreaking:3
+    - diamond_boots 1 protection:4 unbreaking:3
+  protectionvarmor:
+    delay: 0
+    items:
+    - diamond_helmet 1 protection:5 unbreaking:3
+    - diamond_chestplate 1 protection:5 unbreaking:3
+    - diamond_leggings 1 protection:5 unbreaking:3
+    - diamond_boots 1 protection:5 unbreaking:3
+  sharpnessvisword:
+    delay: 0
+    items:
+    - diamond_sword 1 sharpness:6 unbreaking:3
+  fireaspectiiisword:
+    delay: 0
+    items:
+    - diamond_sword 1 fireaspect:3 unbreaking:3
+  knockbackiiisword:
+    delay: 0
+    items:
+    - diamond_sword 1 knockback:3 unbreaking:3
+  lootingivsword:
+    delay: 0
+    items:
+    - diamond_sword 1 looting:4 unbreaking:3
+  powervibow:
+    delay: 0
+    items:
+    - bow 1 power:6 unbreaking:3
+  punchiiibow:
+    delay: 0
+    items:
+    - bow 1 punch:3 unbreaking:3
+  fortuneivpick:
+    delay: 0
+    items:
+    - diamond_pickaxe 1 fortune:4 unbreaking:3
+  efficiencyvipick:
+    delay: 0
+    items:
+    - diamond_pickaxe 1 efficiency:6 unbreaking:3
+  efficiencyvishovel:
+    delay: 0
+    items:
+    - diamond_shovel 1 efficiency:6 unbreaking:3
+  sharpnessviaxe:
+    delay: 0
+    items:
+    - diamond_axe 1 sharpness:6 unbreaking:3
+  fireaspectiiiaxe:
+    delay: 0
+    items:
+    - diamond_axe 1 fireaspect:3 unbreaking:3
+  knockbackiiiaxe:
+    delay: 0
+    items:
+    - diamond_axe 1 knockback:3 unbreaking:3
+  lootingivaxe:
+    delay: 0
+    items:
+    - diamond_axe 1 looting:4 unbreaking:3
+  efficiencyviaxe:
+    delay: 0
+    items:
+    - diamond_axe 1 efficiency:6 unbreaking:3
+  lureivrod:
+    delay: 0
+    items:
+    - fishing_rod 1 lure:4 unbreaking:3
+  luckoftheseaivrod:
+    delay: 0
+    items:
+    - fishing_rod 1 luck_of_the_sea:4 unbreaking:3
