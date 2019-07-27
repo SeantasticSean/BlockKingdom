@@ -5,16 +5,3 @@
 #     Rank: admin
 #     name: ChickensDying
 
-<<<<<<< HEAD
-ChickensDying: false
-=======
-staff:
-  ChickensDying:
-    OnDuty: correct
-    Rank: admin
-    name: ChickensDying
-  Sammy5k:
-    OnDuty: correct
-    Rank: admin
-    name: Sammy5k
->>>>>>> 9c3fad0a55db718b8bf97a8287c8f5eadcc7544e
