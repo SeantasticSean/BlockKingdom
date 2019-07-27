@@ -1,19 +1,19 @@
 lastAccountName: ItzMecha
 timestamps:
   login: 1564259635596
-  lastteleport: 1564253886602
+  lastteleport: 1564260993151
   logout: 1564252359515
   kits:
     member: 1564244271198
 ipAddress: 73.254.245.54
 lastlocation:
   world: world
-  x: -1653.699999988079
-  y: 52.0
-  z: 1914.9971916872319
-  yaw: 263.99927
-  pitch: 9.148062
-money: '90.26699999999974465'
+  x: -3400.8173552499884
+  y: 66.0
+  z: -3402.6377794270406
+  yaw: -136.18883
+  pitch: 16.290054
+money: '944.92099999999983289'
 logoutlocation:
   world: world
   x: -3409.3392423205255

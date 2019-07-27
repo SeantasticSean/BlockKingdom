@@ -4,4 +4,16 @@
 #     OnDuty: correct
 #     Rank: admin
 #     name: ChickensDying
-
+staff:
+  ChickensBurning:
+    OnDuty: correct
+    Rank: admin
+    name: ChickensBurning
+  Sammy5k:
+    OnDuty: correct
+    Rank: admin
+    name: Sammy5k
+  ChickensDying:
+    OnDuty: correct
+    Rank: admin
+    name: ChickensDying
