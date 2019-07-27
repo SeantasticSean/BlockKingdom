@@ -1,8 +1,8 @@
 lastAccountName: uxits
 timestamps:
-  login: 1564245777918
+  login: 1564259866815
   logout: 1564248425201
-  lastteleport: 1564248272039
+  lastteleport: 1564260132975
   kits:
     member: 1564190505435
 ipAddress: 76.104.13.96
@@ -28,3 +28,4 @@ homes:
     z: -663.3000000119209
     yaw: -208.33649
     pitch: 59.77203
+money: '0.0'

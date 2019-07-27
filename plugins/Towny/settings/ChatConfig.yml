@@ -77,25 +77,25 @@ heroicdeathtoirc:
 channel_formats:
   # This is the format which will be used for GLOBAL chat/channels.
   # This is also the format used when you have modify_chat.enable: true, but use other plugins to handle chat.
-  global: '{channelTag} {worldname}{townytagoverride}{townycolor}{permprefix}{group} {townyprefix}{modplayername}{townypostfix}{permsuffix}&f:{msgcolour} {msg}'
+  global: '&8[{group}{townytagoverride}&8] {modplayername}&8: {msgcolour}{msg}'
   # TOWN channel types.
-  town: '{channelTag} {townycolor}{permprefix}{townyprefix}{playername}{townypostfix}{permsuffix}&f:{msgcolour} {msg}'
+  town: '&8[{channeltag}&3{townytag}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
   # NATION channel types.
-  nation: '{channelTag} {towntagoverride}{townycolor}{permprefix}{townyprefix}{playername}{townypostfix}{permsuffix}&f:{msgcolour} {msg}'
+  nation: '&8[{channeltag}{towntagoverride}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
   # DEFAULT channel types.
-  default: '{channelTag} {permprefix}{playername}{permsuffix}&f:{msgcolour} {msg}'
+  default: '&8[{group}{townytagoverride}&8] {modplayername}&8: {msgcolour}{msg}'
  
 tag_formats:
-  world: '&f[&f%s&f] '
-  town: '&f[&3%s&f] '
-  nation: '&f[&e%s&f] '
+  world: '&8|%s'
+  town: '&8|&3%s'
+  nation: '&8|&2%s'
   # First %s is the nation tag, second is the town tag.
   # You may also use %t for the town tag and %n for the nation tag!
-  both: '&f[&6%s&f|&3%s&f] '
+  both: '&8|&2%s&8|&3%s'
  
 colour:
-  king: '&6'
-  mayor: '&b'
+  king: '&2'
+  mayor: '&3'
   resident: '&f'
  
 modify_chat:

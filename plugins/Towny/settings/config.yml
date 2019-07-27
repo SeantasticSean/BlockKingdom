@@ -190,15 +190,15 @@ town:
   # Default tax settings for new towns.
   default_taxes:
     # Default amount of tax of a new town. This must be lower than the economy.daily_taxes.max_tax_percent setting.
-    tax: '0.0'
+    tax: '5.0'
     # Default amount of shop tax of a new town.
-    shop_tax: '0.0'
+    shop_tax: '5.0'
     # Default amount of embassy tax of a new town.
-    embassy_tax: '0.0'
+    embassy_tax: '5.0'
     # Default amount for town's plottax costs.
     plot_tax: '0.0'
     # Default status of new town's taxpercentage. True means that the default_tax is treated as a percentage instead of a fixed amount.
-    taxpercentage: 'false'
+    taxpercentage: 'true'
     # A required minimum tax amount for the default_tax, will not change any towns which already have a tax set.
     # Do not forget to set the default_tax to more than 0 or new towns will still begin with a tax of zero.
     minimumtax: '0.0'
@@ -276,7 +276,7 @@ new_world_settings:
  
   fire:
     # Allow fire to be lit and spread in this world.
-    world_firespread_enabled: 'true'
+    world_firespread_enabled: 'false'
     # force_fire_on is a global flag and overrides any towns flag setting
     force_fire_on: 'false'
  
@@ -762,7 +762,7 @@ default_perm_flags:
   # switch - trigger or activate switches (as defined in switch_ids)
   town:
     default:
-      pvp: 'true'
+      pvp: 'false'
       fire: 'false'
       explosion: 'false'
       mobs: 'false'

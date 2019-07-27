@@ -1,6 +1,6 @@
 lastAccountName: ItzMecha
 timestamps:
-  login: 1564258199878
+  login: 1564259635596
   lastteleport: 1564253886602
   logout: 1564252359515
   kits:
@@ -13,7 +13,7 @@ lastlocation:
   z: 1914.9971916872319
   yaw: 263.99927
   pitch: 9.148062
-money: '19818.76599999999974495'
+money: '90.26699999999974465'
 logoutlocation:
   world: world
   x: -3409.3392423205255

@@ -33,55 +33,37 @@
 
 Channels:
     general:
-        commands: [g]
+        commands: [g,global]
         type: GLOBAL
-        channeltag: '&f[g]'
+        channeltag: '&fG'
         messagecolour: '&f'
         permission: 'towny.chat.general'
         craftIRCTag: 'admin'
         range: '-1'
         
     town:
-        commands: [tc]
+        commands: [tc,nationchat]
         type: TOWN
-        channeltag: '&f[&3TC&f]'
-        messagecolour: '&b'
+        channeltag: '&3TC'
+        messagecolour: '&3'
         permission: 'towny.chat.town'
         craftIRCTag: 'admin'
         range: '-1'
          
     nation:
-        commands: [nc]
+        commands: [nc,nationchat]
         type: NATION
-        channeltag: '&f[&6NC&f]'
-        messagecolour: '&e'
+        channeltag: '&2NC'
+        messagecolour: '&2'
         permission: 'towny.chat.nation'
         craftIRCTag: 'admin'
         range: '-1'
         
-    admin:
-        commands: [a,admin]
+    staff:
+        commands: [sc,staff,staffchat]
         type: DEFAULT
-        channeltag: '&f[&4ADMIN&f]'
+        channeltag: '&cSC'
         messagecolour: '&c'
-        permission: 'towny.chat.admin'
+        permission: 'towny.chat.staff'
         craftIRCTag: 'admin'
         range: '-1'
-        
-    mod:
-        commands: [m,mod]
-        type: DEFAULT
-        channeltag: '&f[&9MOD&f]'
-        messagecolour: '&5'
-        permission: 'towny.chat.mod'
-        craftIRCTag: 'admin'
-        range: '-1'
-        
-    local:
-        commands: [l,lc]
-        type: GLOBAL
-        channeltag: '&f[local]'
-        messagecolour: '&f'
-        permission: 'towny.chat.local'
-        craftIRCTag: 'admin'
-        range: '100'
