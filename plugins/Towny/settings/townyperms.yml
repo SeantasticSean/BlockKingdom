@@ -51,6 +51,8 @@ towns:
         - towny.claimed.owntown.*
         - towny.command.nation.new
         - towny.outlaw.jailer
+        - towny.command.town.toggle.pvp
+        - towny.command.town.toggle.mobs
 
     ranks:
         # Ranks contain additional permissions residents will be

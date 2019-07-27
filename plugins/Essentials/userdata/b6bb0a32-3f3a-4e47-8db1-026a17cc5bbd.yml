@@ -8,11 +8,11 @@ timestamps:
 ipAddress: 67.167.123.194
 lastlocation:
   world: world
-  x: -42.275870531184275
-  y: 67.0
-  z: -40.210927072969326
-  yaw: -123.44378
-  pitch: 28.799814
+  x: -1105.1733495924993
+  y: 96.0
+  z: 1124.264585345265
+  yaw: -159.44969
+  pitch: 29.550032
 money: '0'
 afk: false
 logoutlocation:
