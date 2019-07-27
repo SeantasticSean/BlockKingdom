@@ -1,1 +1,16 @@
-ChickensDying: false
+# Example
+# staff:
+#   ChickensDying:
+#     OnDuty: correct
+#     Rank: admin
+#     name: ChickensDying
+
+staff:
+  ChickensDying:
+    OnDuty: correct
+    Rank: admin
+    name: ChickensDying
+  Sammy5k:
+    OnDuty: correct
+    Rank: admin
+    name: Sammy5k
