@@ -1,1 +1,8 @@
+# Example
+# staff:
+#   ChickensDying:
+#     OnDuty: correct
+#     Rank: admin
+#     name: ChickensDying
+
 ChickensDying: false

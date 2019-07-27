@@ -75,7 +75,7 @@ VoteReminding:
       ShowTime: 50
       FadeOut: 10
     ActionBar:
-      Message: '&eRemember to vote for BlockKingdom! 
+      Message: '&eRemember to vote for BlockKingdom!' 
       Delay: 30
     
 # ------------------------------------------------

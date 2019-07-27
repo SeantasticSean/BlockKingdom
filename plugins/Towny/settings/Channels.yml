@@ -33,7 +33,7 @@
 
 Channels:
     general:
-        commands: [g]
+        commands: [g,global]
         type: GLOBAL
         channeltag: '&fG'
         messagecolour: '&f'
@@ -61,7 +61,7 @@ Channels:
         
     staff:
         commands: [sc,staff,staffchat]
-        type: STAFF
+        type: DEFAULT
         channeltag: '&cSC'
         messagecolour: '&c'
         permission: 'towny.chat.staff'

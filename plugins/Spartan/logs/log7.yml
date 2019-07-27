@@ -1,0 +1,13 @@
+(1)[2019/07/27 19:48:03]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS:
+  19.94), (Plib: false), (Online: 4), (t: interact, c: chest, r: crafting-table)]'
+(2)[2019/07/27 19:50:44]: '[Spartan Build 250-105521/596204925] zNihility failed GhostHand
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 263ms), (TPS: 19.98),
+  (Plib: false), (Online: 4), (t: break, c: stone, r: cobblestone)]'
+(3)[2019/07/27 19:50:53]: '(False Positive) [Spartan Build 250-105521/596204925] zNihility
+  failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 267ms), (TPS:
+  19.89), (Plib: false), (Online: 4), (t: neutral, d: 0.41866400777482937, r: 0.41999998688697815,
+  od: -0.07840000152587834, ds: 0.4970640093007077, a: 15, i: true, c: 1)]'
+(4)[2019/07/27 19:52:54]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 49ms), (TPS:
+  19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
