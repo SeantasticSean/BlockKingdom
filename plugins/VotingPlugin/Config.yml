@@ -769,8 +769,8 @@ MileStones:
   # Allows multiple milestones
   # Number be around ' (E.g. '1')
   # Can have multiple listed here
-  '20':
-    Enabled: false
+  '10':
+    Enabled: true
     Rewards: 
       Messages:
         Player: '&aYou got %milestone% milestone votes!'
