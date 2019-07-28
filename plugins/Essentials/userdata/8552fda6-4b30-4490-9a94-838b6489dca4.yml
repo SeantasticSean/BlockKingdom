@@ -1,7 +1,7 @@
 lastAccountName: Sammy5k
 timestamps:
   login: 1564291246964
-  logout: 0
+  logout: 1564291566630
   lastteleport: 1564290074302
   kits:
     member: 1564183423398
@@ -14,12 +14,12 @@ lastlocation:
   yaw: 50.556854
   pitch: 28.949734
 logoutlocation:
-  world: world
-  x: 1009.0108875631997
-  y: 58.35482348234129
-  z: -3461.699999988079
-  yaw: -197.06177
-  pitch: 34.949707
+  world: world_nether
+  x: -527.107157400294
+  y: 44.0
+  z: -521.1023865138592
+  yaw: 140.94983
+  pitch: 13.787043
 powertools: {}
 afk: false
 godmode: false
