@@ -622,3 +622,44 @@
 (220)[2019/07/28 00:35:31]: '[Spartan Build 250-105521/596204925] Cirke failed NoFall
   (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.99),
   (Plib: false), (Online: 4), (t: ratio, b: 19)]'
+(221)[2019/07/28 00:36:19]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Cirke failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms),
+  (TPS: 19.93), (Plib: false), (Online: 4), (t: upwards(before), dy: 0.5784323072813731,
+  l: 0.55)]'
+(222)[2019/07/28 00:39:03]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 55ms), (TPS:
+  19.98), (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(223)[2019/07/28 00:40:39]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.81), (Plib: false), (Online: 4), (t: interact, c: chest, r: crafting-table)]'
+(224)[2019/07/28 00:44:25]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 98ms), (TPS:
+  14.69), (Plib: false), (Online: 4), (t: break, c: birch-log, r: birch-wood)]'
+(225)[2019/07/28 00:45:52]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 14.53),
+  (Plib: false), (Online: 4), (t: break, c: stone, r: stone)]'
+(226)[2019/07/28 00:46:04]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS:
+  19.81), (Plib: false), (Online: 4), (t: break, c: spruce-log, r: spruce-log)]'
+(227)[2019/07/28 00:52:29]: Cirke found 1 gold-ore on -1660, 12, 1824
+(228)[2019/07/28 01:12:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  50ms), (TPS: 19.95), (Plib: false), (Online: 3), (t: pre, d: -2.406124940395351,
+  ds: 2.406124940395351, a: 3, r: 0.3948750119209308)]'
+(229)[2019/07/28 01:12:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Clip (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  50ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: speed(block-change), block(s):
+  granite, ds: 0.26796082236561286, dm: 0.25, dm_s: 0.25)]'
+(230)[2019/07/28 01:12:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Clip (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  50ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: speed(block-change), block(s):
+  granite, ds: 0.2654176910622174, dm: 0.25, dm_s: 0.25)]'
+(231)[2019/07/28 01:14:21]: '[Spartan Build 250-105521/596204925] End3rduty failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS:
+  19.81), (Plib: false), (Online: 3), (t: break, c: terracotta, r: terracotta)]'
+(232)[2019/07/28 01:17:03]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 19.92),
+  (Plib: false), (Online: 3), (t: break, c: stone, r: stone)]'
+(233)[2019/07/28 01:19:45]: '[Spartan Build 250-105521/596204925] End3rduty failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 49ms), (TPS:
+  19.95), (Plib: false), (Online: 3), (t: interact, c: chest, r: iron-block)]'

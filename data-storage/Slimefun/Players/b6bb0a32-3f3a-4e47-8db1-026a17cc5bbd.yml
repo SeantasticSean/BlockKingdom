@@ -1,3 +1,12 @@
 backpacks:
   '0':
     size: 9
+researches:
+  '1': true
+  '4': true
+  '35': true
+  '18': true
+  '30': true
+  '32': true
+  '0': true
+  '53': true

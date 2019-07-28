@@ -1,26 +1,26 @@
 lastAccountName: Cirke
 timestamps:
-  login: 1564273907772
-  logout: 1564272987034
-  lastteleport: 1564275560771
+  login: 1564283619667
+  logout: 1564286314965
+  lastteleport: 1564284915002
   kits:
     member: 1564195806624
 ipAddress: 73.95.152.9
 lastlocation:
   world: world
-  x: -1682.710484443913
+  x: -1674.300000011921
   y: 11.0
-  z: 1836.300000011921
-  yaw: -82.25366
-  pitch: 27.299992
+  z: 1734.1570038759724
+  yaw: -343.55078
+  pitch: 6.8044424
 logoutlocation:
   world: world
-  x: -1674.8952954426413
-  y: 11.0
-  z: 1860.9525698055998
-  yaw: -179.4124
-  pitch: 14.814165
-money: '2077.8125000000000438'
+  x: -1674.3100733757813
+  y: 10.0
+  z: 1794.663857236172
+  yaw: -254.16455
+  pitch: -60.08853
+money: '2591.3905000000000665'
 homes:
   home:
     world: world

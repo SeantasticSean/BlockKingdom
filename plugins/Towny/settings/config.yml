@@ -1,10 +1,8 @@
 version:
   # This is the current version of Towny.  Please do not edit.
-  version: 0.93.0.0
+  version: 0.94.0.0
   # This is for showing the changelog on updates.  Please do not edit.
-  last_run_version: 0.93.0.0
-  # Minimum required version of CraftBukkit.  Please do not edit.
-  bukkit_version: '2918'
+  last_run_version: 0.94.0.0
 # The language file you wish to use
 language: english.yml
  
@@ -403,6 +401,7 @@ global_town_settings:
   # If the number is 0, towns will not a proximity to a nation.
   nation_requires_proximity: '0.0'
   # List of blocks which can be modified on farm plots, as long as player is also allowed in the plot's '/plot perm' line.
+  # Not included by default but some servers add GRASS_BLOCK,FARMLAND,DIRT to their list.
   farm_plot_allow_blocks: LONG_GRASS,DOUBLE_PLANT,YELLOW_FLOWER,RED_ROSE,PUMPKIN_STEM,MELON_STEM,BEETROOT_BLOCK,CARROT,POTATO,CROPS,MELON_BLOCK,PUMPKIN,BEETROOT_BLOCK,CHORUS_PLANT,CHORUS_FLOWER
   # List of animals which can be kiled on farm plots by town residents.
   farm_animals: PIG,COW,CHICKEN,SHEEP,MOOSHROOM
@@ -418,9 +417,12 @@ global_town_settings:
   # The amount of residents a town needs to claim an outpost,
   # Setting this value to 0, means a town can claim outposts no matter how many residents
   minimum_amount_of_residents_in_town_for_outpost: '0'
+  # If People should keep their inventories on death in a town
+  # Is not guaranteed to work with other keep inventory plugins!
+  keep_inventory_on_death_in_town: 'false'
   # If People should keep their experience on death in a town
   # Is not guaranteed to work with other keep experience plugins!
-  keep_inventory_on_death_in_town: 'false'
+  keep_experience_on_death_in_town: 'false'
   # Maximum amount that a town can set their plot, embassy, shop, etc plots' prices to.
   # Setting this higher can be dangerous if you use Towny in a mysql database. Large numbers can become shortened to scientific notation. 
   maximum_plot_price_cost: '1000000.0'
@@ -473,6 +475,9 @@ global_nation_settings:
   # When war or peace is set, it is only possible to teleport to the nations,
   # when there is a war or peace.
   allow_nation_spawn_travel_ally: 'true'
+  # If higher than 0, it will limit how many towns can be joined into a nation.
+  # Does not affect existing nations that are already over the limit.
+  max_towns_per_nation: '0'
   default:
     # If set to true, any newly made nation will have their spawn set to public.
     public: 'false'
@@ -486,7 +491,7 @@ global_nation_settings:
  
 plugin:
  
-  # Valid load and save types are: flatfile, mysql, sqlite, h2.
+  # Valid load and save types are: flatfile, mysql, h2.
   database:
     database_load: flatfile
     database_save: flatfile
@@ -518,14 +523,10 @@ plugin:
     using_essentials: 'false'
  
     # This enables/disables all the economy functions of Towny.
-    # This will first attempt to use Vault to bridge your economy plugin with Towny.
-    # If Vault is not present it will attempt to find the old iConomy 5.01 plugin.
-    # If neither Vault or iConomy 5.01 are present it will not be possible to create towns or do any operations that require money.
+    # This will first attempt to use Vault or Reserve to bridge your economy plugin with Towny.
+    # If Reserve/Vault is not present it will attempt to find a supported economy plugin.
+    # If neither Vault/Reserve or supported economy are present it will not be possible to create towns or do any operations that require money.
     using_economy: 'true'
- 
-    # True to attempt to use GroupManager, PEX, bPermissions, Permissions2/3 or BukkitPerms
-    # False to disable permission checks and rely on Towny settings.
-    using_permissions: 'true'
  
   day_timer:
     # The number of hours in each "day".
@@ -638,12 +639,6 @@ protection:
  
   # When preventing PVP prevent the use of these potions.
   potion_types: BLINDNESS,CONFUSION,HARM,HUNGER,POISON,SLOW,SLOW_DIGGING,WEAKNESS,WITHER
- 
-  # Prevent fly and double block jump cheats.
-  cheat_protection: 'true'
- 
-  # The amount of time it takes for a protected block to regenerate.  Use zero for no delay.
-  regen_delay: 0s
  
  
   ############################################################
