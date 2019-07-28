@@ -167,7 +167,7 @@ ENDER_BOOTS:
   allow-disenchanting: true
   required-permission: ''
 MAGIC_EYE_OF_ENDER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -366,7 +366,7 @@ DAMASCUS_STEEL_BOOTS:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
 REINFORCED_ALLOY_HELMET:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -374,7 +374,7 @@ REINFORCED_ALLOY_HELMET:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
 REINFORCED_ALLOY_CHESTPLATE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -382,7 +382,7 @@ REINFORCED_ALLOY_CHESTPLATE:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
 REINFORCED_ALLOY_LEGGINGS:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -390,7 +390,7 @@ REINFORCED_ALLOY_LEGGINGS:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
 REINFORCED_ALLOY_BOOTS:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -862,7 +862,7 @@ STAFF_ELEMENTAL:
   allow-disenchanting: true
   required-permission: ''
 STAFF_ELEMENTAL_WIND:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -876,7 +876,7 @@ STAFF_ELEMENTAL_WATER:
   allow-disenchanting: true
   required-permission: ''
 DURALUMIN_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -888,11 +888,11 @@ DURALUMIN_MULTI_TOOL:
       name: Portable Crafter
       item: PORTABLE_CRAFTER
     '1':
-      enabled: true
+      enabled: false
       name: Magic Eye of Ender
       item: MAGIC_EYE_OF_ENDER
     '2':
-      enabled: true
+      enabled: false
       name: Wind Staff
       item: STAFF_ELEMENTAL_WIND
     '3':
@@ -900,7 +900,7 @@ DURALUMIN_MULTI_TOOL:
       name: Grappling Hook
       item: GRAPPLING_HOOK
 SOLDER_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -924,7 +924,7 @@ SOLDER_MULTI_TOOL:
       name: Grappling Hook
       item: GRAPPLING_HOOK
 BILLON_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -948,7 +948,7 @@ BILLON_MULTI_TOOL:
       name: Grappling Hook
       item: GRAPPLING_HOOK
 STEEL_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -972,7 +972,7 @@ STEEL_MULTI_TOOL:
       name: Grappling Hook
       item: GRAPPLING_HOOK
 DAMASCUS_STEEL_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -996,7 +996,7 @@ DAMASCUS_STEEL_MULTI_TOOL:
       name: Grappling Hook
       item: GRAPPLING_HOOK
 REINFORCED_ALLOY_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1020,7 +1020,7 @@ REINFORCED_ALLOY_MULTI_TOOL:
       name: Grappling Hook
       item: GRAPPLING_HOOK
 CARBONADO_MULTI_TOOL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1264,7 +1264,7 @@ ENDER_HUNTER_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 LAVA_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1276,7 +1276,7 @@ ENDER_LAVA_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1324,7 +1324,7 @@ ENDER_ANGEL_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 FIRE_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1336,7 +1336,7 @@ ENDER_FIRE_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1546,7 +1546,7 @@ ENDER_MAGICIAN_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 TRAVELLER_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1558,7 +1558,7 @@ ENDER_TRAVELLER_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1566,7 +1566,7 @@ ENDER_TRAVELLER_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 WARRIOR_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1578,7 +1578,7 @@ ENDER_WARRIOR_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1586,7 +1586,7 @@ ENDER_WARRIOR_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 KNIGHT_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1598,7 +1598,7 @@ ENDER_KNIGHT_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1654,7 +1654,7 @@ CHAIN_BOOTS:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
 WHIRLWIND_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1666,7 +1666,7 @@ ENDER_WHIRLWIND_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1674,7 +1674,7 @@ ENDER_WHIRLWIND_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 WIZARD_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1686,7 +1686,7 @@ ENDER_WIZARD_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1694,7 +1694,7 @@ ENDER_WIZARD_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 LUMBER_AXE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1730,7 +1730,7 @@ BUTTER:
   allow-disenchanting: true
   required-permission: ''
 GILDED_IRON_HELMET:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1738,7 +1738,7 @@ GILDED_IRON_HELMET:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
 GILDED_IRON_CHESTPLATE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1746,7 +1746,7 @@ GILDED_IRON_CHESTPLATE:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
 GILDED_IRON_LEGGINGS:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1754,7 +1754,7 @@ GILDED_IRON_LEGGINGS:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
 GILDED_IRON_BOOTS:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1999,7 +1999,7 @@ BLADE_OF_VAMPIRES:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Blade-of-Vampires
 DIGITAL_MINER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2007,7 +2007,7 @@ DIGITAL_MINER:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners
 ADVANCED_DIGITAL_MINER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2066,7 +2066,7 @@ BOOTS_OF_THE_STOMPER:
   allow-disenchanting: true
   required-permission: ''
 PICKAXE_OF_THE_SEEKER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2229,7 +2229,7 @@ SEISMIC_AXE:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Seismic-Axe
 PICKAXE_OF_VEIN_MINING:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2509,7 +2509,7 @@ BLOCK_PLACER:
   unplaceable-blocks:
   - STRUCTURE_BLOCK
 SCROLL_OF_DIMENSIONAL_TELEPOSITION:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -3004,14 +3004,14 @@ AUTO_DISENCHANTER:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Auto-Disenchanter
 AUTO_ANVIL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 AUTO_ANVIL_2:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -3033,7 +3033,7 @@ PLASTIC_SHEET:
   allow-disenchanting: true
   required-permission: ''
 ANDROID_MEMORY_CORE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -3094,28 +3094,28 @@ GPS_EMERGENCY_TRANSMITTER:
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_MINER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_FARMER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_WOODCUTTER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -3123,14 +3123,14 @@ PROGRAMMABLE_ANDROID_WOODCUTTER:
   required-permission: ''
   youtube: https://youtu.be/AGLsWSMs6A0
 PROGRAMMABLE_ANDROID_FISHERMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_BUTCHER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -3138,35 +3138,35 @@ PROGRAMMABLE_ANDROID_BUTCHER:
   required-permission: ''
   youtube: https://youtu.be/G-re3qV-LJQ
 ANDROID_INTERFACE_ITEMS:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 ANDROID_INTERFACE_FUEL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_2:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_2_FISHERMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_2_BUTCHER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -3174,28 +3174,28 @@ PROGRAMMABLE_ANDROID_2_BUTCHER:
   required-permission: ''
   youtube: https://youtu.be/G-re3qV-LJQ
 PROGRAMMABLE_ANDROID_2_FARMER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_3:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_3_FISHERMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
 PROGRAMMABLE_ANDROID_3_BUTCHER:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
