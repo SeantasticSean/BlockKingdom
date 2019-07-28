@@ -1,17 +1,17 @@
 'Enable Ambient Sounds ': true
 'Nether Lightning ': true
-'Soulsand Slowness ': true
-'Netherrack Fires ': true
+'Soulsand Slowness ': false
+'Netherrack Fires ': false
 'Enable Custom Mobs ': true
 'Enable Mean Ghasts ': true
-'Enable Lava Burns ': true
+'Enable Lava Burns ': false
 'Enable Lava Placement ': true
 'Enable Lava Spouts ': true
-'Enable Falling Nether ': true
+'Enable Falling Nether ': false
 'Enable Nether Structures ': true
 'Enable Alpha Pigman Sword Drop ': true
-'Wither Potion Drops ': true
-'Haste Potion Drops ': true
+'Wither Potion Drops ': false
+'Haste Potion Drops ': false
 'Extended Wither Boss ': false
 'Enderman Growl replace Enderdragon Growl ': false
 '::::Higher equals lower chance!::::': ''
@@ -21,10 +21,10 @@
 'Mob Spawn Chance ': 5
 'Falling Nether Chance ': 0
 'Alpha Pigman Sword Drop Chance ': 1
-'Wind Volume - lower equals louder - ': 800
+'Wind Volume - lower equals louder - ': 2000
 'Wind Pitch - must be between 0 and 2 - ': 0
-'Low Y Value Wind ': 70
-'High Y Value Wind ': 200
+'Low Y Value Wind ': 0
+'High Y Value Wind ': 300
 'Netherrack Step Sound ': ENTITY_SLIME_SQUISH
 'Wither Potion Drop Chance ': 2
 'Haste Potion Drop Chance ': 2
@@ -45,7 +45,7 @@
 'Spawn Old Shadow ': true
 'Spawn Sherogath ': true
 'Spawn Sadness ': true
-'Spawn Necromancer ': true
+'Spawn Necromancer ': false
 'Spawn Alpha Pigman ': true
 ':::::Monster Names - no Blanks:::::': ''
 'Molten = ': Molten
