@@ -34,6 +34,6 @@ worlds:
   world_the_end:
     x: 0.0
     z: 0.0
-    radiusX: 256
-    radiusZ: 256
+    radiusX: 2048
+    radiusZ: 2048
     wrapping: false

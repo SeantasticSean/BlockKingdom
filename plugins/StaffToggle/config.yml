@@ -4,6 +4,7 @@
 #     OnDuty: correct
 #     Rank: admin
 #     name: ChickensDying
+
 staff:
   ChickensBurning:
     OnDuty: correct
@@ -14,6 +15,6 @@ staff:
     Rank: admin
     name: Sammy5k
   ChickensDying:
-    OnDuty: correct
+    OnDuty: nope
     Rank: admin
     name: ChickensDying

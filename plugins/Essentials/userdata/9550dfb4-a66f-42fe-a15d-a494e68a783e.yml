@@ -1,10 +1,10 @@
 lastAccountName: martyiswarty
 timestamps:
-  login: 1564207921527
+  login: 1564267673733
   kits:
     member: 1564197338694
   lastteleport: 1564218017089
-  logout: 1564220683356
+  logout: 1564267708233
 ipAddress: 198.72.132.34
 lastlocation:
   world: world
@@ -24,8 +24,8 @@ homes:
     pitch: 16.082075
 logoutlocation:
   world: world
-  x: 1010.9429461413522
-  y: 63.5625
-  z: -3457.941185545681
-  yaw: -282.57513
-  pitch: 17.96651
+  x: 1030.6113293444473
+  y: 54.0
+  z: -3461.300717241971
+  yaw: -116.77692
+  pitch: 12.822683

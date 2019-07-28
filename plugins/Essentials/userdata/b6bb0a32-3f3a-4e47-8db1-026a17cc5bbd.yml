@@ -1,19 +1,19 @@
 lastAccountName: ChickensDying
 timestamps:
-  login: 1564260750450
-  lastteleport: 1564262239728
+  login: 1564262586579
+  lastteleport: 1564273998771
   kits:
     member: 1564198987896
   logout: 1564260769954
 ipAddress: 67.167.123.194
 lastlocation:
   world: world
-  x: -654.588087437907
-  y: 63.0
-  z: -1304.8530731395492
-  yaw: 244.3628
-  pitch: 57.900097
-money: '115.633000000000000'
+  x: -740.1529343585105
+  y: 67.0
+  z: -296.45355818682907
+  yaw: 148.81348
+  pitch: 17.249914
+money: '868.21300000000002714'
 afk: false
 logoutlocation:
   world: world
@@ -26,8 +26,8 @@ nickname: Jones
 homes:
   home:
     world: world
-    x: -654.588087437907
-    y: 63.0
-    z: -1304.8530731395492
-    yaw: 244.3628
-    pitch: 57.900097
+    x: -1006.7248485599217
+    y: 11.0
+    z: -1338.7342533667643
+    yaw: 294.76306
+    pitch: 8.699865

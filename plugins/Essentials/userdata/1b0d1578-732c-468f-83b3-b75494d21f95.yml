@@ -1,7 +1,7 @@
 lastAccountName: uxits
 timestamps:
-  login: 1564259866815
-  logout: 1564248425201
+  login: 1564262595055
+  logout: 1564262628792
   lastteleport: 1564261483401
   kits:
     member: 1564190505435
@@ -15,11 +15,11 @@ lastlocation:
   pitch: 25.47938
 logoutlocation:
   world: world
-  x: 267.4321710386362
-  y: 68.0
-  z: -711.1575369918284
-  yaw: 350.16806
-  pitch: 14.550004
+  x: 240.81526256293924
+  y: 81.0
+  z: 402.78217060869844
+  yaw: -229.12036
+  pitch: -33.595978
 homes:
   home:
     world: world
