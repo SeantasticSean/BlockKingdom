@@ -556,7 +556,7 @@ BackButton:
   Name: '&8Back to VoteGUI'
 
 VoteShopBackButton: true
-VoteShopEnabled: true
+VoteShopEnabled: false
 Shop:
   # Identifier
   # Used in placeholders for formats
@@ -582,116 +582,6 @@ Shop:
       Commands:
       - bc %player% &7bought the &aJade &7rank!
       - lp user %player% parent addtemp jade 30d
-  Garnet:
-    # Item
-    Material: 'YELLOW_WOOL'
-    Data: 0
-    Amount: 1
-    Name: '&fBuy the &6Garnet &fRank'
-    # You can set skulls of the player using the following
-    # Remove the # to enable
-    #Skull: '%Player%'
-    Lore:
-    - '&c&lCost: &c20 Voting Points'
-    # Number of voting points this cost
-    Cost: 20
-    # Permission required, leave blank for no permission
-    Permission: ''
-    # Limit how many times you can buy this
-    #Limit: ''
-    # Rewards to run if player buys successfully
-    Rewards:
-      Commands:
-      - bc %player% &7bought the &6Garnet &7rank!
-      - lp user %player% parent addtemp garnet 30d
-  Amethyst:
-    # Item
-    Material: 'PURPLE_WOOL'
-    Data: 0
-    Amount: 1
-    Name: '&fBuy the &5Amethyst &fRank'
-    # You can set skulls of the player using the following
-    # Remove the # to enable
-    #Skull: '%Player%'
-    Lore:
-    - '&c&lCost: &c30 Voting Points'
-    # Number of voting points this cost
-    Cost: 30
-    # Permission required, leave blank for no permission
-    Permission: ''
-    # Limit how many times you can buy this
-    #Limit: 1
-    # Rewards to run if player buys successfully
-    Rewards:
-      Commands:
-      - bc %player% &7bought the &5Amethyst &7rank!
-      - lp user %player% parent addtemp amethyst 30d
-  Diamond:
-    # Item
-    Material: 'LIGHT_BLUE_WOOL'
-    Data: 0
-    Amount: 1
-    Name: '&fBuy the &bDiamond &fRank'
-    # You can set skulls of the player using the following
-    # Remove the # to enable
-    #Skull: '%Player%'
-    Lore:
-    - '&c&lCost: &c40 Voting Points'
-    # Number of voting points this cost
-    Cost: 40
-    # Permission required, leave blank for no permission
-    Permission: ''
-    # Limit how many times you can buy this
-    #Limit: 1
-    # Rewards to run if player buys successfully
-    Rewards:
-      Commands:
-      - bc %player% &7bought the &bDiamond &7rank!
-      - lp user %player% parent addtemp diamond 30d
-  Sapphire:
-    # Item
-    Material: 'BLUE_WOOL'
-    Data: 0
-    Amount: 1
-    Name: '&fBuy the &1Sapphire &fRank'
-    # You can set skulls of the player using the following
-    # Remove the # to enable
-    #Skull: '%Player%'
-    Lore:
-    - '&c&lCost: &c50 Voting Points'
-    # Number of voting points this cost
-    Cost: 50
-    # Permission required, leave blank for no permission
-    Permission: ''
-    # Limit how many times you can buy this
-    #Limit: 1
-    # Rewards to run if player buys successfully
-    Rewards:
-      Commands:
-      - bc %player% &7bought the &1Sapphire &7rank!
-      - lp user %player% parent addtemp sapphire 30d
-  Ruby:
-    # Item
-    Material: 'RED_WOOL'
-    Data: 0
-    Amount: 1
-    Name: '&fBuy the &4Ruby &fRank'
-    # You can set skulls of the player using the following
-    # Remove the # to enable
-    #Skull: '%Player%'
-    Lore:
-    - '&c&lCost: &c60 Voting Points'
-    # Number of voting points this cost
-    Cost: 60
-    # Permission required, leave blank for no permission
-    Permission: ''
-    # Limit how many times you can buy this
-    #Limit: 1
-    # Rewards to run if player buys successfully
-    Rewards:
-      Commands:
-      - bc %player% &7bought the &4Ruby &7rank!
-      - lp user %player% parent addtemp ruby 30d
 # ------------------------------------------------
 # Extra Rewards
 # ------------------------------------------------
@@ -702,10 +592,7 @@ Shop:
 # By default all rewards are disabled
 
 # First vote rewards
-FirstVote: 
-  Messages:
-    Player: '&eYou voted for your first time!'
-  Money: 100
+FirstVote: []
 
 # All vote rewards
 # Reward for voting on all sites in one day
@@ -773,8 +660,71 @@ MileStones:
     Enabled: true
     Rewards: 
       Messages:
-        Player: '&aYou got %milestone% milestone votes!'
-   
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired Silver Rank!'
+    Commands:
+    - bc %player% has voted 10 times and received &7Silver&r rank!
+    - lp user {name} parent add silver
+  '30':
+    Enabled: true
+    Rewards: 
+      Messages:
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired Gold Rank!'
+    Commands:
+    - bc %player% has voted 30 times and received &6Gold&r rank!
+    - lp user {name} parent remove silver
+    - lp user {name} parent add gold
+  '70':
+    Enabled: true
+    Rewards: 
+      Messages:
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired Platinum Rank!'
+    Commands:
+    - bc %player% has voted 70 times and received &8Platinum&r rank!
+    - lp user {name} parent remove gold
+    - lp user {name} parent add platinum
+  '120':
+    Enabled: true
+    Rewards: 
+      Messages:
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired Crystal Rank!'
+    Commands:
+    - bc %player% has voted 120 times and received &5Crystal&r rank!
+    - lp user {name} parent remove platinum
+    - lp user {name} parent add crystal
+  '190':
+    Enabled: true
+    Rewards: 
+      Messages:
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired Master Rank!'
+    Commands:
+    - bc %player% has voted 190 times and received &0Master&r rank!
+    - lp user {name} parent remove crystal
+    - lp user {name} parent add master
+  '260':
+    Enabled: true
+    Rewards: 
+      Messages:
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired &cChampion &aRank!'
+    Commands:
+    - bc %player% has voted 260 times and received &cChampion&r rank!
+    - lp user {name} parent remove master
+    - lp user {name} parent add champion
+  '350':
+    Enabled: true
+    Rewards: 
+      Messages:
+        Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
+        Player: '&aAcquired &cLegend &aRank!'
+    Commands:
+    - bc %player% has voted 350 times and received &2Leg&3end&r rank!
+    - lp user {name} parent remove champion
+    - lp user {name} parent add legend
 VoteStreak:
   # Valid options: Day, Week, Month
   Day:
