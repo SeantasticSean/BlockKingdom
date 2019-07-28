@@ -1,4 +1,4 @@
-
+![](http://blockkingdom.org/img/logo.png)
 # BlockKingdom
 ## Overview
 This is the meat and bones of the BlockKingdom Minecraft server. We pride ourselves on being the first community driven Minecraft server!
