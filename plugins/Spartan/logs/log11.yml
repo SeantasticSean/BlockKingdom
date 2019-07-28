@@ -591,3 +591,34 @@
   (TPS: 17.69), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.24801596118001612,
   od: 0.3330775064825957, a: 34, r: 0.5368090927071734, c: (jump movement must start
   on ground), diff: 0.032433543776779594, f: -20)]'
+(211)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 77ms),
+  (TPS: 18.67), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.16465564516106213,
+  od: 0.24801596118001612, a: 41, r: 0.7014647378682355, c: (jump movement must start
+  on ground), diff: 0.036038314493154, f: -20)]'
+(212)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 77ms),
+  (TPS: 19.59), (Plib: false), (Online: 6), (t: jump(unusual), d: 0.08296253387253216,
+  a: 47, r: 0.7844272717407677)]'
+(213)[2019/07/28 00:02:31]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.81), (Plib: false), (Online: 5), (t: interact, c: chest, r: stone)]'
+(214)[2019/07/28 00:08:39]: Cirke found 1 gold-ore on -1677, 11, 1877
+(215)[2019/07/28 00:17:34]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 98ms), (TPS:
+  19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(216)[2019/07/28 00:18:29]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 98ms), (TPS:
+  19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(217)[2019/07/28 00:23:40]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 42ms), (TPS:
+  19.95), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(218)[2019/07/28 00:34:34]: '[Spartan Build 250-105521/596204925] Cirke failed NoFall
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.99),
+  (Plib: false), (Online: 4), (t: ratio, b: 17)]'
+(219)[2019/07/28 00:34:44]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  BlockReach (VL: 1) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 102ms), (TPS:
+  19.95), (Plib: false), (Online: 4), (t: break, d: 9.304343310469934)]'
+(220)[2019/07/28 00:35:31]: '[Spartan Build 250-105521/596204925] Cirke failed NoFall
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.99),
+  (Plib: false), (Online: 4), (t: ratio, b: 19)]'
