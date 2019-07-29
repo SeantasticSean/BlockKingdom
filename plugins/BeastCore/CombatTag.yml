@@ -29,8 +29,8 @@ Combat-Tag:
   - /tpahere
   - /fix *
   cancel-fly: true
-  combat-started: '&d&lCombate &7>&8> You are in combat, don´t log out!'
-  no-longer-in-combat: '&d&lCombat &7>&8> Now you are not in combat!'
+  combat-started: '&d&lCombat &7>&8> You are in combat, don´t log out!'
+  no-longer-in-combat: '&d&lCombat &7>&8> You are not in combat!'
   allow-enderpearls-in-combat: true
   enderpearls-not-allowed-in-combat-message: '&cYou cant use ender pearls whilst you
     are in combat!'
