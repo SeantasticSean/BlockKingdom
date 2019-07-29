@@ -1,28 +1,28 @@
 lastAccountName: ChickensBurning
 timestamps:
-  login: 1564295172606
-  logout: 1564299385134
-  lastteleport: 1564297225624
+  login: 1564364741230
+  logout: 1564364722916
+  lastteleport: 1564368634581
   kits:
     diamond: 1564261242330
     member: 1564295278892
-ipAddress: 73.106.78.237
+ipAddress: 73.106.79.5
 lastlocation:
   world: world
-  x: 375.7186478286605
-  y: 14.0
-  z: -632.6998432024538
-  yaw: -41.301514
-  pitch: 6.5999923
+  x: -2026.1547752638576
+  y: 4.0
+  z: 3517.699999988079
+  yaw: -21.10028
+  pitch: 70.79999
 logoutlocation:
   world: world
   x: -22.318718205278817
   y: 67.0
   z: -42.16097566189662
-  yaw: 358.65625
-  pitch: 90.0
+  yaw: 6.4562683
+  pitch: 49.799995
 afk: false
-money: '116.0499999999999983'
+money: '116.3074999999999983'
 homes:
   home:
     world: world

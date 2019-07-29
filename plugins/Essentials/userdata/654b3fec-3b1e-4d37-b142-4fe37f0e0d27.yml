@@ -1,7 +1,7 @@
 lastAccountName: Benzorzz
 timestamps:
-  login: 1564312275951
-  logout: 1564312290078
+  login: 1564366035401
+  logout: 1564366097869
 ipAddress: 73.95.152.9
 lastlocation:
   world: world
@@ -15,5 +15,5 @@ logoutlocation:
   x: -28.00898210840238
   y: 72.0
   z: -16.78809885280063
-  yaw: -6.412798
-  pitch: -1.2219055
+  yaw: -3.8522499
+  pitch: 1.9972357

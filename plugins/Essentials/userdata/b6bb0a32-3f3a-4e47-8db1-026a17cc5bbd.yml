@@ -1,19 +1,19 @@
 lastAccountName: ChickensDying
 timestamps:
-  login: 1564363275960
-  lastteleport: 1564363530274
+  login: 1564364236388
+  lastteleport: 1564368288551
   kits:
     member: 1564198987896
   logout: 1564354816242
 ipAddress: 67.167.123.194
 lastlocation:
-  world: world_nether
-  x: -387.5698903839378
-  y: 59.0
-  z: 64.74015833569757
-  yaw: 157.18315
-  pitch: -59.100044
-money: '834.57250000000007019'
+  world: world
+  x: -1006.1146653515344
+  y: 11.0
+  z: -1336.987512889698
+  yaw: -150.28595
+  pitch: 13.799888
+money: '1029.20250000000008401'
 afk: false
 logoutlocation:
   world: world

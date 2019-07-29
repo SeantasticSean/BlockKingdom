@@ -1,0 +1,147 @@
+(1)[2019/07/29 01:38:12]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 86ms), (TPS:
+  19.97), (Plib: false), (Online: 4), (t: break, c: stone, r: stone)]'
+(2)[2019/07/29 01:42:06]: '[Spartan Build 250-105521/596204925] ChickensDying failed
+  HitReach (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 34ms), (TPS:
+  19.52), (Plib: false), (Online: 5), (t: vertical, d: 4.724771370588716, l: 4.501)]'
+(3)[2019/07/29 01:50:38]: '[Spartan Build 250-105521/596204925] Grepses failed InventoryClicks
+  (VL: 1) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 55ms), (TPS: 12.40),
+  (Plib: false), (Online: 6), (t: normal, speed: fast, ms: 5, i: torch)]'
+(4)[2019/07/29 02:00:43]: '[Spartan Build 250-105521/596204925] SoftNina failed FastBreak
+  (VL: 0) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 91ms), (TPS: 19.96),
+  (Plib: false), (Online: 7), (ms: 22, l: 150, b: sand)]'
+(5)[2019/07/29 02:00:45]: '(False Positive) [Spartan Build 250-105521/596204925] SoftNina
+  failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 93ms), (TPS:
+  17.18), (Plib: false), (Online: 7), (t: down, d: -0.06930505404955767, ds: 0.002265909368233565,
+  r: 0.34571906507277106)]'
+(6)[2019/07/29 02:01:31]: Grepses found 1 gold-ore on -628, 7, -1110
+(7)[2019/07/29 02:01:32]: Grepses found 1 gold-ore on -628, 7, -1110
+(8)[2019/07/29 02:01:40]: Grepses found 1 gold-ore on -628, 5, -1111
+(9)[2019/07/29 02:01:41]: Grepses found 1 gold-ore on -628, 5, -1111
+(10)[2019/07/29 02:01:42]: Grepses found 1 gold-ore on -628, 5, -1111
+(11)[2019/07/29 02:01:51]: Grepses found 1 gold-ore on -627, 5, -1112
+(12)[2019/07/29 02:03:18]: '[Spartan Build 250-105521/596204925] ChickensDying failed
+  Sprint (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 35ms), (TPS: 19.99),
+  (Plib: false), (Online: 7), (t: omnidirectional, d: backwards, l: 0.35)]'
+(13)[2019/07/29 02:08:21]: '(False Positive) [Spartan Build 250-105521/596204925]
+  martyiswarty failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 90ms), (TPS: 19.95), (Plib: false), (Online: 7), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 20, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.02355999172695389, f: -20)]'
+(14)[2019/07/29 02:09:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  martyiswarty failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  92ms), (TPS: 19.83), (Plib: false), (Online: 7), (t: walking(abnormal), d: 0.09907920784344203,
+  cd: 0.2038684674058701, diff: 0.10478925956242809, dy: 0.014881060405045332, r:
+  0.670974715101103)]'
+(15)[2019/07/29 02:09:42]: '(False Positive) [Spartan Build 250-105521/596204925]
+  martyiswarty failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 90ms), (TPS: 19.80), (Plib: false), (Online: 7), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 19, r: 0.24918707874468282, c:
+  (frequency cannot be too fast), diff: 0.017697462493803037, f: -20)]'
+(16)[2019/07/29 02:14:16]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  132ms), (TPS: 19.93), (Plib: false), (Online: 7), (t: pre, d: -2.3293999419212312,
+  ds: 2.3293999419212312, a: 4, r: 0.4716000103950506)]'
+(17)[2019/07/29 02:16:07]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  92ms), (TPS: 19.85), (Plib: false), (Online: 7), (t: walking(abnormal), d: 0.08048533236795477,
+  cd: 0.20029079363672433, diff: 0.11980546126876956, dy: -0.02498415584887681, r:
+  0.008730938975411107)]'
+(18)[2019/07/29 02:22:33]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 264ms), (TPS:
+  19.93), (Plib: false), (Online: 6), (t: interact, c: furnace, r: furnace)]'
+(19)[2019/07/29 02:25:41]: '[Spartan Build 250-105521/596204925] SoftNina failed Fly
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 180ms), (TPS: 14.12),
+  (Plib: false), (Online: 6), (t: change, d: -0.022315646370117292, od: -0.04245025438023475,
+  a: 15, r: 0.2004124677815824)]'
+(20)[2019/07/29 02:25:41]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 113ms), (TPS: 14.08), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 8, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.014463991726953895, f: -20)]'
+(21)[2019/07/29 02:25:41]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 113ms), (TPS: 14.06), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.24813599859094637, od: 0.33319999363422426, a: 9, r: 0.9388359791121488, c:
+  (frequency cannot be too fast), diff: 0.013485993517477882, f: -20)]'
+(22)[2019/07/29 02:25:41]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 113ms), (TPS: 14.19), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.164773281826065, od: 0.24813599859094637, a: 11, r: 0.10360926093821377, c:
+  (frequency cannot be too fast), diff: 0.013300715239081384, f: -20)]'
+(23)[2019/07/29 02:26:34]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  133ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: calculated, d: -0.6058949318642561,
+  ds: 0.06763480934192856, diff: 0.05366480781612856, a: 85, r: 0.43281030369772466)]'
+(24)[2019/07/29 02:26:34]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  133ms), (TPS: 19.92), (Plib: false), (Online: 6), (t: calculated, d: -0.672177046309379,
+  ds: 0.06628211444512289, diff: 0.053070112919322884, a: 86, r: 0.7606332573883456)]'
+(25)[2019/07/29 02:26:34]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 2) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  129ms), (TPS: 19.94), (Plib: false), (Online: 6), (t: calculated, d: -0.7371335197298308,
+  ds: 0.06495647342045174, diff: 0.05250247189465175, a: 87, r: 0.023499737658514874)]'
+(26)[2019/07/29 02:26:34]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 3) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  129ms), (TPS: 19.92), (Plib: false), (Online: 6), (t: calculated, d: -0.8007908649208204,
+  ds: 0.06365734519098964, diff: 0.05196134366518965, a: 88, r: 0.22270887273769446)]'
+(27)[2019/07/29 02:26:34]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 4) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  129ms), (TPS: 19.92), (Plib: false), (Online: 6), (t: calculated, d: -0.8631750644221547,
+  ds: 0.062384199501334336, diff: 0.05144619797553433, a: 89, r: 0.3595338083155397)]'
+(28)[2019/07/29 02:26:34]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Fly (VL: 5) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 129ms), (TPS: 19.94),
+  (Plib: false), (Online: 6), (t: calculated, d: -0.924311581123348, ds: 0.061136516701193244,
+  diff: 0.05095651517539325, a: 90, r: 0.4352222271921917)]'
+(29)[2019/07/29 02:28:15]: '[Spartan Build 250-105521/596204925] SoftNina failed Fly
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 135ms), (TPS: 16.51),
+  (Plib: false), (Online: 6), (t: up, d: 0.13520444415096478, ds: 0.00994888971112573,
+  r: 0.7562627949102136)]'
+(30)[2019/07/29 02:28:17]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Sprint (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 149ms), (TPS:
+  20.0), (Plib: false), (Online: 6), (t: omnidirectional, d: backwards, l: 0.35)]'
+(31)[2019/07/29 02:30:27]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 665ms), (TPS:
+  19.94), (Plib: false), (Online: 6), (t: interact, c: chest, r: crafting-table)]'
+(32)[2019/07/29 02:31:18]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Exploits (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 425ms), (TPS:
+  19.80), (Plib: false), (Online: 6), (t: ping-spoof(scheduler), avg: 0)]'
+(33)[2019/07/29 02:32:36]: '[Spartan Build 250-105521/596204925] SoftNina failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 134ms), (TPS: 19.86),
+  (Plib: false), (Online: 6), (t: interact, c: acacia-door, r: blue-stained-glass)]'
+(34)[2019/07/29 02:36:04]: '[Spartan Build 250-105521/596204925] SoftNina failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 285ms), (TPS: 19.81),
+  (Plib: false), (Online: 6), (t: difference, c: 29.739708466122234, n: 5.610595205702989,
+  d: 24.129113260419246, t: 32, l: 1.5, p: false)]'
+(35)[2019/07/29 02:36:20]: '[Spartan Build 250-105521/596204925] SoftNina failed MorePackets
+  (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 235ms), (TPS: 19.82),
+  (Plib: false), (Online: 6), (t: instant, a: 22)]'
+(36)[2019/07/29 02:39:03]: '[Spartan Build 250-105521/596204925] _xmemequeenx_ failed
+  Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 320ms), (TPS: 19.92),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 24, r: 0.5)]'
+(37)[2019/07/29 02:39:03]: '[Spartan Build 250-105521/596204925] _xmemequeenx_ failed
+  Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 320ms), (TPS: 19.89),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 30, r: 0.5)]'
+(38)[2019/07/29 02:39:30]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 265ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 26, r: 0.8116870787446828, c:
+  (frequency cannot be too fast), diff: 0.023003462493803042, f: -20)]'
+(39)[2019/07/29 02:39:31]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed Fly (VL: 2) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  265ms), (TPS: 19.91), (Plib: false), (Online: 6), (t: neutral, d: 0.32352912385571386,
+  r: 0.5625, od: -0.44482596439492283, ds: 0.7683550882506367, a: 34, i: true, c:
+  1)]'
+(40)[2019/07/29 02:42:10]: '[Spartan Build 250-105521/596204925] ChickensDying failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 34ms), (TPS:
+  16.57), (Plib: false), (Online: 6), (t: break, c: stone, r: stone)]'
+(41)[2019/07/29 02:42:38]: ChickensDying found 1 gold-ore on -984, 12, -1366
+(42)[2019/07/29 02:42:38]: ChickensDying found 1 gold-ore on -984, 12, -1366
+(43)[2019/07/29 02:42:41]: ChickensDying found 1 gold-ore on -982, 11, -1366
+(44)[2019/07/29 02:42:42]: ChickensDying found 2 gold-ores on -982, 11, -1366
+(45)[2019/07/29 02:42:43]: ChickensDying found 1 gold-ore on -982, 11, -1366
+(46)[2019/07/29 02:42:44]: ChickensDying found 1 gold-ore on -982, 11, -1366
+(47)[2019/07/29 02:42:45]: ChickensDying found 1 gold-ore on -982, 10, -1367
+(48)[2019/07/29 02:42:49]: ChickensDying found 1 gold-ore on -980, 10, -1367
+(49)[2019/07/29 02:42:49]: ChickensDying found 1 gold-ore on -979, 10, -1367
+(50)[2019/07/29 02:42:50]: ChickensDying found 1 gold-ore on -979, 10, -1367

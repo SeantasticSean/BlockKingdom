@@ -31,7 +31,7 @@ lines:
     # Interval is the animation interval in TICKS (20 ticks is one second).
     # Every X ticks the animation goes to the next frame (see above)
     # Once all frames are finished it will start over from the first one
-    interval: 5
+    interval: 3
     # If you don't want a static order of the frames and want to show each frame at random
     # you can enable this option.
     random: false
@@ -41,63 +41,63 @@ lines:
   header:
     frames:
     - '&5&l-------------'
-    interval: 150
+    interval: 300
     random: true
   town-label:
     frames:
     - '&2&l[&3&lTowny&2&l]'
-    interval: 150
+    interval: 300
   town-data:
     frames:
     - '&5Town: &6{towny_town_name}'
-    interval: 150
+    interval: 300
   poplulation-data:
     frames:
     - '&5Population: &6{towny_currenttown_residents}'
-    interval: 150
+    interval: 300
   # For empty lines just add another 'section' but just don't put any text
   # in it so it acts like an empty line.
   spacer1:
     frames: []
-    interval: 150
+    interval: 300
     random: false
   economy-label:
     text:
     - '&2&l[&3&lEconomy&2&l]'
-    interval: 150
+    interval: 300
     random: false
   balance-data:
     frames:
     - '&5Balance: &6{money_formatted}'
-    interval: 150
+    interval: 20
     random: false
   spacer2:
     frames: []
-    interval: 100
+    interval: 300
     random: false
   server-label:
     frames:
     - '&2&l[&3&lServer&2&l]'
-    interval: 150
+    interval: 300
     random: false
   online-data:
     frames:
     - '&5Online: &6{onlineplayers}'
-    interval: 150
+    interval: 100
     random: false
   tps-data:
     frames:
     - '&5TPS: &6{tps_rounded}'
-    interval: 150
+    interval: 100
     random: false
   spacer3:
     frames:
     - '&5&l-------------'
-    interval: 100
+    interval: 300
     random: false
   website-scroll:
     frames:
-    - '<scroll width=16 space=16>&lwww.blockkingdom.org</scroll>'
+    - '<scroll width=16 space=16>&6&6&6&6&6&6&lwww.blockkingdom.org</scroll>'
     interval: 3
     random: false
   # This is the same as the header. It is not needed since you already use the header as the longest line
@@ -105,5 +105,5 @@ lines:
   footer:
     frames:
     - '&5&l-------------'
-    interval: 150
+    interval: 300
     random: true

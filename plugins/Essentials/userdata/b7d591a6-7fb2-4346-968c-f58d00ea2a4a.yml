@@ -1,8 +1,8 @@
 lastAccountName: SoftNina
 timestamps:
-  login: 1564363104663
-  logout: 1564363000442
-  lastteleport: 1564362012224
+  login: 1564368113488
+  logout: 1564368096521
+  lastteleport: 1564364432201
   kits:
     member: 1564198406413
     amethyst: 1564194328324
@@ -10,17 +10,17 @@ timestamps:
 ipAddress: 172.91.247.191
 lastlocation:
   world: world
-  x: 1014.222601381493
-  y: 64.0
-  z: -3456.9436628172643
-  yaw: 281.1429
-  pitch: -0.5842958
+  x: 1022.925000011921
+  y: 63.0
+  z: -3462.5444493287473
+  yaw: 66.665405
+  pitch: 5.09195
 logoutlocation:
   world: world
-  x: 1314.300000011921
-  y: 41.0
-  z: 1226.925000011921
-  yaw: -102.508354
-  pitch: 8.681471
+  x: 1014.8778473543316
+  y: 64.0
+  z: -3457.3671972657335
+  yaw: 91.4049
+  pitch: 15.776725
 nickname: Nina
-money: '985.412999999999827335'
+money: '1223.382499999999801415'
