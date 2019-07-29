@@ -333,7 +333,7 @@ new_world_settings:
  
 global_town_settings:
   # can residents/Allies harm other residents when in an area with pvp enabled? Other than an Arena plot.
-  friendly_fire: 'true'
+  friendly_fire: 'false'
   # Players within their town or allied towns will regenerate half a heart after every health_regen_speed seconds.
   health_regen:
     speed: 3s
