@@ -1,19 +1,19 @@
 lastAccountName: Backblock
 timestamps:
-  login: 1564208823608
-  lastteleport: 1564216286089
+  login: 1564343166463
+  lastteleport: 1564352245627
   kits:
     member: 1564190521016
-  logout: 1564221555398
+  logout: 1564354104341
 ipAddress: 47.198.244.36
 lastlocation:
   world: world
-  x: -1629.1941669543892
-  y: 69.0
-  z: 1887.1746316128101
-  yaw: 40.368042
-  pitch: 9.351856
-money: '3686.35999999999995720'
+  x: -1642.2532328785198
+  y: 57.0
+  z: 1903.6461532166772
+  yaw: 159.21085
+  pitch: 5.385593
+money: '6280.37899999999938251'
 homes:
   home:
     world: world
@@ -24,8 +24,8 @@ homes:
     pitch: 0.12731943
 logoutlocation:
   world: world
-  x: -1641.655773799088
+  x: -1641.9748398754543
   y: 57.0
-  z: 1907.5080764449576
-  yaw: 86.51892
-  pitch: -39.13351
+  z: 1897.4369558988028
+  yaw: 32.134277
+  pitch: 48.53599

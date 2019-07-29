@@ -3,8 +3,11 @@ VotingPlugin:
   ServiceSites:
   - PlanetMinecraft.com
   - MinecraftServers.org
+  - Minecraft-MP.com
+  - MCSL
+  - TopG.org
 PluginVersions:
   VotingPlugin: 5.19.1
-PrevDay: 28
+PrevDay: 29
 PrevWeek: 31
 Month: JULY

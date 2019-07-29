@@ -69,4 +69,37 @@ VoteSites:
     Rewards:
       Messages:
         Player: '&aThanks for voting on %ServiceSite%!'
+  Minecraft-MP_com:
+    Enabled: true
+    ServiceSite: Minecraft-MP.com
+    VoteURL: VoteURL
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  MCSL:
+    Enabled: true
+    ServiceSite: MCSL
+    VoteURL: VoteURL
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  TopG_org:
+    Enabled: true
+    ServiceSite: TopG.org
+    VoteURL: VoteURL
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
 EverySiteReward: []

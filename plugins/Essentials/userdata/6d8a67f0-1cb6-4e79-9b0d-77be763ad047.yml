@@ -1,24 +1,26 @@
 lastAccountName: iGooMo
 timestamps:
-  login: 1564291254067
-  logout: 1564291428584
-  lastteleport: 1564290165002
+  login: 1564326315491
+  logout: 1564331671698
+  lastteleport: 1564327016874
+  kits:
+    member: 1564296044269
 ipAddress: 24.209.206.59
 lastlocation:
   world: world
-  x: -3402.150348984751
-  y: 63.0
-  z: -3400.335223392102
-  yaw: -11.273467
-  pitch: -28.368567
-money: '2374.83600000000001367'
+  x: -1018.6999999880791
+  y: 26.0
+  z: -516.3000000119212
+  yaw: 213.18585
+  pitch: 17.956146
+money: '3909.22400000000005949'
 logoutlocation:
-  world: world_nether
-  x: -316.69999998807907
-  y: 33.0
-  z: -314.30000001192093
-  yaw: 356.88293
-  pitch: 70.20279
+  world: world
+  x: -38.52324438384747
+  y: 68.0
+  z: -41.41332265928405
+  yaw: -44.044403
+  pitch: 9.582682
 homes:
   home:
     world: world

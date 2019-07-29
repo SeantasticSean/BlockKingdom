@@ -35,7 +35,7 @@ Channels:
     general:
         commands: [g,global]
         type: GLOBAL
-        channeltag: '&fG'
+        channeltag: 'G'
         messagecolour: '&f'
         permission: 'towny.chat.general'
         craftIRCTag: 'admin'
@@ -44,7 +44,7 @@ Channels:
     town:
         commands: [tc,nationchat]
         type: TOWN
-        channeltag: '&3TC'
+        channeltag: 'TC'
         messagecolour: '&3'
         permission: 'towny.chat.town'
         craftIRCTag: 'admin'
@@ -53,7 +53,7 @@ Channels:
     nation:
         commands: [nc,nationchat]
         type: NATION
-        channeltag: '&2NC'
+        channeltag: 'NC'
         messagecolour: '&2'
         permission: 'towny.chat.nation'
         craftIRCTag: 'admin'
@@ -62,7 +62,7 @@ Channels:
     staff:
         commands: [sc,staff,staffchat]
         type: DEFAULT
-        channeltag: '&cSC'
+        channeltag: 'SC'
         messagecolour: '&c'
         permission: 'towny.chat.staff'
         craftIRCTag: 'admin'

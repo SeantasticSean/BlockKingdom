@@ -79,9 +79,9 @@ channel_formats:
   # This is also the format used when you have modify_chat.enable: true, but use other plugins to handle chat.
   global: '&8[{group}{townytagoverride}&8] {modplayername}&8: {msgcolour}{msg}'
   # TOWN channel types.
-  town: '&8[{channeltag}&3{townytag}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
+  town: '&8[&3TC{townytag}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
   # NATION channel types.
-  nation: '&8[{channeltag}{towntagoverride}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
+  nation: '&8[&2NC{towntagoverride}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
   # DEFAULT channel types.
   default: '&8[{group}{townytagoverride}&8] {modplayername}&8: {msgcolour}{msg}'
  

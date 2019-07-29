@@ -1,19 +1,19 @@
 lastAccountName: zNihility
 timestamps:
-  login: 1564280155242
-  lastteleport: 1564269506121
-  logout: 1564280226677
+  login: 1564341395927
+  lastteleport: 1564345101624
+  logout: 1564345571642
   kits:
     member: 1564269845163
 ipAddress: 202.190.13.228
 lastlocation:
   world: world
-  x: -2223.9992427748757
-  y: 63.0
-  z: -174.16480317016178
-  yaw: 231.31543
-  pitch: 21.59992
-money: '59.7725000000000320'
+  x: -2221.3415772296303
+  y: 65.875
+  z: -175.77734879379236
+  yaw: 15.906036
+  pitch: 71.099945
+money: '49.7725000000000320'
 homes:
   home:
     world: world
@@ -24,8 +24,8 @@ homes:
     pitch: 27.599766
 logoutlocation:
   world: world
-  x: -2220.28692851397
-  y: 63.875
-  z: -172.22214660947273
-  yaw: -145.94333
-  pitch: 44.549767
+  x: -2222.300000011921
+  y: 63.0
+  z: -169.5914175304301
+  yaw: -26.848206
+  pitch: 64.20011
