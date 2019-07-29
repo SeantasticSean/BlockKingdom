@@ -13,12 +13,13 @@ regions:
     spawn:
         min: {x: -250, y: 0, z: -250}
         max: {x: 250, y: 255, z: 250}
-        members: {}
+        members:
+            unique-ids: [b7d591a6-7fb2-4346-968c-f58d00ea2a4a]
         flags:
             build: deny
-            invincible: allow
             blocked-cmds: [/t new, /t claim outpost, /t claim]
             fall-damage: deny
+            invincible: allow
             pvp: deny
             mob-spawning: deny
             fire-spread: deny

@@ -1,0 +1,31 @@
+lastAccountName: Sympathiqve
+timestamps:
+  login: 1564437717050
+  logout: 1564434082859
+  lastteleport: 1564437838251
+  kits:
+    member: 1564429576451
+ipAddress: 24.49.143.61
+lastlocation:
+  world: world
+  x: -38.52324438384747
+  y: 68.0
+  z: -41.41332265928405
+  yaw: -45.59375
+  pitch: 8.849794
+homes:
+  home:
+    world: world
+    x: 256.2954891529082
+    y: 78.0
+    z: 19.315310251530565
+    yaw: -308.39465
+    pitch: 23.550108
+logoutlocation:
+  world: world
+  x: 256.30210886239
+  y: 78.0
+  z: 20.92634588781981
+  yaw: 43.80571
+  pitch: 32.550014
+money: '0.0'
