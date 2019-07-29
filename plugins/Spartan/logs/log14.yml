@@ -722,3 +722,67 @@
 (340)[2019/07/29 21:59:51]: '[Spartan Build 250-105521/596204925] zNihility failed
   NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 265ms), (TPS:
   19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(341)[2019/07/29 22:02:15]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Sympathiqve failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  384ms), (TPS: 19.91), (Plib: false), (Online: 4), (t: calculated, d: -0.22768848754498094,
+  ds: 0.07535330069443091, diff: 0.04698129916863092, a: 66, r: 0.7967356006687112)]'
+(342)[2019/07/29 22:02:15]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Sympathiqve failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  384ms), (TPS: 19.94), (Plib: false), (Online: 4), (t: calculated, d: -0.3739040364667261,
+  ds: 0.07236931280394288, diff: 0.044755311278142876, a: 67, r: 0.12129684053920187)]'
+(343)[2019/07/29 22:09:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Sympathiqve failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 151ms), (TPS: 19.80), (Plib: false), (Online: 4), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 13, r: 0.24918707874468282, c:
+  (frequency cannot be too fast), diff: 0.01314946249380304, f: -20)]'
+(344)[2019/07/29 22:10:01]: '[Spartan Build 250-105521/596204925] zNihility failed
+  Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 265ms), (TPS: 19.97),
+  (Plib: false), (Online: 4), (t: ypos(full-block), c: 1, b: (stone, stone), dy: -0.5169479491049742)]'
+(345)[2019/07/29 22:14:55]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Sympathiqve failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 126ms), (TPS: 19.91), (Plib: false), (Online: 4), (t: jump(illegal),
+  d: 0.24813599859093927, od: 0.33319999363422426, a: 12, r: 0.001335979112141672,
+  c: (frequency cannot be too fast), diff: 0.015759993517485, f: -20)]'
+(346)[2019/07/29 22:14:55]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Sympathiqve failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 126ms), (TPS: 19.89), (Plib: false), (Online: 4), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 14, r: 0.24918707874468282, c:
+  (frequency cannot be too fast), diff: 0.013907462493803036, f: -20)]'
+(347)[2019/07/29 22:18:50]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  264ms), (TPS: 19.83), (Plib: false), (Online: 4), (t: illegal, d: -0.7290694119474779,
+  ds: 0.23438113047683373, a: 20, r: 0.625)]'
+(348)[2019/07/29 22:21:56]: '[Spartan Build 250-105521/596204925] zNihility failed
+  Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 264ms), (TPS: 19.97),
+  (Plib: false), (Online: 4), (t: ypos(full-block), c: 1, b: (stone, stone), dy: -0.5169479491049742)]'
+(349)[2019/07/29 22:32:27]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  49ms), (TPS: 19.94), (Plib: false), (Online: 4), (t: illegal, d: -0.21589434553872877,
+  ds: 0.4987158201597168, a: 16, r: 0.9375)]'
+(350)[2019/07/29 22:34:12]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 159ms), (TPS: 19.83), (Plib: false), (Online: 4), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 15, r: 0.24918707874468282, c:
+  (frequency cannot be too fast), diff: 0.014665462493803044, f: -20)]'
+(351)[2019/07/29 22:37:52]: '[Spartan Build 250-105521/596204925] Sympathiqve failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 112ms), (TPS:
+  19.82), (Plib: false), (Online: 3), (t: interact, c: crafting-table, r: jungle-log)]'
+(352)[2019/07/29 22:38:18]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 260ms), (TPS: 19.82), (Plib: false), (Online: 3), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 24, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.026591991726953895, f: -20)]'
+(353)[2019/07/29 22:38:18]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 260ms), (TPS: 19.98), (Plib: false), (Online: 3), (t: jump(illegal),
+  d: 0.24813599859093927, od: 0.33319999363422426, a: 26, r: 0.001335979112141672,
+  c: (frequency cannot be too fast), diff: 0.026371993517484996, f: -20)]'
+(354)[2019/07/29 22:38:18]: '(False Positive) [Spartan Build 250-105521/596204925]
+  _xmemequeenx_ failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 260ms), (TPS: 19.82), (Plib: false), (Online: 3), (t: jump(illegal),
+  d: 0.1647732818260721, od: 0.24813599859093927, a: 29, r: 0.16610926093821377, c:
+  (frequency cannot be too fast), diff: 0.026944715239067177, f: -20)]'
+(355)[2019/07/29 22:38:18]: '[Spartan Build 250-105521/596204925] _xmemequeenx_ failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 279ms), (TPS:
+  19.80), (Plib: false), (Online: 3), (t: difference, c: 13.358652281217884, n: 4.951071790749146,
+  d: 8.407580490468739, t: 42, l: 1.5, p: false)]'
