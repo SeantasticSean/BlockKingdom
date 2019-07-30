@@ -341,7 +341,7 @@ FastPlace:
       '1': spartan warn {player} You were detected for {detection}
       '2': spartan kick {player} {detection}
 MorePackets:
-  enabled: true
+  enabled: false
   name: MorePackets
   violation_divisor: 4
   disabled_worlds: ''
@@ -365,7 +365,7 @@ NoFall:
       '1': spartan warn {player} You were detected for {detection}
       '2': spartan kick {player} {detection}
 IllegalPosition:
-  enabled: true
+  enabled: false
   name: IllegalPosition
   violation_divisor: 1
   disabled_worlds: ''
