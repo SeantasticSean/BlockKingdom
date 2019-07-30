@@ -2040,3 +2040,45 @@
 (648)[2019/07/30 23:19:11]: SeantasticSean found 1 diamond on -3405, 63, -3402
 (649)[2019/07/30 23:19:11]: SeantasticSean found 1 diamond on -3405, 63, -3402
 (650)[2019/07/30 23:19:12]: SeantasticSean found 2 diamonds on -3406, 63, -3402
+(651)[2019/07/30 23:32:19]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed NoFall (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 140ms),
+  (TPS: 20.0), (Plib: false), (Online: 18), (t: ratio, b: 26)]'
+(652)[2019/07/30 23:33:14]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed Nuker (VL: 0) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 133ms),
+  (TPS: 19.87), (Plib: false), (Online: 18), (t: delay, ms: 0, l: 25, b: gravel)]'
+(653)[2019/07/30 23:34:04]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 114ms),
+  (TPS: 19.88), (Plib: false), (Online: 18), (t: food eating, c: 1)]'
+(654)[2019/07/30 23:34:50]: SeantasticSean found 1 diamond-ore on -3406, 11, -3231
+(655)[2019/07/30 23:34:51]: SeantasticSean found 1 diamond-ore on -3406, 11, -3232
+(656)[2019/07/30 23:34:51]: SeantasticSean found 1 diamond-ore on -3406, 11, -3232
+(657)[2019/07/30 23:34:51]: SeantasticSean found 1 diamond-ore on -3406, 11, -3232
+(658)[2019/07/30 23:34:52]: SeantasticSean found 1 diamond-ore on -3406, 11, -3232
+(659)[2019/07/30 23:34:52]: SeantasticSean found 1 diamond-ore on -3406, 11, -3231
+(660)[2019/07/30 23:35:18]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 103ms), (TPS: 19.94), (Plib: false), (Online: 18), (t: jump(illegal),
+  d: 0.24812499999999993, od: -0.07544406518948676, a: 6, r: 0.42488427506423854,
+  c: (start cannot be bound to negative values), diff: 0.2504750636636867, f: -20)]'
+(661)[2019/07/30 23:35:20]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  SeantasticSean failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 103ms), (TPS: 19.91), (Plib: false), (Online: 18), (t: jump(unusual),
+  d: 0.2751249999999992, a: 3, r: 0.4412342609382147)]'
+(662)[2019/07/30 23:35:20]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  SeantasticSean failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 103ms), (TPS: 19.89), (Plib: false), (Online: 18), (t: jump(unusual),
+  d: 0.1912225037217148, a: 4, r: 0.6324567646599295)]'
+(663)[2019/07/30 23:35:20]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  SeantasticSean failed Speed (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false),
+  (Ping: 103ms), (TPS: 19.94), (Plib: false), (Online: 18), (t: hop(illegal), d: 0.16456108135298564,
+  dm: 0.46)]'
+(664)[2019/07/30 23:36:46]: SeantasticSean found 2 gold-ores on -3422, 11, -3212
+(665)[2019/07/30 23:36:49]: SeantasticSean found 1 gold-ore on -3423, 11, -3211
+(666)[2019/07/30 23:36:49]: SeantasticSean found 1 gold-ore on -3423, 11, -3211
+(667)[2019/07/30 23:36:50]: SeantasticSean found 1 gold-ore on -3422, 11, -3211
+(668)[2019/07/30 23:36:51]: SeantasticSean found 1 gold-ore on -3422, 11, -3211
+(669)[2019/07/30 23:36:51]: SeantasticSean found 1 gold-ore on -3423, 11, -3210
+(670)[2019/07/30 23:37:18]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  SeantasticSean failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  128ms), (TPS: 19.93), (Plib: false), (Online: 18), (t: up, d: 0.1626426257485445,
+  ds: 0.014410654916423127, r: 0.3410318855256609)]'
