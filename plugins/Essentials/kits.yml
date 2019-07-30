@@ -22,34 +22,47 @@ kits:
     - iron_pickaxe 1
     - iron_axe 1
     - cooked_beef 16
-  jade:
-    delay: 604800
-    items:
-    - iron_helmet 1 protection:1
-    - iron_chestplate 1 protection:3
-    - iron_leggings 1 protection:3
-    - iron_boots 1 protection:3
-    - iron_sword 1 sharpness:2
-    - iron_shovel 1 efficiency:3
-    - iron_pickaxe 1 efficiency:3
-    - iron_axe 1 efficiency:3
-    - cooked_beef 16
-  effvipickaxe:
-    delay: 100000000000000000000
-    items:
-    - diamond_pickaxe 1 efficiency:6 unbreaking:4 silktouch:1
-  garnet:
+  silver:
     delay: 604800
     items:
     - iron_helmet 1 protection:2
     - iron_chestplate 1 protection:2
     - iron_leggings 1 protection:2
     - iron_boots 1 protection:2
-    - iron_sword 1 sharpness:3
-    - iron_shovel 1 efficiency:3 unbreaking:2
-    - iron_pickaxe 1 efficiency:3 unbreaking:2
-    - iron_axe 1 efficiency:3 unbreaking:2
+    - iron_sword 1 sharpness:2
+    - iron_shovel 1 efficiency:2
+    - iron_pickaxe 1 efficiency:2
+    - iron_axe 1 efficiency:2
     - cooked_beef 16
+  platinum:
+    delay: 1209600
+    items:
+    - diamond_helmet 1 protection:1 unbreaking:1
+    - diamond_chestplate 1 protection:1 unbreaking:1
+    - diamond_leggings 1 protection:1 unbreaking:1
+    - diamond_boots 1 protection:1 unbreaking:1
+    - diamond_sword 1 sharpness:2 unbreaking:1
+    - diamond_shovel 1 efficiency:2 unbreaking:1
+    - diamond_pickaxe 1 efficiency:2 unbreaking:1 fortune:1
+    - diamond_axe 1 efficiency:2 unbreaking:1
+    - cooked_beef 64
+  legend:
+    delay: 604800
+    items:
+    - diamond_helmet 1 protection:4 unbreaking:3
+    - diamond_chestplate 1 protection:4 unbreaking:3
+    - diamond_leggings 1 protection:4 unbreaking:3
+    - diamond_boots 1 protection:4 unbreaking:3
+    - diamond_sword 1 sharpness:4 unbreaking:3
+    - diamond_shovel 1 efficiency:4 unbreaking:3
+    - diamond_pickaxe 1 efficiency:4 unbreaking:3 fortune:3
+    - diamond_axe 1 efficiency:4 unbreaking:3
+    - cooked_beef 64
+#Paid ranks below
+  effvipickaxe:
+    delay: 100000000000000000000
+    items:
+    - diamond_pickaxe 1 efficiency:6 unbreaking:4 silktouch:1
   amethyst:
     delay: 604800
     items:
@@ -62,18 +75,18 @@ kits:
     - diamond_pickaxe 1 efficiency:3 unbreaking:3
     - iron_axe 1 efficiency:3 unbreaking:2
     - cooked_beef 16
-  #overlord:
-   # delay: 604800
-    #items:
-    #- diamond_helmet 1 protection:4 unbreaking:3
-    #- diamond_chestplate 1 protection:4 unbreaking:3
-    #- diamond_leggings 1 protection:4 unbreaking:3
-    #- diamond_boots 1 protection:4 unbreaking:3
-    #- diamond_sword 1 sharpness:4 unbreaking:3
-    #- diamond_shovel 1 efficiency:4 unbreaking:3
-    #- diamond_pickaxe 1 efficiency:4 unbreaking:3 fortune:3
-    #- diamond_axe 1 efficiency:4 unbreaking:3
-    #- cooked_beef 64
+  sapphire:
+    delay: 1209600
+    items:
+    - diamond_helmet 1 protection:3 unbreaking:3
+    - diamond_chestplate 1 protection:3 unbreaking:3
+    - diamond_leggings 1 protection:3 unbreaking:3
+    - diamond_boots 1 protection:3 unbreaking:3
+    - diamond_sword 1 sharpness:4 unbreaking:3
+    - diamond_shovel 1 efficiency:4 unbreaking:3
+    - diamond_pickaxe 1 efficiency:4 unbreaking:3
+    - diamond_axe 1 efficiency:4 unbreaking:3
+    - cooked_beef 64
   #mystic:
     #delay: 604800
     #items:
@@ -97,43 +110,6 @@ kits:
     #- diamond_shovel 1 efficiency:6 unbreaking:4
     #- diamond_pickaxe 1 efficiency:6 unbreaking:4 fortune:4
     #- diamond_axe 1 efficiency:6 unbreaking:4
-    #- cooked_beef 64
-#New Ranks Below
-  sapphire:
-    delay: 1209600
-    items:
-    - diamond_helmet 1 protection:3 unbreaking:3
-    - diamond_chestplate 1 protection:3 unbreaking:3
-    - diamond_leggings 1 protection:3 unbreaking:3
-    - diamond_boots 1 protection:3 unbreaking:3
-    - diamond_sword 1 sharpness:4 unbreaking:3
-    - diamond_shovel 1 efficiency:4 unbreaking:3
-    - diamond_pickaxe 1 efficiency:4 unbreaking:3
-    - diamond_axe 1 efficiency:4 unbreaking:3
-    - cooked_beef 64
-  diamond:
-    delay: 1209600
-    items:
-    - diamond_helmet 1 protection:2 unbreaking:2
-    - diamond_chestplate 1 protection:2 unbreaking:2
-    - diamond_leggings 1 protection:2 unbreaking:2
-    - diamond_boots 1 protection:2 unbreaking:2
-    - diamond_sword 1 sharpness:3 unbreaking:2
-    - diamond_shovel 1 efficiency:3 unbreaking:2
-    - diamond_pickaxe 1 efficiency:3 unbreaking:2 fortune:2
-    - diamond_axe 1 efficiency:3 unbreaking:2
-    - cooked_beef 64
-  #earl:
-    #delay: 1209600
-    #items:
-    #- diamond_helmet 1 protection:1 unbreaking:1
-    #- diamond_chestplate 1 protection:1 unbreaking:1
-    #- diamond_leggings 1 protection:1 unbreaking:1
-    #- diamond_boots 1 protection:1 unbreaking:1
-    #- diamond_sword 1 sharpness:2 unbreaking:1
-    #- diamond_shovel 1 efficiency:2 unbreaking:1
-    #- diamond_pickaxe 1 efficiency:2 unbreaking:1 fortune:1
-    #- diamond_axe 1 efficiency:2 unbreaking:1
     #- cooked_beef 64
   #baron:
     #delay: 1209600
