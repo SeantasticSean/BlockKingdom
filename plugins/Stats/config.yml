@@ -1,0 +1,6 @@
+mysql:
+  url: jdbc:mysql://localhost:3306/stats
+  username: chickensburning
+  password: 69j5k12WBwROgg6o0QbHslDoznO&C2bS
+useRabbitMq: false
+server-id: 941e0aa1-5184-4006-9e0c-707a75f9296f

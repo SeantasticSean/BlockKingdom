@@ -1,7 +1,7 @@
 lastAccountName: End3rduty
 timestamps:
-  login: 1564434987486
-  logout: 1564439841114
+  login: 1564454176151
+  logout: 1564453454316
   lastteleport: 1564438850292
   kits:
     member: 1564183567477
@@ -15,12 +15,12 @@ lastlocation:
   pitch: 1.6496756
 logoutlocation:
   world: world
-  x: -1648.9982524396455
-  y: 52.0
-  z: 1913.8026226835882
-  yaw: 272.30643
-  pitch: 11.301367
-money: '1786.07350000000005312'
+  x: -1636.0898563513165
+  y: 55.5
+  z: 1918.004066901371
+  yaw: 257.7563
+  pitch: 6.651367
+money: '1889.91750000000005302'
 homes:
   home:
     world: world
