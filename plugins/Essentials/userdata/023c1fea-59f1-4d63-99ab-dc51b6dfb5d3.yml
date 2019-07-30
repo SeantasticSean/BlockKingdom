@@ -1,24 +1,24 @@
 lastAccountName: _xmemequeenx_
 timestamps:
-  login: 1564439022077
-  logout: 1564436036184
-  lastteleport: 1564439107151
+  login: 1564454953670
+  logout: 1564456213768
+  lastteleport: 1564456119850
 ipAddress: 107.140.53.38
 lastlocation:
   world: world
-  x: -38.52324438384747
-  y: 68.0
-  z: -41.41332265928405
-  yaw: -45.59375
-  pitch: 8.549795
+  x: 254.69999998807907
+  y: 60.0
+  z: -11.300000011920929
+  yaw: 123.72778
+  pitch: -18.132385
 logoutlocation:
   world: world
-  x: 253.5742512891302
-  y: 79.0
-  z: 12.570264262453932
-  yaw: -80.43029
-  pitch: 49.350025
-money: '242.9918249999999982'
+  x: 254.9832132419662
+  y: 78.0
+  z: 10.950802660472345
+  yaw: 178.81616
+  pitch: 17.31154
+money: '296.4158249999999982'
 homes:
   home:
     world: world

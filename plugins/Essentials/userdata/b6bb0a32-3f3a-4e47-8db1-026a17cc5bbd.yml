@@ -1,19 +1,19 @@
 lastAccountName: ChickensDying
 timestamps:
   login: 1564451812478
-  lastteleport: 1564452695600
+  lastteleport: 1564459838350
   kits:
     member: 1564198987896
   logout: 1564431132059
 ipAddress: 67.167.123.194
 lastlocation:
   world: world
-  x: -1006.0009798068075
+  x: -1014.5630204805518
   y: 11.0
-  z: -1337.4541024719445
-  yaw: -193.4867
-  pitch: 20.699911
-money: '779.14650000000011371'
+  z: -1338.9502745009106
+  yaw: -207.13629
+  pitch: 12.299932
+money: '1062.72900000000011413'
 afk: false
 logoutlocation:
   world: world

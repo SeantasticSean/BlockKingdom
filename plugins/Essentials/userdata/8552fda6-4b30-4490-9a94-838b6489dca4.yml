@@ -2,17 +2,17 @@ lastAccountName: Sammy5k
 timestamps:
   login: 1564454813126
   logout: 1564352578248
-  lastteleport: 1564351018794
+  lastteleport: 1564459715680
   kits:
     member: 1564183423398
 ipAddress: 73.235.102.197
 lastlocation:
   world: world
-  x: 220.78045761164088
-  y: 68.0
-  z: -255.9111031455619
-  yaw: -128.54382
-  pitch: 14.999802
+  x: -2015.3030473566832
+  y: 8.000472144790455
+  z: 3529.1524266779616
+  yaw: 179.68292
+  pitch: -1.500013
 logoutlocation:
   world: world
   x: -31.409964176827568
