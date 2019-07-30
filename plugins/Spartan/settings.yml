@@ -29,7 +29,7 @@ Protections:
   use_teleport_protection: false
   avoid_self_bow_damage: true
   prevent_same_chat_messages: false
-  player_limit_per_ip: 3
+  player_limit_per_ip: 10
   interactions_per_tick: 20
   disallowed_building: true
   explosion_detection_cooldown: 4
