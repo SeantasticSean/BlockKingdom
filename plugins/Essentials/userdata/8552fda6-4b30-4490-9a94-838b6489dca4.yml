@@ -1,10 +1,11 @@
 lastAccountName: Sammy5k
 timestamps:
-  login: 1564454813126
+  login: 1564462462668
   logout: 1564352578248
   lastteleport: 1564459715680
   kits:
-    member: 1564183423398
+    member: 1564461673879
+    silver: 1564461663123
 ipAddress: 73.235.102.197
 lastlocation:
   world: world
@@ -24,3 +25,4 @@ powertools: {}
 afk: false
 godmode: false
 money: '4291100.0'
+nickname: §4Sammy5k

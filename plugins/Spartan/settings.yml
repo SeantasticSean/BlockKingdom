@@ -32,6 +32,7 @@ Protections:
   player_limit_per_ip: 3
   interactions_per_tick: 20
   disallowed_building: true
+  explosion_detection_cooldown: 4
 Important:
   op_bypass: false
   enable_permissions: true
@@ -41,6 +42,8 @@ Important:
 Detections:
   allow_cancelled_hit_checking: false
   update_blocks_upon_teleport: false
+  check_locations_around_player: false
+  run_asynchronously: true
 Performance:
   enable_performance_optimizer: true
   enable_false_positive_detection: true

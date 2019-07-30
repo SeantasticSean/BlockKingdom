@@ -1,0 +1,133 @@
+(1)[2019/07/30 04:26:14]: '[Spartan Build 251-105521/-480355121] ItzMecha failed NoFall
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 75ms), (TPS: 20.0), (Plib:
+  false), (Online: 5), (t: pattern, f: 0.0, a: 10, d: -0.22768848754498094)]'
+(2)[2019/07/30 04:28:15]: '[Spartan Build 251-105521/-480355121] End3rduty failed
+  Exploits (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 46ms), (TPS:
+  19.74), (Plib: false), (Online: 9), (t: undetected movement, ms: 1286, d: 0.24950801169675993)]'
+(3)[2019/07/30 04:28:56]: '[Spartan Build 251-105521/-480355121] ItzMecha failed NoSlowdown
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS: 19.68),
+  (Plib: false), (Online: 9), (t: food eating, c: 1)]'
+(4)[2019/07/30 04:29:03]: '[Spartan Build 251-105521/-480355121] _xmemequeenx_ failed
+  MorePackets (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 80ms), (TPS:
+  18.21), (Plib: false), (Online: 9), (t: delay, ct: 21, ms: 36)]'
+(5)[2019/07/30 04:29:03]: '[Spartan Build 251-105521/-480355121] _xmemequeenx_ failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 80ms), (TPS:
+  18.25), (Plib: false), (Online: 9), (t: delay, ct: 19, ms: 10)]'
+(6)[2019/07/30 04:29:06]: '[Spartan Build 251-105521/-480355121] _xmemequeenx_ failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 80ms), (TPS:
+  20.0), (Plib: false), (Online: 9), (t: instant, a: 22)]'
+(7)[2019/07/30 04:29:07]: '[Spartan Build 251-105521/-480355121] ItzMecha failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms), (TPS: 19.60),
+  (Plib: false), (Online: 9), (t: difference, c: 15.21976716456357, n: 10.229827207995216,
+  d: 4.989939956568355, t: 28, l: 1.5, p: false)]'
+(8)[2019/07/30 04:29:52]: '[Spartan Build 251-105521/-480355121] ItzMecha failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms), (TPS: 19.83),
+  (Plib: false), (Online: 9), (t: difference, c: 14.134494059012686, n: 10.631160865875934,
+  d: 3.5033331931367524, t: 23, l: 1.5, p: false)]'
+(9)[2019/07/30 04:30:08]: '[Spartan Build 251-105521/-480355121] ItzMecha failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 104ms), (TPS: 17.22),
+  (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d: 9.382908450771057)]'
+(10)[2019/07/30 04:30:15]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  ItzMecha failed Speed (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  104ms), (TPS: 16.22), (Plib: false), (Online: 9), (t: ice-speed(ground), d: 0.3816859135609119,
+  dm: 0.59)]'
+(11)[2019/07/30 04:30:17]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 104ms), (TPS:
+  15.82), (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d:
+  11.936153463847244)]'
+(12)[2019/07/30 04:30:25]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 104ms), (TPS:
+  19.32), (Plib: false), (Online: 9), (t: difference, c: 11.4477596910885, n: 9.27724586616245,
+  d: 2.170513824926049, t: 25, l: 1.5, p: false)]'
+(13)[2019/07/30 04:30:25]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 104ms), (TPS:
+  19.19), (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d:
+  10.661282488736578)]'
+(14)[2019/07/30 04:30:29]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 257ms), (TPS:
+  20.0), (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d:
+  7.672538178029931)]'
+(15)[2019/07/30 04:30:31]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 5) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 104ms), (TPS:
+  20.0), (Plib: false), (Online: 9), (t: difference, c: 12.706764019787784, n: 9.922419611316569,
+  d: 2.784344408471215, t: 26, l: 1.5, p: false)]'
+(16)[2019/07/30 04:30:39]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 257ms), (TPS:
+  17.11), (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d:
+  9.274336402941392)]'
+(17)[2019/07/30 04:30:40]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS:
+  16.52), (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d:
+  9.521775752996836)]'
+(18)[2019/07/30 04:30:40]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 6) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS:
+  15.94), (Plib: false), (Online: 9), (t: overall, diff: 1.7976931348623157E308, d:
+  11.296805657022885)]'
+(19)[2019/07/30 04:30:54]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS:
+  20.0), (Plib: false), (Online: 10), (t: difference, c: 10.196428652974818, n: 8.238600543077652,
+  d: 1.9578281098971662, t: 23, l: 1.5, p: false)]'
+(20)[2019/07/30 04:30:57]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 258ms), (TPS:
+  15.07), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 10.373010582112279)]'
+(21)[2019/07/30 04:30:59]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS:
+  14.11), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.850682052646662)]'
+(22)[2019/07/30 04:31:02]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 114ms), (TPS:
+  13.63), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 6.578572543898211)]'
+(23)[2019/07/30 04:31:03]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 111ms), (TPS:
+  13.70), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.960603484347086)]'
+(24)[2019/07/30 04:31:05]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 114ms), (TPS:
+  13.80), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.055458854356899)]'
+(25)[2019/07/30 04:31:06]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 111ms), (TPS:
+  13.78), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 13.005422721480095)]'
+(26)[2019/07/30 04:31:06]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 258ms), (TPS:
+  13.77), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.002590051527075)]'
+(27)[2019/07/30 04:31:09]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 111ms), (TPS:
+  13.54), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 13.72265122169424)]'
+(28)[2019/07/30 04:31:09]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 114ms), (TPS:
+  13.45), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.655290558556498)]'
+(29)[2019/07/30 04:31:12]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 111ms), (TPS:
+  12.76), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 14.404633989120061)]'
+(30)[2019/07/30 04:31:18]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 114ms), (TPS:
+  13.16), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.260451418375799)]'
+(31)[2019/07/30 04:31:23]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 259ms), (TPS:
+  12.70), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 9.103011336535685)]'
+(32)[2019/07/30 04:31:28]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  CringeMonster failed Speed (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  138ms), (TPS: 12.35), (Plib: false), (Online: 10), (t: ypos, d: 0.5665897271015838,
+  dm: 0.68, dm_s: 0.68)]'
+(33)[2019/07/30 04:31:35]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 273ms), (TPS:
+  13.61), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.516990834991768)]'
+(34)[2019/07/30 04:31:40]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 5) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 110ms), (TPS:
+  11.82), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.9250610897569995)]'
+(35)[2019/07/30 04:31:52]: '[Spartan Build 251-105521/-480355121] ItzMecha failed
+  MorePackets (VL: 6) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 107ms), (TPS:
+  8.788), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 13.177316186951165)]'
