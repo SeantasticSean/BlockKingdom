@@ -1,0 +1,165 @@
+(1)[2019/07/30 01:56:59]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 2) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 140ms), (TPS: 20.0),
+  (Plib: false), (Online: 2), (t: speed(block-change), block(s): dispenser, ds: 246.42919834396181,
+  dm: 0.25, dm_s: 0.25)]'
+(2)[2019/07/30 01:57:02]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 3) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 140ms), (TPS: 20.0),
+  (Plib: false), (Online: 2), (t: speed(block-change), block(s): dispenser, ds: 249.26283982350384,
+  dm: 0.25, dm_s: 0.25)]'
+(3)[2019/07/30 01:57:05]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 4) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 140ms), (TPS: 20.0),
+  (Plib: false), (Online: 2), (t: speed(normal), c: 2, b: dispenser, ds: 255.01503817173702,
+  dm: 0.4, dm_s: 0.4)]'
+(4)[2019/07/30 01:57:14]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 5) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 140ms), (TPS: 18.66),
+  (Plib: false), (Online: 3), (t: ypos(normal), c: 1, b: (diorite, stone), dy: -43.694561548248785)]'
+(5)[2019/07/30 01:57:21]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 171ms), (TPS: 19.99),
+  (Plib: false), (Online: 3), (t: speed(block-change), block(s): dispenser, ds: 3424.896240162711,
+  dm: 0.25, dm_s: 0.25)]'
+(6)[2019/07/30 01:57:21]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 2) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 171ms), (TPS: 20.0),
+  (Plib: false), (Online: 3), (t: speed(block-change), block(s): dispenser, ds: 3424.896240162711,
+  dm: 0.25, dm_s: 0.25)]'
+(7)[2019/07/30 01:57:26]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 3) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 171ms), (TPS: 19.98),
+  (Plib: false), (Online: 3), (t: speed(block-change), block(s): dispenser, ds: 3430.0703361407095,
+  dm: 0.25, dm_s: 0.25)]'
+(8)[2019/07/30 01:57:30]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 4) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 171ms), (TPS: 20.0),
+  (Plib: false), (Online: 3), (t: speed(normal), c: 2, b: dispenser, ds: 3427.20932785714,
+  dm: 0.4, dm_s: 0.4)]'
+(9)[2019/07/30 01:57:30]: '[Spartan Build 250-105521/596204925] zNihility failed Clip
+  (VL: 5) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 171ms), (TPS: 20.0),
+  (Plib: false), (Online: 3), (t: speed(normal), c: 2, b: dispenser, ds: 3427.20932785714,
+  dm: 0.4, dm_s: 0.4)]'
+(10)[2019/07/30 01:57:30]: '[Spartan Build 250-105521/596204925] zNihility failed
+  Clip (VL: 6) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 171ms), (TPS: 20.0),
+  (Plib: false), (Online: 3), (t: speed(normal), c: 2, b: dispenser, ds: 3427.20932785714,
+  dm: 0.4, dm_s: 0.4)]'
+(11)[2019/07/30 01:57:30]: '[Spartan Build 250] zNihility was kicked for Clip'
+(12)[2019/07/30 02:14:57]: '[Spartan Build 250-105521/596204925] End3rduty failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 55ms), (TPS:
+  19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(13)[2019/07/30 02:30:13]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 260ms), (TPS: 19.96), (Plib: false), (Online: 3), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 19, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.022801991726953894, f: -20)]'
+(14)[2019/07/30 02:52:13]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 45ms),
+  (TPS: 19.87), (Plib: false), (Online: 7), (t: neutral, d: 0.5878585789729982, r:
+  0.75, od: -0.5143294551172914, ds: 1.1021880340902896, a: 13, i: true, c: 1)]'
+(15)[2019/07/30 02:54:12]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 264ms), (TPS:
+  19.82), (Plib: false), (Online: 7), (t: interact, c: chest, r: furnace)]'
+(16)[2019/07/30 03:02:10]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  64ms), (TPS: 20.0), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.10302326717826386,
+  cd: 0.3102067387748609, diff: 0.207183471596597, dy: 0.024076446055822487, r: 0.9831682217657658)]'
+(17)[2019/07/30 03:02:35]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  60ms), (TPS: 19.92), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.09798606329345853,
+  cd: 0.20224166335792643, diff: 0.1042556000644679, dy: -0.024951644434274556, r:
+  0.19748105341734856)]'
+(18)[2019/07/30 03:02:36]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  60ms), (TPS: 19.94), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.09799850514210434,
+  cd: 0.20227266384523945, diff: 0.10427415870313511, dy: -0.02499955547485655, r:
+  0.6726726663015512)]'
+(19)[2019/07/30 03:02:36]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 2) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  60ms), (TPS: 19.87), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.09799923446638939,
+  cd: 0.20227479230438453, diff: 0.10427555783799514, dy: -0.024999773130296887, r:
+  0.5976735324530082)]'
+(20)[2019/07/30 03:23:05]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 261ms), (TPS:
+  19.85), (Plib: false), (Online: 5), (t: interact, c: crafting-table, r: cobblestone)]'
+(21)[2019/07/30 03:26:29]: '[Spartan Build 250-105521/596204925] Grepses failed NoFall
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 360ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: ratio, b: 5)]'
+(22)[2019/07/30 03:29:00]: '[Spartan Build 250-105521/596204925] Grepses failed Fly
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 232ms), (TPS: 19.90),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 14, r: 0.0)]'
+(23)[2019/07/30 03:29:46]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  202ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.09630208432394591,
+  cd: 0.1989977585184316, diff: 0.10269567419448569, dy: -0.02500000041171546, r:
+  0.5831917958952246)]'
+(24)[2019/07/30 03:29:48]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  231ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.09778694798954433,
+  cd: 0.20195607134257715, diff: 0.10416912335303281, dy: -0.025456987453637225, r:
+  0.9850195877368932)]'
+(25)[2019/07/30 03:29:49]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Grepses failed Jesus (VL: 2) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  231ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: walking(abnormal), d: 0.07323402277573793,
+  cd: 0.20329850272646746, diff: 0.13006447995072953, dy: -0.09714974552931466, r:
+  0.7467906190539466)]'
+(26)[2019/07/30 03:44:11]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 261ms), (TPS:
+  19.88), (Plib: false), (Online: 6), (t: interact, c: crafting-table, r: stone)]'
+(27)[2019/07/30 03:46:48]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 82ms), (TPS:
+  19.92), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(28)[2019/07/30 03:53:55]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 102ms), (TPS:
+  19.92), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(29)[2019/07/30 04:04:38]: '[Spartan Build 250-105521/596204925] ItzMecha failed GhostHand
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS: 19.82),
+  (Plib: false), (Online: 5), (t: interact, c: bell, r: crafting-table)]'
+(30)[2019/07/30 04:09:51]: '[Spartan Build 250-105521/596204925] Sympathiqve failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS:
+  19.85), (Plib: false), (Online: 7), (t: delay, ct: 21, ms: 12)]'
+(31)[2019/07/30 04:09:51]: '[Spartan Build 250-105521/596204925] Sympathiqve failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS:
+  19.92), (Plib: false), (Online: 7), (t: delay, ct: 21, ms: 31)]'
+(32)[2019/07/30 04:09:51]: '[Spartan Build 250-105521/596204925] Sympathiqve failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS:
+  19.80), (Plib: false), (Online: 7), (t: delay, ct: 21, ms: 33)]'
+(33)[2019/07/30 04:10:13]: '[Spartan Build 250-105521/596204925] Sympathiqve failed
+  MorePackets (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 154ms), (TPS:
+  19.90), (Plib: false), (Online: 7), (t: instant, a: 22)]'
+(34)[2019/07/30 04:10:22]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 260ms), (TPS: 19.76), (Plib: false), (Online: 7), (t: jump(illegal),
+  d: 0.0830778178064655, od: 0.164773281826065, a: 15, r: 0.24918707874467927, c:
+  (frequency cannot be too fast), diff: 0.014665462493799492, f: -20)]'
+(35)[2019/07/30 04:11:51]: '[Spartan Build 250-105521/596204925] zNihility failed
+  Exploits (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 260ms), (TPS:
+  19.80), (Plib: false), (Online: 6), (t: undetected movement, ms: 1036, d: 0.02442408821367792)]'
+(36)[2019/07/30 04:13:03]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 99ms), (TPS: 19.94), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 14, r: 0.3741870787446828, c:
+  (frequency cannot be too fast), diff: 0.013907462493803036, f: -20)]'
+(37)[2019/07/30 04:13:16]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.94), (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(38)[2019/07/30 04:13:18]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.94), (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(39)[2019/07/30 04:13:23]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  100ms), (TPS: 19.95), (Plib: false), (Online: 6), (t: illegal, d: -0.4546985436761304,
+  ds: 0.12774433367474103, a: 15, r: 0.625)]'
+(40)[2019/07/30 04:16:21]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zKirk failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 56ms), (TPS: 19.89), (Plib: false), (Online: 6), (t: step[packets(high)],
+  d: 0.33319999363422426, c: 1.376735613781733, l: 1)]'
+(41)[2019/07/30 04:16:40]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 105ms), (TPS:
+  19.94), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(42)[2019/07/30 04:17:41]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 261ms), (TPS:
+  19.92), (Plib: false), (Online: 6), (t: interact, c: chest, r: cobblestone)]'
+(43)[2019/07/30 04:18:07]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 106ms), (TPS:
+  19.94), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(44)[2019/07/30 04:18:54]: '[Spartan Build 250-105521/596204925] zNihility failed
+  Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 261ms), (TPS: 19.24),
+  (Plib: false), (Online: 6), (t: ypos(full-block), c: 1, b: (dirt, grass-block),
+  dy: -0.33974314789814386)]'
+(45)[2019/07/30 04:23:38]: '[Spartan Build 250-105521/596204925] zKirk failed IrregularMovements
+  (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 54ms), (TPS: 4.967),
+  (Plib: false), (Online: 5), (t: hop(repeated), v: 0.04659, ms: 102)]'

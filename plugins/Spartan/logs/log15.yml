@@ -1,0 +1,99 @@
+(1)[2019/07/29 23:38:11]: CringeMonster found 1 gold-ore on -2019, 6, 3549
+(2)[2019/07/29 23:38:40]: CringeMonster found 1 gold-ore on -2018, 7, 3551
+(3)[2019/07/29 23:38:41]: CringeMonster found 4 gold-ores on -2019, 7, 3551
+(4)[2019/07/29 23:38:41]: CringeMonster found 1 gold-ore on -2019, 8, 3551
+(5)[2019/07/29 23:39:22]: CringeMonster found 1 diamond on -2017, 6, 3553
+(6)[2019/07/29 23:39:27]: CringeMonster found 1 diamond on -2017, 5, 3553
+(7)[2019/07/29 23:43:57]: CringeMonster found 1 diamond on -2019, 2, 3552
+(8)[2019/07/29 23:50:04]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 102ms), (TPS:
+  19.98), (Plib: false), (Online: 2), (t: food eating, c: 1)]'
+(9)[2019/07/30 00:19:25]: '(False Positive) [Spartan Build 250-105521/596204925] SoftNina
+  failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping:
+  90ms), (TPS: 19.95), (Plib: false), (Online: 3), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 15, r: 0.3741870787446828, c: (frequency cannot be too
+  fast), diff: 0.014665462493803044, f: -20)]'
+(10)[2019/07/30 00:25:50]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 102ms), (TPS:
+  19.79), (Plib: false), (Online: 3), (t: interact, c: furnace, r: furnace)]'
+(11)[2019/07/30 00:27:56]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Clip (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 3), (t: ypos(illegal), c: 4, b: (bubble-coral-wall-fan,
+  horn-coral-wall-fan), cr: 0.1555, pr: 0.1555)]'
+(12)[2019/07/30 00:27:56]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Clip (VL: 2) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 3), (t: ypos(illegal), c: 4, b: (bubble-coral-wall-fan,
+  horn-coral-wall-fan), cr: 0.1555, pr: 0.1555)]'
+(13)[2019/07/30 00:27:56]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Clip (VL: 3) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  100ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: ypos(repeated), c: 1, block(s):
+  (bubble-coral-wall-fan, horn-coral-wall-fan), dy: 0.15559999786614753)]'
+(14)[2019/07/30 00:27:56]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Clip (VL: 3) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  100ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: ypos(repeated), c: 1, block(s):
+  (bubble-coral-wall-fan, horn-coral-wall-fan), dy: 0.15559999786614753)]'
+(15)[2019/07/30 00:27:56]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Clip (VL: 3) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  100ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: ypos(repeated), c: 1, block(s):
+  (bubble-coral-wall-fan, horn-coral-wall-fan), dy: 0.15559999786614753)]'
+(16)[2019/07/30 00:27:57]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Clip (VL: 4) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 3), (t: ypos(illegal), c: 4, b: (bubble-coral-wall-fan,
+  horn-coral-wall-fan), cr: 0.1555, pr: 0.1555)]'
+(17)[2019/07/30 00:27:57]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Clip (VL: 5) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 3), (t: ypos(illegal), c: 4, b: (bubble-coral-wall-fan,
+  horn-coral-wall-fan), cr: 0.1555, pr: 0.1555)]'
+(18)[2019/07/30 00:27:57]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Clip (VL: 5) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  100ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: ypos(repeated), c: 1, block(s):
+  (bubble-coral-wall-fan, horn-coral-wall-fan), dy: 0.15559999786614753)]'
+(19)[2019/07/30 00:27:57]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Clip (VL: 5) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  100ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: ypos(repeated), c: 1, block(s):
+  (bubble-coral-wall-fan, horn-coral-wall-fan), dy: 0.15559999786614753)]'
+(20)[2019/07/30 00:27:57]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Clip (VL: 5) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  100ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: ypos(repeated), c: 1, block(s):
+  (bubble-coral-wall-fan, horn-coral-wall-fan), dy: 0.15559999786614753)]'
+(21)[2019/07/30 00:29:02]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  100ms), (TPS: 19.80), (Plib: false), (Online: 3), (t: walking(abnormal), d: 0.09510200807764421,
+  cd: 0.19748893046704538, diff: 0.10238692238940117, dy: 0.07316294769771048, r:
+  0.32505149258061294)]'
+(22)[2019/07/30 00:35:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 95ms), (TPS:
+  19.83), (Plib: false), (Online: 1), (t: break, c: cobblestone, r: cobblestone)]'
+(23)[2019/07/30 01:11:16]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.93), (Plib: false), (Online: 2), (t: break, c: stone, r: stone)]'
+(24)[2019/07/30 01:11:16]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.92), (Plib: false), (Online: 2), (t: break, c: stone, r: stone)]'
+(25)[2019/07/30 01:24:02]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 271ms), (TPS: 20.0), (Plib: false), (Online: 2), (t: jump(illegal),
+  d: 0.2481250000000017, od: -0.22768848754498094, a: 9, r: 0.04486060066871289, c:
+  (start cannot be bound to negative values), diff: 0.40423548601918263, f: 32)]'
+(26)[2019/07/30 01:24:02]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed IrregularMovements (VL: 2) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 271ms), (TPS: 20.0), (Plib: false), (Online: 2), (t: jump(illegal),
+  d: 0.16476250320673103, od: 0.2481250000000017, a: 10, r: 0.20962310387544392, c:
+  (jump movement must start on ground), diff: 0.012542495267470685, f: 31)]'
+(27)[2019/07/30 01:24:02]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed IrregularMovements (VL: 2) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 271ms), (TPS: 20.0), (Plib: false), (Online: 2), (t: jump(illegal),
+  d: 0.08306725475931387, od: 0.16476250320673103, a: 11, r: 0.2926903586347578, c:
+  (jump movement must start on ground), diff: 0.011633246921617157, f: 30)]'
+(28)[2019/07/30 01:30:11]: zNihility found 1 gold-ore on -744, 13, 25
+(29)[2019/07/30 01:30:11]: zNihility found 1 gold-ore on -743, 13, 25
+(30)[2019/07/30 01:30:14]: zNihility found 5 gold-ores on -743, 13, 25
+(31)[2019/07/30 01:30:14]: zNihility found 2 gold-ores on -743, 13, 25
+(32)[2019/07/30 01:30:16]: zNihility found 2 gold-ores on -743, 12, 24
+(33)[2019/07/30 01:34:10]: zNihility found 1 gold-ore on -738, 11, 51
+(34)[2019/07/30 01:34:13]: zNihility found 3 gold-ores on -738, 9, 51
+(35)[2019/07/30 01:34:14]: zNihility found 1 gold-ore on -739, 9, 51
+(36)[2019/07/30 01:34:17]: zNihility found 2 gold-ores on -739, 9, 51
+(37)[2019/07/30 01:49:00]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 263ms), (TPS:
+  19.97), (Plib: false), (Online: 1), (t: interact, c: chest, r: cobblestone)]'

@@ -1,0 +1,665 @@
+(1)[2019/07/27 21:24:44]: '(False Positive) [Spartan Build 250-105521/596204925] ItzMecha
+  failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 131ms), (TPS:
+  20.0), (Plib: false), (Online: 6), (t: down, d: -0.07472379453525946, ds: 0.00367620699061888,
+  r: 0.0)]'
+(2)[2019/07/27 21:29:45]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoFall (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 64ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: ratio, b: 28)]'
+(3)[2019/07/27 21:31:52]: ItzMecha found 3 gold-ores on -3403, 11, -3552
+(4)[2019/07/27 21:34:18]: ItzMecha found 1 diamond on -3406, 12, -3608
+(5)[2019/07/27 21:34:19]: ItzMecha found 1 diamond on -3406, 11, -3609
+(6)[2019/07/27 21:34:20]: ItzMecha found 1 diamond on -3406, 11, -3609
+(7)[2019/07/27 21:34:20]: ItzMecha found 1 diamond on -3406, 11, -3609
+(8)[2019/07/27 21:35:10]: SeantasticSean found 1 gold-ore on -3406, 11, -3274
+(9)[2019/07/27 21:35:11]: SeantasticSean found 1 gold-ore on -3406, 11, -3273
+(10)[2019/07/27 21:35:13]: SeantasticSean found 1 diamond-ore on -3406, 11, -3271
+(11)[2019/07/27 21:35:14]: SeantasticSean found 1 diamond-ore on -3406, 11, -3271
+(12)[2019/07/27 21:35:18]: SeantasticSean found 2 diamond-ores on -3406, 11, -3272
+(13)[2019/07/27 21:35:19]: SeantasticSean found 1 gold-ore on -3406, 11, -3272
+(14)[2019/07/27 21:35:20]: SeantasticSean found 1 gold-ore on -3406, 11, -3272
+(15)[2019/07/27 21:35:21]: SeantasticSean found 1 gold-ore on -3406, 11, -3272
+(16)[2019/07/27 21:35:23]: SeantasticSean found 3 gold-ores on -3406, 10, -3272
+(17)[2019/07/27 21:37:41]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Cirke failed IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 57ms), (TPS: 19.85), (Plib: false), (Online: 7), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 20, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.02355999172695389, f: -20)]'
+(18)[2019/07/27 21:44:28]: SeantasticSean found 1 gold-ore on -3432, 11, -3231
+(19)[2019/07/27 21:44:29]: SeantasticSean found 2 gold-ores on -3432, 11, -3231
+(20)[2019/07/27 21:44:30]: SeantasticSean found 1 gold-ore on -3432, 11, -3231
+(21)[2019/07/27 21:44:30]: SeantasticSean found 1 gold-ore on -3433, 10, -3231
+(22)[2019/07/27 21:44:31]: SeantasticSean found 1 gold-ore on -3433, 10, -3231
+(23)[2019/07/27 21:44:32]: SeantasticSean found 1 gold-ore on -3434, 10, -3231
+(24)[2019/07/27 21:44:33]: SeantasticSean found 1 gold-ore on -3433, 10, -3231
+(25)[2019/07/27 21:46:18]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 50ms), (TPS:
+  19.95), (Plib: false), (Online: 6), (t: interact, c: furnace, r: furnace)]'
+(26)[2019/07/27 21:46:25]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 50ms), (TPS:
+  19.81), (Plib: false), (Online: 6), (t: interact, c: furnace, r: furnace)]'
+(27)[2019/07/27 21:47:13]: ChickensDying found 2 gold-ores on -1009, 11, -1339
+(28)[2019/07/27 21:47:16]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 47ms), (TPS:
+  19.94), (Plib: false), (Online: 6), (t: interact, c: chest, r: crafting-table)]'
+(29)[2019/07/27 21:50:20]: ChickensDying found 1 gold-ore on -1009, 11, -1339
+(30)[2019/07/27 21:50:22]: ChickensDying found 1 gold-ore on -1009, 11, -1339
+(31)[2019/07/27 21:50:58]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 55ms), (TPS:
+  19.93), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(32)[2019/07/27 21:52:07]: ChickensDying found 1 diamond on -1015, 11, -1345
+(33)[2019/07/27 21:52:10]: ChickensDying found 1 diamond on -1015, 10, -1346
+(34)[2019/07/27 21:52:11]: ChickensDying found 1 diamond on -1015, 10, -1346
+(35)[2019/07/27 21:52:58]: ChickensDying found 1 diamond on -1006, 11, -1356
+(36)[2019/07/27 21:52:58]: ChickensDying found 1 diamond on -1006, 11, -1356
+(37)[2019/07/27 21:52:59]: ChickensDying found 1 diamond on -1006, 11, -1356
+(38)[2019/07/27 21:53:00]: ChickensDying found 1 diamond on -1006, 11, -1356
+(39)[2019/07/27 21:53:01]: ChickensDying found 1 diamond on -1006, 11, -1356
+(40)[2019/07/27 21:53:03]: ChickensDying found 1 diamond on -1006, 11, -1356
+(41)[2019/07/27 21:55:37]: '[Spartan Build 250-105521/596204925] ItzMecha failed IrregularMovements
+  (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 109ms), (TPS: 12.83),
+  (Plib: false), (Online: 6), (t: hop(repeated), v: 0.02442, ms: 38)]'
+(42)[2019/07/27 21:55:37]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 447ms),
+  (TPS: 12.82), (Plib: false), (Online: 6), (t: hop(repeated), v: 0.02442, ms: 9)]'
+(43)[2019/07/27 21:56:07]: Cirke found 1 gold-ore on -1621, 12, 2038
+(44)[2019/07/27 21:56:08]: Cirke found 1 gold-ore on -1621, 12, 2038
+(45)[2019/07/27 21:56:10]: Cirke found 1 gold-ore on -1621, 12, 2038
+(46)[2019/07/27 21:56:12]: Cirke found 1 gold-ore on -1621, 12, 2038
+(47)[2019/07/27 21:56:14]: Cirke found 2 gold-ores on -1621, 13, 2039
+(48)[2019/07/27 21:57:09]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 105ms), (TPS: 19.94),
+  (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(49)[2019/07/27 21:57:11]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 217ms), (TPS:
+  19.92), (Plib: false), (Online: 6), (t: blink, l: 22)]'
+(50)[2019/07/27 21:57:57]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 104ms), (TPS: 19.94), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 19, r: 0.24918707874468282, c: (frequency cannot be too
+  fast), diff: 0.017697462493803037, f: -20)]'
+(51)[2019/07/27 21:58:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 146ms), (TPS: 19.88), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.24813599859093927, od: 0.33319999363422426, a: 11, r: 0.001335979112141672,
+  c: (frequency cannot be too fast), diff: 0.01500199351748499, f: -20)]'
+(52)[2019/07/27 21:58:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 146ms), (TPS: 19.94), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.1647732818260721, od: 0.24813599859093927, a: 12, r: 0.16610926093821377, c:
+  (frequency cannot be too fast), diff: 0.014058715239067182, f: -20)]'
+(53)[2019/07/27 21:58:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 146ms), (TPS: 19.92), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.1647732818260721, a: 13, r: 0.24918707874468282, c:
+  (frequency cannot be too fast), diff: 0.01314946249380304, f: -20)]'
+(54)[2019/07/27 21:59:25]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 102ms), (TPS: 19.94),
+  (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(55)[2019/07/27 22:00:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Cirke failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 58ms),
+  (TPS: 19.81), (Plib: false), (Online: 6), (t: neutral, d: 0.3955758986732967, r:
+  0.41999998688697815, od: -0.15233518685055714, ds: 0.5479110855238538, a: 15, i:
+  true, c: 1)]'
+(56)[2019/07/27 22:01:33]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  BoatMove (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.99), (Plib: false), (Online: 6), (t: water(horizontal), ds: 12.222869032162313,
+  dm: 6.0, bt: 13)]'
+(57)[2019/07/27 22:01:34]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  BoatMove (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.99), (Plib: false), (Online: 6), (t: water(horizontal), ds: 20.48124942913066,
+  dm: 6.0, bt: 16)]'
+(58)[2019/07/27 22:01:35]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  BoatMove (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.99), (Plib: false), (Online: 6), (t: water(horizontal), ds: 28.78198342181209,
+  dm: 6.0, bt: 19)]'
+(59)[2019/07/27 22:01:36]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  BoatMove (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.99), (Plib: false), (Online: 6), (t: water(horizontal), ds: 37.15921664019943,
+  dm: 6.0, bt: 22)]'
+(60)[2019/07/27 22:01:37]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  BoatMove (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.99), (Plib: false), (Online: 6), (t: water(horizontal), ds: 45.552321941278336,
+  dm: 6.0, bt: 3)]'
+(61)[2019/07/27 22:01:47]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 104ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 6.708610171581039, dm: 6.0,
+  bt: 21)]'
+(62)[2019/07/27 22:01:47]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  BoatMove (VL: 5) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 58ms), (TPS:
+  19.90), (Plib: false), (Online: 6), (t: water(packets), ds: 1.770591053143974, dm:
+  1.5, bt: 6)]'
+(63)[2019/07/27 22:04:04]: '[Spartan Build 250-105521/596204925] ItzMecha failed Speed
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 99ms), (TPS: 19.84),
+  (Plib: false), (Online: 6), (t: normal, reason: entity, d: 1.1878493734106412, dm:
+  0.5, dm_s: 0.5, a: 3)]'
+(64)[2019/07/27 22:06:21]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 94ms), (TPS:
+  19.90), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(65)[2019/07/27 22:06:22]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 94ms), (TPS:
+  18.80), (Plib: false), (Online: 6), (t: difference, c: 9.422342656020605, n: 4.146248634340145,
+  d: 5.276094021680461, t: 24, l: 1.5, p: true)]'
+(66)[2019/07/27 22:06:27]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 94ms), (TPS:
+  19.82), (Plib: false), (Online: 6), (t: instant, a: 20)]'
+(67)[2019/07/27 22:07:19]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 75ms), (TPS:
+  19.79), (Plib: false), (Online: 6), (t: difference, c: 10.299059904157634, n: 3.390353698233893,
+  d: 6.908706205923741, t: 27, l: 1.5, p: true)]'
+(68)[2019/07/27 22:07:19]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 75ms),
+  (TPS: 19.89), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 14, r: 0.7491870787446828, c: (frequency cannot be too
+  fast), diff: 0.013907462493803036, f: -20)]'
+(69)[2019/07/27 22:07:19]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 75ms), (TPS:
+  20.0), (Plib: false), (Online: 6), (t: difference, c: 16.42790302940377, n: 4.127851572938629,
+  d: 12.300051456465141, t: 31, l: 1.5, p: true)]'
+(70)[2019/07/27 22:08:22]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 63ms), (TPS:
+  19.86), (Plib: false), (Online: 6), (t: difference, c: 13.863892041325053, n: 3.242678069309192,
+  d: 10.621213972015862, t: 34, l: 1.5, p: true)]'
+(71)[2019/07/27 22:08:46]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 107ms), (TPS: 19.96),
+  (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(72)[2019/07/27 22:09:02]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 59ms), (TPS:
+  19.88), (Plib: false), (Online: 6), (t: difference, c: 12.937921679173675, n: 4.447517988521686,
+  d: 8.490403690651988, t: 27, l: 1.5, p: true)]'
+(73)[2019/07/27 22:09:27]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 105ms), (TPS: 19.93),
+  (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(74)[2019/07/27 22:09:46]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 103ms), (TPS: 19.94),
+  (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(75)[2019/07/27 22:10:22]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS:
+  19.93), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(76)[2019/07/27 22:11:30]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Speed (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  101ms), (TPS: 19.83), (Plib: false), (Online: 6), (t: normal, reason: air, d: 0.452709159774343,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(77)[2019/07/27 22:14:36]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS: 19.95),
+  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(78)[2019/07/27 22:15:17]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS: 19.94),
+  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(79)[2019/07/27 22:17:56]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Speed (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  100ms), (TPS: 19.87), (Plib: false), (Online: 4), (t: normal, reason: walking, d:
+  0.29729938099645997, dm: 0.292, dm_s: 0.292, a: 0)]'
+(80)[2019/07/27 22:21:36]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 99ms), (TPS: 19.99),
+  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(81)[2019/07/27 22:23:25]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS: 19.95),
+  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(82)[2019/07/27 22:32:38]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 37ms), (TPS:
+  19.94), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(83)[2019/07/27 22:32:59]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 40ms), (TPS:
+  19.95), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(84)[2019/07/27 22:33:48]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 8.151434708662606, dm: 6.0,
+  bt: 13)]'
+(85)[2019/07/27 22:33:50]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 21.228388552084603, dm: 6.0,
+  bt: 13)]'
+(86)[2019/07/27 22:33:51]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 28.750853097094616, dm: 6.0,
+  bt: 16)]'
+(87)[2019/07/27 22:33:53]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 31.709496933850115, dm: 6.0,
+  bt: 3)]'
+(88)[2019/07/27 22:34:14]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 99ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 6.580291698887955, dm: 6.0,
+  bt: 17)]'
+(89)[2019/07/27 22:34:15]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 99ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 14.409728530280782, dm: 6.0,
+  bt: 20)]'
+(90)[2019/07/27 22:34:16]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 99ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 22.740216714528636, dm: 6.0,
+  bt: 23)]'
+(91)[2019/07/27 22:34:17]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 99ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 31.128668167675876, dm: 6.0,
+  bt: 26)]'
+(92)[2019/07/27 22:34:18]: '[Spartan Build 250-105521/596204925] ItzMecha failed BoatMove
+  (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 99ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: water(horizontal), ds: 39.52498724764756, dm: 6.0,
+  bt: 29)]'
+(93)[2019/07/27 22:39:02]: '[Spartan Build 250-105521/596204925] ItzMecha failed NoSlowdown
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS: 19.92),
+  (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(94)[2019/07/27 22:40:47]: '[Spartan Build 250-105521/596204925] ItzMecha failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS: 19.92),
+  (Plib: false), (Online: 5), (t: interact, c: oak-door, r: stone-bricks)]'
+(95)[2019/07/27 22:44:31]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms),
+  (TPS: 12.75), (Plib: false), (Online: 5), (t: illegal, d: -0.15026903217110998,
+  ds: 0.08131725347428898, a: 27, r: 0.3768868225829891)]'
+(96)[2019/07/27 22:44:43]: SeantasticSean found 2 diamonds on -3405, 66, -3403
+(97)[2019/07/27 22:44:45]: SeantasticSean found 2 diamonds on -3404, 66, -3403
+(98)[2019/07/27 22:44:45]: SeantasticSean found 3 diamonds on -3403, 66, -3403
+(99)[2019/07/27 22:48:03]: '[Spartan Build 250-105521/596204925] ItzMecha failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS: 19.93),
+  (Plib: false), (Online: 6), (t: interact, c: chest, r: grass-block)]'
+(100)[2019/07/27 22:49:51]: zNihility found 1 gold-ore on -2189, 14, 127
+(101)[2019/07/27 22:49:54]: zNihility found 1 gold-ore on -2189, 13, 127
+(102)[2019/07/27 22:49:59]: zNihility found 1 gold-ore on -2190, 13, 127
+(103)[2019/07/27 22:50:01]: zNihility found 1 gold-ore on -2189, 13, 127
+(104)[2019/07/27 22:50:03]: zNihility found 6 gold-ores on -2189, 13, 127
+(105)[2019/07/27 22:50:04]: zNihility found 1 gold-ore on -2190, 12, 126
+(106)[2019/07/27 22:50:06]: zNihility found 1 gold-ore on -2190, 12, 126
+(107)[2019/07/27 22:50:06]: zNihility found 1 gold-ore on -2190, 12, 126
+(108)[2019/07/27 22:50:07]: zNihility found 1 gold-ore on -2190, 12, 126
+(109)[2019/07/27 22:51:22]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS:
+  19.88), (Plib: false), (Online: 5), (t: interact, c: chest, r: dispenser)]'
+(110)[2019/07/27 22:52:27]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 265ms), (TPS:
+  19.87), (Plib: false), (Online: 5), (t: break, c: coal-ore, r: coal-ore)]'
+(111)[2019/07/27 22:53:31]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 102ms), (TPS: 19.80), (Plib: false), (Online: 5), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 18, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.0220439917269539, f: -20)]'
+(112)[2019/07/27 22:53:31]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 102ms), (TPS: 19.96), (Plib: false), (Online: 5), (t: jump(illegal), d: 0.24813599859094637,
+  od: 0.33319999363422426, a: 20, r: 0.0013359791121487774, c: (frequency cannot be
+  too fast), diff: 0.02182399351747788, f: -20)]'
+(113)[2019/07/27 22:53:31]: zNihility found 1 gold-ore on -2215, 26, 195
+(114)[2019/07/27 22:54:15]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 296ms), (TPS:
+  16.12), (Plib: false), (Online: 5), (t: break, c: iron-ore, r: stone)]'
+(115)[2019/07/27 22:54:27]: zNihility found 1 gold-ore on -2240, 24, 150
+(116)[2019/07/27 22:54:32]: zNihility found 8 gold-ores on -2240, 24, 149
+(117)[2019/07/27 22:55:16]: zNihility found 1 gold-ore on -2246, 11, 129
+(118)[2019/07/27 22:55:17]: zNihility found 1 gold-ore on -2247, 11, 129
+(119)[2019/07/27 22:55:18]: zNihility found 3 gold-ores on -2247, 11, 128
+(120)[2019/07/27 22:55:19]: zNihility found 1 gold-ore on -2247, 11, 128
+(121)[2019/07/27 22:55:22]: zNihility found 1 gold-ore on -2247, 11, 127
+(122)[2019/07/27 22:55:22]: zNihility found 3 gold-ores on -2247, 11, 127
+(123)[2019/07/27 22:55:34]: zNihility found 5 gold-ores on -2237, 11, 131
+(124)[2019/07/27 22:55:35]: zNihility found 1 gold-ore on -2236, 11, 131
+(125)[2019/07/27 22:56:28]: zNihility found 1 gold-ore on -2247, 11, 126
+(126)[2019/07/27 22:56:48]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 272ms), (TPS:
+  19.78), (Plib: false), (Online: 5), (t: break, c: iron-ore, r: stone)]'
+(127)[2019/07/27 22:57:17]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Speed (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  102ms), (TPS: 13.75), (Plib: false), (Online: 5), (t: normal, reason: ground, d:
+  0.4532293625413504, dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(128)[2019/07/27 22:58:30]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS:
+  19.95), (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(129)[2019/07/27 22:58:55]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 61ms), (TPS: 13.81), (Plib: false), (Online: 5), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 6, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.012947991726953892, f: -20)]'
+(130)[2019/07/27 22:58:55]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 266ms), (TPS:
+  13.80), (Plib: false), (Online: 5), (t: break, c: redstone-ore, r: redstone-ore)]'
+(131)[2019/07/27 22:59:03]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS:
+  19.96), (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(132)[2019/07/27 23:00:16]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 53ms), (TPS: 19.83), (Plib: false), (Online: 5), (t: step[packets(high)],
+  d: 0.33319999363422426, c: 1.5800000131130219, l: 1)]'
+(133)[2019/07/27 23:01:46]: zNihility found 1 diamond-ore on -2235, 11, 39
+(134)[2019/07/27 23:01:47]: zNihility found 1 diamond-ore on -2235, 11, 39
+(135)[2019/07/27 23:01:50]: zNihility found 1 diamond-ore on -2234, 10, 40
+(136)[2019/07/27 23:01:53]: zNihility found 1 diamond-ore on -2234, 10, 40
+(137)[2019/07/27 23:03:45]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  76ms), (TPS: 19.82), (Plib: false), (Online: 5), (t: neutral, d: 0.41999998688697815,
+  r: 0.9199999868869781, od: -0.17647087614427903, ds: 0.5964708630312572, a: 13,
+  i: true, c: 1)]'
+(138)[2019/07/27 23:05:35]: zNihility found 4 diamonds on -2227, 63, -174
+(139)[2019/07/27 23:05:36]: zNihility found 2 diamonds on -2227, 63, -175
+(140)[2019/07/27 23:05:38]: zNihility found 2 diamonds on -2227, 63, -176
+(141)[2019/07/27 23:05:39]: zNihility found 4 diamonds on -2227, 63, -177
+(142)[2019/07/27 23:09:44]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 100ms), (TPS: 13.78), (Plib: false), (Online: 5), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 9, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.01522199172695389, f: -20)]'
+(143)[2019/07/27 23:11:08]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS:
+  19.94), (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(144)[2019/07/27 23:12:38]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 101ms), (TPS: 16.44), (Plib: false), (Online: 5), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 7, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.0137059917269539, f: -20)]'
+(145)[2019/07/27 23:12:38]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 101ms), (TPS: 16.42), (Plib: false), (Online: 5), (t: jump(illegal), d: 0.1647732818260721,
+  od: 0.24813599859093927, a: 8, r: 0.16610926093821377, c: (frequency cannot be too
+  fast), diff: 0.011026715239067175, f: -20)]'
+(146)[2019/07/27 23:12:38]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 101ms), (TPS: 16.38), (Plib: false), (Online: 5), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 9, r: 0.24918707874468282, c: (frequency cannot be too
+  fast), diff: 0.010117462493803034, f: -20)]'
+(147)[2019/07/27 23:13:49]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  292ms), (TPS: 19.88), (Plib: false), (Online: 5), (t: ypos(normal), dy: 0.5628236320017344,
+  l: 0.56)]'
+(148)[2019/07/27 23:14:22]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 45ms), (TPS:
+  19.94), (Plib: false), (Online: 5), (t: food eating, c: 1)]'
+(149)[2019/07/27 23:16:17]: '[Spartan Build 250-105521/596204925] zNihility failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 271ms), (TPS:
+  19.96), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(150)[2019/07/27 23:18:56]: '[Spartan Build 250-105521/596204925] zNihility failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 266ms), (TPS:
+  19.90), (Plib: false), (Online: 6), (t: interact, c: chest, r: furnace)]'
+(151)[2019/07/27 23:19:57]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 102ms), (TPS:
+  19.95), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(152)[2019/07/27 23:22:40]: '[Spartan Build 250-105521/596204925] Cirke failed Fly
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 13.99),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 28, r: 0.0)]'
+(153)[2019/07/27 23:22:57]: '[Spartan Build 250-105521/596204925] zNihility failed
+  Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 267ms), (TPS: 15.62),
+  (Plib: false), (Online: 6), (t: neutral, d: 0.5, r: 0.5, od: 0.0, ds: 0.5, a: 0,
+  i: false, c: 2)]'
+(154)[2019/07/27 23:22:57]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 49ms), (TPS: 15.61), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 10, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.0159799917269539, f: -20)]'
+(155)[2019/07/27 23:23:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  322ms), (TPS: 16.88), (Plib: false), (Online: 6), (t: speed(block-change), block(s):
+  (end-stone, end-stone), ds: 94.67103162175361, dm: 0.25, dm_s: 0.38922661263086766)]'
+(156)[2019/07/27 23:23:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  322ms), (TPS: 16.99), (Plib: false), (Online: 6), (t: speed(block-change), block(s):
+  (end-stone, end-stone), ds: 94.67103162175361, dm: 0.25, dm_s: 0.37559483344663525)]'
+(157)[2019/07/27 23:23:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  322ms), (TPS: 17.09), (Plib: false), (Online: 6), (t: speed(block-change), block(s):
+  (end-stone, end-stone), ds: 94.67103162175361, dm: 0.25, dm_s: 0.36361305759699203)]'
+(158)[2019/07/27 23:23:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  322ms), (TPS: 17.20), (Plib: false), (Online: 6), (t: speed(block-change), block(s):
+  (end-stone, end-stone), ds: 94.67103162175361, dm: 0.25, dm_s: 0.34890724488039915)]'
+(159)[2019/07/27 23:23:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  322ms), (TPS: 17.32), (Plib: false), (Online: 6), (t: speed(block-change), block(s):
+  (end-stone, end-stone), ds: 94.67103162175361, dm: 0.25, dm_s: 0.3343728343728345)]'
+(160)[2019/07/27 23:23:20]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Clip (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  322ms), (TPS: 17.44), (Plib: false), (Online: 6), (t: speed(block-change), block(s):
+  (end-stone, end-stone), ds: 94.67103162175361, dm: 0.25, dm_s: 0.31887977665328915)]'
+(161)[2019/07/27 23:23:23]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Clip (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 322ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: speed(block-change), block(s): end-stone, ds: 94.67103162175361,
+  dm: 0.25, dm_s: 0.25)]'
+(162)[2019/07/27 23:23:23]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Clip (VL: 2) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 322ms), (TPS: 19.99),
+  (Plib: false), (Online: 6), (t: ypos(full-block), c: 1, b: (end-stone, air), dy:
+  -24.0)]'
+(163)[2019/07/27 23:23:30]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Clip (VL: 3) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 322ms), (TPS: 20.0),
+  (Plib: false), (Online: 6), (t: ypos(full-block), c: 1, b: (end-stone, air), dy:
+  -23.0)]'
+(164)[2019/07/27 23:23:44]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  266ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: change, d: -0.9633749999999992,
+  od: -1.3029599681447195, a: 27, r: 0.7351026928449329)]'
+(165)[2019/07/27 23:24:19]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed Speed (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  266ms), (TPS: 19.92), (Plib: false), (Online: 6), (t: normal, reason: air, d: 0.4403514375776592,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(166)[2019/07/27 23:26:31]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 204ms), (TPS: 19.91),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 76, r: 0.0)]'
+(167)[2019/07/27 23:26:31]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 204ms), (TPS: 19.91),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 77, r: 0.0)]'
+(168)[2019/07/27 23:26:31]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Fly (VL: 2) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 204ms), (TPS: 19.90),
+  (Plib: false), (Online: 6), (t: stable, d: 0.0, a: 78, r: 0.0)]'
+(169)[2019/07/27 23:26:31]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Fly (VL: 3) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 204ms),
+  (TPS: 19.87), (Plib: false), (Online: 6), (t: calculated, d: -0.15523200451660557,
+  ds: 0.07683200299072723, diff: 0.059072001464927235, a: 80, r: 0.7663679939575161)]'
+(170)[2019/07/27 23:26:31]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Fly (VL: 4) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 204ms),
+  (TPS: 19.91), (Plib: false), (Online: 6), (t: calculated, d: -0.23052736891295922,
+  ds: 0.07529536439635365, diff: 0.05829336287055365, a: 81, r: 0.5358406250445569)]'
+(171)[2019/07/27 23:26:31]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  Fly (VL: 5) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 204ms), (TPS: 19.90),
+  (Plib: false), (Online: 6), (t: calculated, d: -0.30431682745754074, ds: 0.07378945854458152,
+  diff: 0.057545457018781526, a: 82, r: 0.23152379758701613)]'
+(172)[2019/07/27 23:28:19]: '(False Positive) [Spartan Build 250-105521/596204925]
+  zNihility failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 266ms), (TPS: 19.93), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.16474999999999795, od: -0.3015347236627832, a: 10, r: 0.6599508770059259, c:
+  (start cannot be bound to negative values), diff: 0.3954647221369812, f: 152)]'
+(173)[2019/07/27 23:28:32]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 126ms),
+  (TPS: 13.74), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 9, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.01522199172695389, f: -20)]'
+(174)[2019/07/27 23:28:32]: '[Spartan Build 250-105521/596204925] zNihility failed
+  IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 266ms),
+  (TPS: 13.70), (Plib: false), (Online: 6), (t: hop(repeated), v: 0.02442, ms: 10)]'
+(175)[2019/07/27 23:28:35]: '[Spartan Build 250-105521/596204925] zNihility failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 318ms), (TPS:
+  19.96), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(176)[2019/07/27 23:31:06]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 88ms),
+  (TPS: 13.75), (Plib: false), (Online: 6), (t: hop(repeated), v: 0.02442, ms: 5)]'
+(177)[2019/07/27 23:31:51]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 103ms), (TPS:
+  19.96), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(178)[2019/07/27 23:34:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 46ms), (TPS: 13.90), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 9, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.01522199172695389, f: -20)]'
+(179)[2019/07/27 23:34:14]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  46ms), (TPS: 14.51), (Plib: false), (Online: 6), (t: change, d: -0.07840000152587834,
+  od: -0.3015347236627832, a: 18, r: 0.4168008754800354)]'
+(180)[2019/07/27 23:34:29]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.95), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(181)[2019/07/27 23:34:31]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 46ms), (TPS:
+  19.95), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(182)[2019/07/27 23:35:23]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 44ms), (TPS:
+  19.94), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(183)[2019/07/27 23:35:30]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 100ms), (TPS: 12.84), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 6, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.012947991726953892, f: -20)]'
+(184)[2019/07/27 23:36:49]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 45ms), (TPS:
+  19.80), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(185)[2019/07/27 23:36:55]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Speed (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  101ms), (TPS: 13.78), (Plib: false), (Online: 6), (t: ground(high), d: 0.3195257525956268,
+  dm: 0.3675)]'
+(186)[2019/07/27 23:36:55]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed Speed (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  101ms), (TPS: 13.86), (Plib: false), (Online: 6), (t: ground(high), d: 0.32593302437949234,
+  dm: 0.3675)]'
+(187)[2019/07/27 23:37:59]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 55ms), (TPS: 12.74), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 7, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.0137059917269539, f: -20)]'
+(188)[2019/07/27 23:37:59]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 100ms),
+  (TPS: 12.72), (Plib: false), (Online: 6), (t: hop(repeated), v: 0.02442, ms: 8)]'
+(189)[2019/07/27 23:38:00]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 63ms), (TPS: 19.91),
+  (Plib: false), (Online: 6), (t: break, c: stone, r: stone)]'
+(190)[2019/07/27 23:41:43]: '(False Positive) [Spartan Build 250-105521/596204925]
+  ItzMecha failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false),
+  (Ping: 109ms), (TPS: 13.99), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 12, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.017495991726953902, f: -20)]'
+(191)[2019/07/27 23:46:16]: '(False Positive) [Spartan Build 250-105521/596204925]
+  SeantasticSean failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false),
+  (Ping: 57ms), (TPS: 19.80), (Plib: false), (Online: 6), (t: walking(abnormal), d:
+  0.0, cd: 0.10789490539289659, diff: 0.10789490539289659, dy: -0.08783176885033583,
+  r: 0.5938784262660022)]'
+(192)[2019/07/27 23:46:59]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 19.86),
+  (Plib: false), (Online: 6), (t: break, c: stone, r: stone)]'
+(193)[2019/07/27 23:47:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  99ms), (TPS: 13.85), (Plib: false), (Online: 6), (t: up, d: 0.10668845046390629,
+  ds: 0.03292211053562255, r: 0.06520786857717553)]'
+(194)[2019/07/27 23:48:51]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 118ms), (TPS: 13.50), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 8, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.014463991726953895, f: -20)]'
+(195)[2019/07/27 23:49:20]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoFall (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 109ms), (TPS:
+  20.0), (Plib: false), (Online: 6), (t: ratio, b: 6)]'
+(196)[2019/07/27 23:49:48]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  ImpossibleActions (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 49ms),
+  (TPS: 13.89), (Plib: false), (Online: 6), (t: scaffold(normal), b: oak-leaves)]'
+(197)[2019/07/27 23:49:48]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  ImpossibleActions (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 49ms),
+  (TPS: 13.93), (Plib: false), (Online: 6), (t: scaffold(normal), b: oak-leaves)]'
+(198)[2019/07/27 23:51:09]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  ImpossibleActions (VL: 0) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 46ms),
+  (TPS: 12.75), (Plib: false), (Online: 6), (t: scaffold(normal), b: oak-leaves)]'
+(199)[2019/07/27 23:51:09]: '(False Positive) [Spartan Build 250-105521/596204925]
+  CringeMonster failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 100ms), (TPS: 12.75), (Plib: false), (Online: 6), (t: jump(illegal),
+  d: 0.33319999363422426, od: 0.41999998688697815, a: 7, r: 0.7531999805212024, c:
+  (frequency cannot be too fast), diff: 0.0137059917269539, f: -20)]'
+(200)[2019/07/27 23:51:09]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  FastPlace (VL: 0) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 105ms), (TPS:
+  12.71), (Plib: false), (Online: 6), (t: fast, ms: 9, b: oak-leaves)]'
+(201)[2019/07/27 23:51:09]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 12.77),
+  (Plib: false), (Online: 6), (t: break, c: stone, r: stone)]'
+(202)[2019/07/27 23:51:09]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  FastPlace (VL: 1) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 105ms), (TPS:
+  12.75), (Plib: false), (Online: 6), (t: fast, ms: 22, b: oak-leaves)]'
+(203)[2019/07/27 23:51:09]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  ImpossibleActions (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping: 46ms),
+  (TPS: 12.75), (Plib: false), (Online: 6), (t: scaffold(normal), b: oak-leaves)]'
+(204)[2019/07/27 23:52:13]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Speed (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 59ms), (TPS: 13.96),
+  (Plib: false), (Online: 6), (t: ground(high), d: 0.31411234320977754, dm: 0.3675)]'
+(205)[2019/07/27 23:52:13]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  FastPlace (VL: 0) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 103ms), (TPS:
+  13.94), (Plib: false), (Online: 6), (t: fast, ms: 5, b: oak-leaves)]'
+(206)[2019/07/27 23:52:54]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 68ms), (TPS:
+  19.96), (Plib: false), (Online: 6), (t: food eating, c: 1)]'
+(207)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] ItzMecha failed
+  FastPlace (VL: 0) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 103ms), (TPS:
+  14.21), (Plib: false), (Online: 6), (t: fast, ms: 4, b: oak-leaves)]'
+(208)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 77ms), (TPS: 15.98),
+  (Plib: false), (Online: 6), (t: neutral, d: 0.41987500000000466, r: 0.9557156250445615,
+  od: -0.23052736891295922, ds: 0.6504023689129639, a: 20, i: true, c: 1)]'
+(209)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 77ms),
+  (TPS: 16.67), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.3330775064825957,
+  od: 0.41987500000000466, a: 26, r: 0.28879313152715724, c: (jump movement must start
+  on ground), diff: 0.028105491991608958, f: -20)]'
+(210)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 77ms),
+  (TPS: 17.69), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.24801596118001612,
+  od: 0.3330775064825957, a: 34, r: 0.5368090927071734, c: (jump movement must start
+  on ground), diff: 0.032433543776779594, f: -20)]'
+(211)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 77ms),
+  (TPS: 18.67), (Plib: false), (Online: 6), (t: jump(illegal), d: 0.16465564516106213,
+  od: 0.24801596118001612, a: 41, r: 0.7014647378682355, c: (jump movement must start
+  on ground), diff: 0.036038314493154, f: -20)]'
+(212)[2019/07/27 23:52:58]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  IrregularMovements (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 77ms),
+  (TPS: 19.59), (Plib: false), (Online: 6), (t: jump(unusual), d: 0.08296253387253216,
+  a: 47, r: 0.7844272717407677)]'
+(213)[2019/07/28 00:02:31]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.81), (Plib: false), (Online: 5), (t: interact, c: chest, r: stone)]'
+(214)[2019/07/28 00:08:39]: Cirke found 1 gold-ore on -1677, 11, 1877
+(215)[2019/07/28 00:17:34]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 98ms), (TPS:
+  19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(216)[2019/07/28 00:18:29]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 98ms), (TPS:
+  19.96), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(217)[2019/07/28 00:23:40]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 42ms), (TPS:
+  19.95), (Plib: false), (Online: 3), (t: food eating, c: 1)]'
+(218)[2019/07/28 00:34:34]: '[Spartan Build 250-105521/596204925] Cirke failed NoFall
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.99),
+  (Plib: false), (Online: 4), (t: ratio, b: 17)]'
+(219)[2019/07/28 00:34:44]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  BlockReach (VL: 1) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 102ms), (TPS:
+  19.95), (Plib: false), (Online: 4), (t: break, d: 9.304343310469934)]'
+(220)[2019/07/28 00:35:31]: '[Spartan Build 250-105521/596204925] Cirke failed NoFall
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.99),
+  (Plib: false), (Online: 4), (t: ratio, b: 19)]'
+(221)[2019/07/28 00:36:19]: '(False Positive) [Spartan Build 250-105521/596204925]
+  Cirke failed Jesus (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms),
+  (TPS: 19.93), (Plib: false), (Online: 4), (t: upwards(before), dy: 0.5784323072813731,
+  l: 0.55)]'
+(222)[2019/07/28 00:39:03]: '[Spartan Build 250-105521/596204925] SeantasticSean failed
+  NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 55ms), (TPS:
+  19.98), (Plib: false), (Online: 4), (t: food eating, c: 1)]'
+(223)[2019/07/28 00:40:39]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 100ms), (TPS:
+  19.81), (Plib: false), (Online: 4), (t: interact, c: chest, r: crafting-table)]'
+(224)[2019/07/28 00:44:25]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 98ms), (TPS:
+  14.69), (Plib: false), (Online: 4), (t: break, c: birch-log, r: birch-wood)]'
+(225)[2019/07/28 00:45:52]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 14.53),
+  (Plib: false), (Online: 4), (t: break, c: stone, r: stone)]'
+(226)[2019/07/28 00:46:04]: '[Spartan Build 250-105521/596204925] CringeMonster failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 101ms), (TPS:
+  19.81), (Plib: false), (Online: 4), (t: break, c: spruce-log, r: spruce-log)]'
+(227)[2019/07/28 00:52:29]: Cirke found 1 gold-ore on -1660, 12, 1824
+(228)[2019/07/28 01:12:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  50ms), (TPS: 19.95), (Plib: false), (Online: 3), (t: pre, d: -2.406124940395351,
+  ds: 2.406124940395351, a: 3, r: 0.3948750119209308)]'
+(229)[2019/07/28 01:12:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Clip (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  50ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: speed(block-change), block(s):
+  granite, ds: 0.26796082236561286, dm: 0.25, dm_s: 0.25)]'
+(230)[2019/07/28 01:12:24]: '(False Positive) [Spartan Build 250-105521/596204925]
+  End3rduty failed Clip (VL: 1) [(Version: 1.14), (C-V: 2) (Silent: false), (Ping:
+  50ms), (TPS: 19.99), (Plib: false), (Online: 3), (t: speed(block-change), block(s):
+  granite, ds: 0.2654176910622174, dm: 0.25, dm_s: 0.25)]'
+(231)[2019/07/28 01:14:21]: '[Spartan Build 250-105521/596204925] End3rduty failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS:
+  19.81), (Plib: false), (Online: 3), (t: break, c: terracotta, r: terracotta)]'
+(232)[2019/07/28 01:17:03]: '[Spartan Build 250-105521/596204925] Cirke failed GhostHand
+  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 19.92),
+  (Plib: false), (Online: 3), (t: break, c: stone, r: stone)]'
+(233)[2019/07/28 01:19:45]: '[Spartan Build 250-105521/596204925] End3rduty failed
+  GhostHand (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 49ms), (TPS:
+  19.95), (Plib: false), (Online: 3), (t: interact, c: chest, r: iron-block)]'

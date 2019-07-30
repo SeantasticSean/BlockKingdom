@@ -1,0 +1,137 @@
+(1)[2019/07/30 05:12:52]: '[Spartan Build 251-105521/-480355121] ItzMecha failed BoatMove
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 91ms), (TPS: 19.82),
+  (Plib: false), (Online: 10), (t: water(packets), ds: 2.2602742661701893, dm: 2.1,
+  bt: 67)]'
+(2)[2019/07/30 05:12:52]: '[Spartan Build 251-105521/-480355121] ItzMecha failed BoatMove
+  (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 91ms), (TPS: 19.54),
+  (Plib: false), (Online: 10), (t: water(packets), ds: 3.516976222009722, dm: 2.1,
+  bt: 77)]'
+(3)[2019/07/30 05:13:45]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 54ms), (TPS: 14.19),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 12.837820096937493)]'
+(4)[2019/07/30 05:13:48]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 58ms), (TPS: 14.13),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 6.2599134103121825)]'
+(5)[2019/07/30 05:13:50]: '[Spartan Build 251-105521/-480355121] _xmemequeenx_ failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 131ms), (TPS:
+  14.00), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.801518612866547)]'
+(6)[2019/07/30 05:13:55]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 58ms), (TPS: 14.05),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 8.652728057870597)]'
+(7)[2019/07/30 05:14:05]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 58ms), (TPS: 14.33),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 7.9702569183243215)]'
+(8)[2019/07/30 05:14:19]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 92ms), (TPS:
+  20.0), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d:
+  7.836185951475929)]'
+(9)[2019/07/30 05:14:20]: '[Spartan Build 251-105521/-480355121] ChickensDying failed
+  IllegalPosition (VL: 1) [(Version: 1.14), (C-V: 1) (Silent: false), (Ping: 54ms),
+  (TPS: 20.0), (Plib: false), (Online: 10), (t: rotations, r: 107, l: 100)]'
+(10)[2019/07/30 05:14:20]: '[Spartan Build 251-105521/-480355121] _xmemequeenx_ failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 114ms), (TPS:
+  20.0), (Plib: false), (Online: 10), (t: instant, a: 22)]'
+(11)[2019/07/30 05:14:20]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 5) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 56ms), (TPS: 20.0), (Plib:
+  false), (Online: 10), (t: instant, a: 22)]'
+(12)[2019/07/30 05:14:21]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 92ms), (TPS:
+  19.24), (Plib: false), (Online: 10), (t: difference, c: 9.442887916336392, n: 3.200119032705458,
+  d: 6.2427688836309345, t: 34, l: 1.5, p: true)]'
+(13)[2019/07/30 05:14:21]: '[Spartan Build 251-105521/-480355121] _xmemequeenx_ failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 114ms), (TPS:
+  18.11), (Plib: false), (Online: 10), (t: difference, c: 16.817512743053147, n: 5.4556699880420005,
+  d: 11.361842755011146, t: 35, l: 1.5, p: false)]'
+(14)[2019/07/30 05:14:25]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 237ms), (TPS:
+  12.22), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 11.97437387106637)]'
+(15)[2019/07/30 05:14:26]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  zNihility failed Speed (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  237ms), (TPS: 12.26), (Plib: false), (Online: 10), (t: ypos, d: 0.5557904510062021,
+  dm: 0.68, dm_s: 0.68)]'
+(16)[2019/07/30 05:14:35]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 6) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 56ms), (TPS: 15.21),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 6.237044313860923)]'
+(17)[2019/07/30 05:14:46]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 244ms), (TPS:
+  19.96), (Plib: false), (Online: 10), (t: difference, c: 10.96915879641373, n: 8.283238675095472,
+  d: 2.685920121318258, t: 28, l: 1.5, p: false)]'
+(18)[2019/07/30 05:14:55]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 58ms), (TPS:
+  15.78), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.26188019829931)]'
+(19)[2019/07/30 05:15:18]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 69ms), (TPS:
+  18.97), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.925336181522947)]'
+(20)[2019/07/30 05:15:29]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 249ms), (TPS:
+  16.38), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 9.204194741806782)]'
+(21)[2019/07/30 05:15:33]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 53ms), (TPS: 17.10),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 6.149147716421284)]'
+(22)[2019/07/30 05:15:34]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  NoSlowdown (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 249ms), (TPS:
+  18.01), (Plib: false), (Online: 10), (t: food eating, c: 1)]'
+(23)[2019/07/30 05:16:37]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 52ms), (TPS: 18.24),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 6.00429278326557)]'
+(24)[2019/07/30 05:16:46]: '[Spartan Build 251-105521/-480355121] Sympathiqve failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 90ms), (TPS:
+  17.31), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.119601194699485)]'
+(25)[2019/07/30 05:16:50]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 53ms), (TPS: 20.0), (Plib:
+  false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 8.09974463467091)]'
+(26)[2019/07/30 05:16:51]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 88ms), (TPS:
+  20.0), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d:
+  8.427271767179167)]'
+(27)[2019/07/30 05:16:53]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 53ms), (TPS: 18.47),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 9.457852662267879)]'
+(28)[2019/07/30 05:16:54]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 88ms), (TPS:
+  15.90), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.65950726150247)]'
+(29)[2019/07/30 05:16:55]: '[Spartan Build 251-105521/-480355121] loovne failed Speed
+  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 53ms), (TPS: 13.97),
+  (Plib: false), (Online: 10), (t: normal, reason: air, d: 0.5205752675492398, dm:
+  0.3675, dm_s: 0.3675, a: 0)]'
+(30)[2019/07/30 05:16:57]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 53ms), (TPS: 13.68),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 8.159409456796146)]'
+(31)[2019/07/30 05:16:59]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 88ms), (TPS:
+  13.79), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.630507094592483)]'
+(32)[2019/07/30 05:17:01]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 88ms), (TPS:
+  13.72), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.821890898953448)]'
+(33)[2019/07/30 05:17:02]: '[Spartan Build 251-105521/-480355121] loovne failed MorePackets
+  (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 53ms), (TPS: 13.73),
+  (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308, d: 10.073987080346408)]'
+(34)[2019/07/30 05:17:02]: '[Spartan Build 251-105521/-480355121] Sympathiqve failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 90ms), (TPS:
+  13.70), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.27527575541697)]'
+(35)[2019/07/30 05:17:11]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 5) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 46ms), (TPS:
+  12.93), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.111441051029301)]'
+(36)[2019/07/30 05:17:17]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 6) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 46ms), (TPS:
+  13.40), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 8.598190561132583)]'
+(37)[2019/07/30 05:17:17]: '[Spartan Build 251-105521/-480355121] zNihility failed
+  MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 270ms), (TPS:
+  13.41), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 5.653499771318132)]'
+(38)[2019/07/30 05:17:23]: '[Spartan Build 251-105521/-480355121] CringeMonster failed
+  MorePackets (VL: 7) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 46ms), (TPS:
+  13.35), (Plib: false), (Online: 10), (t: overall, diff: 1.7976931348623157E308,
+  d: 7.4522856747706765)]'
