@@ -592,12 +592,18 @@ world-home-permissions: false
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
   member: 1
-  jade: 2
-  garnet: 3
-  amethyst: 4
-  diamond: 5
-  sapphire: 6
-  ruby: 7
+  silver: 2
+  platinum: 3
+  crystal: 4
+  jade: 4
+  master: 5
+  garnet: 5
+  champion: 6
+  amethyst: 6
+#diamond
+  sapphire: 7
+  legend: 10
+  ruby: 8
 
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
