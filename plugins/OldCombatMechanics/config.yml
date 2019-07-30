@@ -38,13 +38,13 @@ disable-attack-cooldown:
 disable-player-collisions:
   # This is to disable player collisions
   # This is now compatible with scoreboard and tablist-editing plugins
-  enabled: false
+  enabled: true
   worlds: []
 
 disable-sword-sweep:
   # This is to disable the sword sweep attack
   # Particle effect is also now removed
-  enabled: true
+  enabled: false
   worlds: []
   
 disable-crafting:
@@ -57,7 +57,7 @@ disable-crafting:
 disable-offhand:
   # Disable the usage of the offhand
   # Won't affect sword-blocking module
-  enabled: true
+  enabled: false
   worlds: []
   # Whether the following list allows items or blocks them
   whitelist: true
