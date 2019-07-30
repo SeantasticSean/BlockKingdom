@@ -3,8 +3,8 @@ Combat-Tag:
     Permission: bfc.combat
     gui-permission: bfc.gui.combat
     No-Permission: '&c(!) &4You dont have permission to use this command!'
-    enabled: true
-  enabled: true
+    enabled: false
+  enabled: false
   trigger-combat-with-mobs: false
   disabled-message: '&cCombat tag is disabled!'
   duration: 20
