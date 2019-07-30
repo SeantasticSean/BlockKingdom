@@ -220,7 +220,7 @@ SLIME_BOOTS:
   allow-disenchanting: true
   required-permission: ''
 SWORD_OF_BEHEADING:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
