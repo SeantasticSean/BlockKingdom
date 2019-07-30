@@ -25,7 +25,7 @@
 'Wind Pitch - must be between 0 and 2 - ': 0
 'Low Y Value Wind ': 0
 'High Y Value Wind ': 300
-'Netherrack Step Sound ': ENTITY_SLIME_SQUISH
+'Netherrack Step Sound ': BLOCK_STONE_STEP
 'Wither Potion Drop Chance ': 2
 'Haste Potion Drop Chance ': 2
 '::::::::::::::::::::::::::::::::::::': ''
