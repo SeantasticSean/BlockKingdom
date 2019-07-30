@@ -1,8 +1,8 @@
 lastAccountName: ItzMecha
 timestamps:
-  login: 1564464065422
+  login: 1564511183585
   lastteleport: 1564385131501
-  logout: 1564463179924
+  logout: 1564515226991
   kits:
     diamond: 1564264096001
     member: 1564244271198
@@ -17,14 +17,14 @@ lastlocation:
   z: -3399.855567931376
   yaw: -297.85977
   pitch: -6.201539
-money: '9041.95500000000023742'
+money: '16269.77100000000287342'
 logoutlocation:
-  world: world
-  x: 2725.1222550182406
-  y: 71.49520087700593
-  z: 2245.4982957770762
-  yaw: -35.03676
-  pitch: 11.3979845
+  world: world_the_end
+  x: -332.56248922830883
+  y: 1.0
+  z: -0.8437899787185663
+  yaw: -281.48682
+  pitch: 0.8234129
 homes:
   end:
     world: world_the_end

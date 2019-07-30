@@ -1,7 +1,7 @@
 lastAccountName: iGooMo
 timestamps:
-  login: 1564326315491
-  logout: 1564331671698
+  login: 1564464659461
+  logout: 1564465810341
   lastteleport: 1564327016874
   kits:
     member: 1564296044269
@@ -13,14 +13,14 @@ lastlocation:
   z: -516.3000000119212
   yaw: 213.18585
   pitch: 17.956146
-money: '3909.22400000000005949'
+money: '3908.46550000000005951'
 logoutlocation:
   world: world
-  x: -38.52324438384747
-  y: 68.0
-  z: -41.41332265928405
-  yaw: -44.044403
-  pitch: 9.582682
+  x: 93.63588366578516
+  y: 60.164988892791065
+  z: 355.7048498912121
+  yaw: 77.01132
+  pitch: 22.431932
 homes:
   home:
     world: world
