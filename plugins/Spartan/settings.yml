@@ -1,5 +1,5 @@
 Punishments:
-  broadcast_on_kick: true
+  broadcast_on_kick: false
   broadcast_on_ban: false
   wave_broadcast_message: true
   run_wave_if_its_full: false
@@ -8,7 +8,7 @@ Logs:
   log_console: false
   log_mysql: false
   log_file: true
-  log_file_limit: 5000
+  log_file_limit: 4096
 Notifications:
   public_verbose: true
   verbose_notifications: true
@@ -16,7 +16,7 @@ Notifications:
   output_silent_check_verbose: true
   enable_mining_notifications_on_login: false
   violations_reset_message: true
-  staff_chat: true
+  staff_chat: false
 Teleportation:
   fall_damage_on_teleport: false
   ground_teleport_on_detection: true
