@@ -91,10 +91,7 @@ itemStackSizeCappedAt:
     material: BUCKET
     size: 1
 # Choose what gamemodes will prevent players from accessing shops. Valid values: ADVENTURE, CREATIVE, SPECTATOR, SURVIVAL
-disableShopsInGamemodes:
-  - ADVENTURE
-  - CREATIVE
-  - SPECTATOR
+disableShopsInGamemodes: []
 # Choose in which worlds players won't be able to access the shop. Same list format as disableShopsInGamemodes
 disableShopsInWorlds: []
 
@@ -514,8 +511,8 @@ shopMenuItems:
       quantity: 1
       damage: 0
       name: "&2&lFood"
-      lore:
-        - "&7Get some yummy food here!"
+      #lore:
+        #- "&7Get some yummy food here!"
     shop: "food"
     slot: 12
   3:
