@@ -75,15 +75,52 @@ VoteSites:
     Rewards:
       Messages:
         Player: '&eThanks for voting on %ServiceSite%!'
-  SERVERPACTTEST:
+  Minecraft-Server_net:
     Enabled: true
-    ServiceSite: SERVERPACTTEST
-    VoteURL: VoteURL
+    Name: Minecraft-Server
+    ServiceSite: Minecraft-Server.net
+    VoteURL: https://minecraft-server.net/vote/CHICKENS_BURNING
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
+        Player: '&eThanks for voting on %ServiceSite%!'
+  NameMC_com:
+    Enabled: true
+    Name: NameMC
+    ServiceSite: NameMC.com
+    VoteURL: https://namemc.com/server/blockkingdom.org
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&eThanks for voting on %ServiceSite%!'
+  ServerPact_com:
+    Enabled: true
+    Name: ServerPact
+    ServiceSite: ServerPact.com
+    VoteURL: https://www.serverpact.com/vote-22240
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&eThanks for voting on %ServiceSite%!'
+  MinecraftList_org:
+    Enabled: true
+    Name: MCL
+    ServiceSite: MinecraftList.org
+    VoteURL: https://minecraftlist.org/vote/2008
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&eThanks for voting on %ServiceSite%!'
 EverySiteReward: []
