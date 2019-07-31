@@ -3,116 +3,78 @@
 # Similar to AnySiteReward
 # This requires the site to be configured in order to get the reward.
 VoteSites:
-  ExampleVoteSite:
-    Enabled: false
-    Name: ExampleVoteSite
-    Priority: 5
-    ServiceSite: PlanetMinecraft.com
-    VoteURL: link to vote URL here, used in /vote
-    VoteDelay: 24
-    WaitUntilVoteDelay: false
-    VoteDelayDaily: false
-    ForceOffline: false
-    Item:
-      Material: DIAMOND
-      Amount: 1
-    Rewards:
-      Commands:
-      - say hello
-      Messages:
-        Player: You voted
-  Site2:
-    Enabled: false
-    Name: Site2
-    ServiceSite: PlanetMinecraft.com
-    VoteURL: link to vote URL here, used in /vote
-    VoteDelay: 24
-    Item:
-      Material: DIAMOND
-      Amount: 1
-    Rewards:
-      Commands:
-      - say hello
-      AdvancedPriority:
-        Reward1:
-          Chance: 50
-          Messages:
-            Player: You got first reward
-        Reward2:
-          Chance: 20
-          Messages:
-            Player: You got second reward
-        Fallback:
-          Messages:
-            Player: You got unlucky
-      Messages:
-        Player: You voted
   PlanetMinecraft_com:
     Enabled: true
+    Name: PlanetMinecraft
     ServiceSite: PlanetMinecraft.com
-    VoteURL: VoteURL
+    VoteURL: https://www.planetminecraft.com/server/darkages-2500481/vote
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
+        Player: '&eThanks for voting on %ServiceSite%!'
   MinecraftServers_org:
     Enabled: true
-    ServiceSite: MinecraftServers.org
-    VoteURL: VoteURL
+    Name: MinecraftServers
+    ServiceSite: minecraftservers.org
+    VoteURL: https://minecraftservers.org/vote/21023
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
+        Player: '&eThanks for voting on %ServiceSite%!'
   Minecraft-MP_com:
     Enabled: true
+    Name: MinecraftMP
     ServiceSite: Minecraft-MP.com
-    VoteURL: VoteURL
+    VoteURL: https://minecraft-mp.com/server/229075/vote
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
+        Player: '&eThanks for voting on %ServiceSite%!'
   MCSL:
     Enabled: true
-    ServiceSite: MCSL
-    VoteURL: VoteURL
+    Name: MCSL
+    ServiceSite: Minecraft-Server-List
+    VoteURL: https://minecraft-server-list.com/server/443601/vote
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
+        Player: '&eThanks for voting on %ServiceSite%!'
   TopG_org:
     Enabled: true
+    Name: TopG
     ServiceSite: TopG.org
-    VoteURL: VoteURL
+    VoteURL: https://topg.org/Minecraft/in-360985
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
-  http://www_minecraft-servers-list_org:
+        Player: '&eThanks for voting on %ServiceSite%!'
+  Minecraft-Servers-List_org:
     Enabled: true
-    ServiceSite: http://www.minecraft-servers-list.org
-    VoteURL: VoteURL
+    Name: MC-Servers
+    ServiceSite: Minecraft-Servers-List.org
+    VoteURL: http://minecraft-servers-list.org/index.php?a=in&u=ChickensBurning
     VoteDelay: 24
     Item:
       Material: GRASS
       Amount: 1
     Rewards:
       Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
+        Player: '&eThanks for voting on %ServiceSite%!'
   SERVERPACTTEST:
     Enabled: true
     ServiceSite: SERVERPACTTEST
