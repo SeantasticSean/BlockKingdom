@@ -1,9 +1,0 @@
-(1)[2019/07/27 20:16:59]: '[Spartan Build 250-105521/596204925] zNihility failed NoSlowdown
-  (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 255ms), (TPS: 19.96),
-  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
-(2)[2019/07/27 20:19:29]: '[Spartan Build 250-105521/596204925] zNihility failed NoSlowdown
-  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 262ms), (TPS: 19.95),
-  (Plib: false), (Online: 4), (t: food eating, c: 1)]'
-(3)[2019/07/27 20:23:45]: '[Spartan Build 250-105521/596204925] zNihility failed GhostHand
-  (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 274ms), (TPS: 19.87),
-  (Plib: false), (Online: 4), (t: interact, c: chest, r: stone)]'
