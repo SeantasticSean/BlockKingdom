@@ -102,4 +102,15 @@ VoteSites:
     Rewards:
       Messages:
         Player: '&aThanks for voting on %ServiceSite%!'
+  http://www_minecraft-servers-list_org:
+    Enabled: true
+    ServiceSite: http://www.minecraft-servers-list.org
+    VoteURL: VoteURL
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
 EverySiteReward: []

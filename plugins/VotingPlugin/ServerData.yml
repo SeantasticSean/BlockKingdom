@@ -6,6 +6,7 @@ VotingPlugin:
   - Minecraft-MP.com
   - MCSL
   - TopG.org
+  - http://www.minecraft-servers-list.org
 PluginVersions:
   VotingPlugin: 5.19.1
 PrevDay: 31
