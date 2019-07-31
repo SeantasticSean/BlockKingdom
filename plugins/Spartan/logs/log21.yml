@@ -2105,3 +2105,68 @@
 (688)[2019/07/30 23:39:51]: SeantasticSean found 1 gold-ore on -3386, 19, -3162
 (689)[2019/07/30 23:39:52]: SeantasticSean found 1 gold-ore on -3385, 19, -3162
 (690)[2019/07/30 23:39:52]: SeantasticSean found 1 gold-ore on -3385, 19, -3162
+(691)[2019/07/30 23:39:52]: SeantasticSean found 1 gold-ore on -3385, 16, -3161
+(692)[2019/07/30 23:39:52]: SeantasticSean found 1 gold-ore on -3385, 16, -3161
+(693)[2019/07/30 23:41:21]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed NoSlowdown (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 103ms),
+  (TPS: 19.92), (Plib: false), (Online: 18), (t: food eating, c: 1)]'
+(694)[2019/07/30 23:42:05]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  SeantasticSean failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping:
+  102ms), (TPS: 19.88), (Plib: false), (Online: 18), (t: neutral, d: 0.0, r: 0.875,
+  od: -0.14942408821369213, ds: 0.14942408821369213, a: 141, i: true, c: 1)]'
+(695)[2019/07/31 00:10:10]: '(False Positive) [Spartan Build 251-105521/-480355121]
+  ChickensDying failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent:
+  false), (Ping: 37ms), (TPS: 19.93), (Plib: false), (Online: 17), (t: jump(unusual),
+  d: 0.16266040259103676, a: 2, r: 0.15964038340787745)]'
+(696)[2019/07/31 00:11:57]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 1) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 47ms),
+  (TPS: 19.79), (Plib: false), (Online: 18), (t: difference, c: 15.866782691168591,
+  n: 3.6273026656024165, d: 12.239480025566175, t: 30, l: 1.5, p: true)]'
+(697)[2019/07/31 00:11:57]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 2) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 47ms),
+  (TPS: 19.70), (Plib: false), (Online: 18), (t: instant, a: 20)]'
+(698)[2019/07/31 00:11:57]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 3) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 47ms),
+  (TPS: 19.95), (Plib: false), (Online: 18), (t: difference, c: 14.82431155415792,
+  n: 3.72106888712225, d: 11.10324266703567, t: 32, l: 1.5, p: true)]'
+(699)[2019/07/31 00:12:01]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 4) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 47ms),
+  (TPS: 19.96), (Plib: false), (Online: 18), (t: instant, a: 22)]'
+(700)[2019/07/31 00:12:14]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 5) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 95ms),
+  (TPS: 19.88), (Plib: false), (Online: 18), (t: instant, a: 22)]'
+(701)[2019/07/31 00:12:17]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 6) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 95ms),
+  (TPS: 19.86), (Plib: false), (Online: 18), (t: instant, a: 20)]'
+(702)[2019/07/31 00:12:44]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 7) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 110ms),
+  (TPS: 19.92), (Plib: false), (Online: 18), (t: instant, a: 21)]'
+(703)[2019/07/31 00:13:50]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping:
+  106ms), (TPS: 19.91), (Plib: false), (Online: 18), (t: jump(illegal), d: 0.41987499999999756,
+  od: 0.164773281826065, a: 1, r: 0.5859842609382113, c: (new jump value must be smaller),
+  diff: 0.17973371664813256, f: -20)]'
+(704)[2019/07/31 00:14:32]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed IrregularMovements (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping:
+  112ms), (TPS: 19.87), (Plib: false), (Online: 18), (t: jump(illegal), d: 0.41987499999999756,
+  od: 0.08307781780646906, a: 4, r: 0.6690620787446804, c: (new jump value must be
+  smaller), diff: 0.2621871806677285, f: -20)]'
+(705)[2019/07/31 00:14:42]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed MorePackets (VL: 0) [(Version: 1.14), (C-V: 4) (Silent: false), (Ping: 120ms),
+  (TPS: 19.86), (Plib: false), (Online: 18), (t: difference, c: 12.642898778869945,
+  n: 4.984601938072632, d: 7.6582968407973135, t: 28, l: 1.5, p: false)]'
+(706)[2019/07/31 00:14:59]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed Fly (VL: 0) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.71), (Plib: false), (Online: 18), (t: stable, d: 0.0, a: 48, r: 0.0)]'
+(707)[2019/07/31 00:14:59]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed Fly (VL: 1) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.58), (Plib: false), (Online: 18), (t: stable, d: 0.0, a: 52, r: 0.0)]'
+(708)[2019/07/31 00:14:59]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed Fly (VL: 2) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.75), (Plib: false), (Online: 18), (t: stable, d: 0.0, a: 57, r: 0.0)]'
+(709)[2019/07/31 00:15:00]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed Fly (VL: 3) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.67), (Plib: false), (Online: 18), (t: stable, d: 0.0, a: 62, r: 0.0)]'
+(710)[2019/07/31 00:15:00]: '[Spartan Build 251-105521/-480355121] SeantasticSean
+  failed Fly (VL: 4) [(Version: 1.14), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.93), (Plib: false), (Online: 18), (t: stable, d: 0.0, a: 64, r: 0.0)]'
