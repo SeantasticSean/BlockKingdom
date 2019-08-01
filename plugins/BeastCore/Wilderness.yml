@@ -7,7 +7,7 @@ Command:
     countdown-message: '&f> &eWarping to &2Wilderness &ein &a{seconds}. &eDo not move!'
     cancelled-due-movement: '&f> &cYou moved while warming up!'
     deny-teleport-to-factions: false
-    max-tries-to-find-location: 3000
+    max-tries-to-find-location: 30000
     no-suitable-location: '&f> &cWe didnt find any suitable location, try again!'
     teleporting: '&f> &eTeleporting...'
     enabled: true
@@ -18,6 +18,7 @@ Command:
     - OCEAN
     - JUNGLE
     - DEEP_OCEAN
+    - NETHER
     world-not-allowed: '&cThe world you are in, does not allow &7/wild &c!'
     Worlds:
       world:
