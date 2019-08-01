@@ -205,7 +205,7 @@ death-messages-shown: "&a[DMP] &aOthers' death messages will now be SHOWN"
 # designed for custom maps, plugins or mods which may change functionality.
 death-messages: 
   # Prefix of all death messages
-  prefix: "&7[&eDeath&7] &c" 
+  prefix: "&7[&eDeath&7] &5" 
   # Suffix of all death messages
   suffix: "" 
   # If you want a prefix / suffix only for PVP messages, uncomment these:
@@ -213,374 +213,374 @@ death-messages:
   # suffix-pvp: ""
   mob:
     Bat:
-      - "%victim% &cwas slain by Bat"
+      - "%victim% &ewas slain by Bat"
     BlazeMelee:
-      - "%victim% &cwas slapped to death by a Blaze"
+      - "%victim% &ewas slapped to death by a Blaze"
     BlazeFireball:
-      - "%victim% &cwas fireballed by Blaze"
+      - "%victim% &ewas fireballed by Blaze"
     Cat:
-      - "%victim% &cwas used as a scratching post"
+      - "%victim% &ewas used as a scratching post"
     CaveSpider:
       - "%victim% &ctried to become Spiderman"
     Chicken:
-      - "%victim% &cwas clucked to death"
+      - "%victim% &ewas clucked to death"
     Cod:
-      - "%victim% &cwas slain by Cod"
+      - "%victim% &ewas slain by Cod"
     Cow:
-      - "%victim% &cwas mooed"
+      - "%victim% &ewas mooed"
     Creeper:
-      - "%victim% &cwas hugging a Creeper"
+      - "%victim% &ewas hugging a Creeper"
     CreeperCharged: # charged Creeper
-      - "%victim% &cwas blown up by Creeper"
+      - "%victim% &ewas blown up by Creeper"
     Dolphin:
-      - "%victim% &cwas slain by Dolphin"
+      - "%victim% &ewas slain by Dolphin"
     Donkey:
-      - "%victim% &cwas slain by Donkey"
+      - "%victim% &ewas slain by Donkey"
     DrownedMelee:
-      - "%victim% &cwas drowned by a Drowned"
+      - "%victim% &ewas drowned by a Drowned"
     DrownedTrident:
-      - "%victim% &cwas skewered by Drowned"
+      - "%victim% &ewas skewered by Drowned"
     DrownedMeleeCustom:
-      - "%victim% &cwas slain by Drowned using [%weapon%&f]"
+      - "%victim% &ewas slain by Drowned using [%weapon%&f]"
     DrownedTridentCustom:
-      - "%victim% &cwas skewered by Drowned using [%weapon%&f]"
+      - "%victim% &ewas skewered by Drowned using [%weapon%&f]"
     ElderGuardian:
       - "%victim% &ccould not handle the Elder Guardian"
     EnderDragon:
-      - "%victim% &cwas slain by Ender Dragon"
+      - "%victim% &ewas slain by Ender Dragon"
     EnderDragonBreath:
-      - "%victim% &cwas roasted in dragon breath"
+      - "%victim% &ewas roasted in dragon breath"
     Enderman:
-      - "%victim% &cwas taken by an Enderman"
+      - "%victim% &ewas taken by an Enderman"
     Endermite:
       - "%victim% &chad an endermite infestation"
     Evoker:
-      - "%victim% &cwas slain by an Evoker"
+      - "%victim% &ewas slain by an Evoker"
     Fox:
-      - "%victim% &cwas slain by a cute fox"
+      - "%victim% &ewas slain by a cute fox"
     Ghast:
-      - "%victim% &cwas torched by a Ghast"
+      - "%victim% &ewas torched by a Ghast"
     Giant:
-      - "%victim% &cwas slain by Giant"
+      - "%victim% &ewas slain by Giant"
     Guardian:
-      - "%victim% &cwas killed by a Guardian"
+      - "%victim% &ewas killed by a Guardian"
     Horse:
-      - "%victim% &cwas slain by Horse"
+      - "%victim% &ewas slain by Horse"
     HuskMelee:
-      - "%victim% &cwas slain by Husk"
+      - "%victim% &ewas slain by Husk"
     HuskCustom:
-      - "%victim% &cwas slain by Husk using [%weapon%&f]"
+      - "%victim% &ewas slain by Husk using [%weapon%&f]"
     Illusioner:
-      - "%victim% &cwas shot by Illusioner"
+      - "%victim% &ewas shot by Illusioner"
     IronGolem:
-      - "%victim% &cwas slain by Iron Golem"
+      - "%victim% &ewas slain by Iron Golem"
     Llama:
-      - "%victim% &cwas slain by Llama"
+      - "%victim% &ewas slain by Llama"
     MagmaCube:
-      - "%victim% &cwas slain by Magma Cube"
+      - "%victim% &ewas slain by Magma Cube"
     Mooshroom:
-      - "%victim% &cwas slain by Mooshroom"
+      - "%victim% &ewas slain by Mooshroom"
     Mule:
-      - "%victim% &cwas slain by Mule"
+      - "%victim% &ewas slain by Mule"
     Panda:
-      - "%victim% &cwas slain by Panda"
+      - "%victim% &ewas slain by Panda"
     Parrot:
-      - "%victim% &cwas slain by Parrot"
+      - "%victim% &ewas slain by Parrot"
     Phantom:
-      - "%victim% &cwas slain by Phantom"
+      - "%victim% &ewas slain by Phantom"
     Pig:
-      - "%victim% &cwas slain by Pig"
+      - "%victim% &ewas slain by Pig"
     PillagerArrow:
-      - "%victim% &cwas capped by a Pillager"
+      - "%victim% &ewas capped by a Pillager"
     PillagerMelee:
-      - "%victim% &cwas crapped on by a Pillager"
+      - "%victim% &ewas crapped on by a Pillager"
     PillagerArrowCustom:
-      - "%victim% &cwas capped by a Pillager"
+      - "%victim% &ewas capped by a Pillager"
     PillagerCustom:
       - "%victim% &cthought he could trade with a Pillager"
     PolarBear:
-      - "%victim% &cwas slain by the bear on a Klondike Bar"
+      - "%victim% &ewas slain by the bear on a Klondike Bar"
     PufferFish:
       - "%victim% &ccould not handle the poison from living sushi"
     Rabbit:
-      - "%victim% &cwas slain by a killer rabbit"
+      - "%victim% &ewas slain by a killer rabbit"
     Ravager:
-      - "%victim% &cwas verociously mauled by a Ravager"
+      - "%victim% &ewas verociously mauled by a Ravager"
     Salmon:
-      - "%victim% &cwas slain by Salmon"
+      - "%victim% &ewas slain by Salmon"
     Sheep:
-      - "%victim% &cwas slain by Sheep"
+      - "%victim% &ewas slain by Sheep"
     Shulker:
-      - "%victim% &cwas slain by Shulker"
+      - "%victim% &ewas slain by Shulker"
     Silverfish:
       - "%victim% &cdid not call the pest control and died to silverfish"
     SkeletonArrow:
-      - "%victim% &cwas capped by a Skeleton"
+      - "%victim% &ewas capped by a Skeleton"
     SkeletonArrowCustom:
-      - "%victim% &cwas shot by Skeleton using [%weapon%&f]"
+      - "%victim% &ewas shot by Skeleton using [%weapon%&f]"
     SkeletonMelee:
-      - "%victim% &cwas slain by Skeleton"
+      - "%victim% &ewas slain by Skeleton"
     SkeletonCustom:
-      - "%victim% &cwas slain by Skeleton using [%weapon%&f]"
+      - "%victim% &ewas slain by Skeleton using [%weapon%&f]"
     SkeletonHorse:
-      - "%victim% &cwas slain by Skeleton Horse"
+      - "%victim% &ewas slain by Skeleton Horse"
     Slime:
       - "%victim% &cgot to excited with a slime"
     SnowGolem:
-      - "%victim% &cwas pummeled by Snow Golem"
+      - "%victim% &ewas pummeled by Snow Golem"
     Spider:
       - "%victim% &ctried to become Spiderman"
     Squid:
-      - "%victim% &cwas slain by Squid"
+      - "%victim% &ewas slain by Squid"
     StrayArrow:
-      - "%victim% &cwas shot by Stray"
+      - "%victim% &ewas shot by Stray"
     StrayMelee:
-      - "%victim% &cwas slain by Stray"
+      - "%victim% &ewas slain by Stray"
     StrayCustom:
-      - "%victim% &cwas slain by Stray using [%weapon%&f]"
+      - "%victim% &ewas slain by Stray using [%weapon%&f]"
     TropicalFish:
-      - "%victim% &cwas slain by Tropical Fish"
+      - "%victim% &ewas slain by Tropical Fish"
     Turtle:
-      - "%victim% &cwas slain by Turtle"
+      - "%victim% &ewas slain by Turtle"
     Vex:
-      - "%victim% &cwas slain by Vex"
+      - "%victim% &ewas slain by Vex"
     Vindicator:
-      - "%victim% &cwas destroyed by a Vindicator"
+      - "%victim% &ewas destroyed by a Vindicator"
     WanderingTrader:
-      - "%victim% &cwas slain by Wandering Trader"
+      - "%victim% &ewas slain by Wandering Trader"
     Witch:
-      - "%victim% &cwas killed by a witch"
+      - "%victim% &ewas killed by a witch"
     Wither:
-      - "%victim% &cwas slain by Wither"
+      - "%victim% &ewas slain by Wither"
     WitherSpawnBoom: # Dies from wither spawn explosion
-      - "%victim% &cwas handled by a Wither"
+      - "%victim% &ewas handled by a Wither"
     WitherSkeletonMelee:
-      - "%victim% &cwas made minced meat by a Wither Skeleton"
+      - "%victim% &ewas made minced meat by a Wither Skeleton"
     WitherSkeletonCustom:
-      - "%victim% &cwas slain by Wither Skeleton using [%weapon%&f]"
+      - "%victim% &ewas slain by Wither Skeleton using [%weapon%&f]"
     Wolf:
-      - "%victim% &cwas slain by Wolf"
+      - "%victim% &ewas slain by Wolf"
     ZombieMelee:
-      - "%victim% &cwas slain by Zombie"
+      - "%victim% &ewas slain by Zombie"
     ZombieCustom:
-      - "%victim% &cwas slain by Zombie using [%weapon%&f]"
+      - "%victim% &ewas slain by Zombie using [%weapon%&f]"
     ZombiePigManMelee:
-      - "%victim% &cwas slain by Zombie Pigman"
+      - "%victim% &ewas slain by Zombie Pigman"
     ZombiePigManCustom:
-      - "%victim% &cwas slain by Zombie Pigman using [%weapon%&f]"
+      - "%victim% &ewas slain by Zombie Pigman using [%weapon%&f]"
     ZombieVillagerMelee:
-      - "%victim% &cwas slain by Zombie Villager"
+      - "%victim% &ewas slain by Zombie Villager"
     ZombieVillagerCustom:
-      - "%victim% &cwas slain by Zombie Villager using [%weapon%&f]"
+      - "%victim% &ewas slain by Zombie Villager using [%weapon%&f]"
     ZombieHorse:
-      - "%victim% &cwas slain by Zombie Horse"
+      - "%victim% &ewas slain by Zombie Horse"
   namedmob: # For named mobs, use &e%killer% as mob
     Bat:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     BlazeMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     BlazeFireball:
-      - "%victim% &cwas fireballed by &e%killer%"
+      - "%victim% &ewas fireballed by &e%killer%"
     Cat:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     CaveSpider:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Chicken:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Cod:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Cow:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Creeper:
-      - "%victim% &cwas blown up by &e%killer%"
+      - "%victim% &ewas blown up by &e%killer%"
     CreeperCharged: # charged Creeper
-      - "%victim% &cwas blown up by &e%killer%"
+      - "%victim% &ewas blown up by &e%killer%"
     Dolphin:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Donkey:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     DrownedMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     DrownedTrident:
-      - "%victim% &cwas skewered by &e%killer%"
+      - "%victim% &ewas skewered by &e%killer%"
     DrownedMeleeCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     DrownedTridentCustom:
-      - "%victim% &cwas skewered by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas skewered by &e%killer% using [%weapon%&f]"
     ElderGuardian:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     EnderDragon:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     EnderDragonBreath:
-      - "%victim% &cwas killed by &e%killer% using magic"
+      - "%victim% &ewas killed by &e%killer% using magic"
     Enderman:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Endermite:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Evoker:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Fox:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Ghast:
-      - "%victim% &cwas fireballed by &e%killer%"
+      - "%victim% &ewas fireballed by &e%killer%"
     Giant:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Guardian:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Horse:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     HuskMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     HuskCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     Illusioner:
-      - "%victim% &cwas shot by &e%killer%"
+      - "%victim% &ewas shot by &e%killer%"
     IronGolem:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Llama:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     MagmaCube:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Mooshroom:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Mule:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Panda:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Parrot:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Phantom:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Pig:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     PillagerArrow:
-      - "%victim% &cwas shot by &e%killer%"
+      - "%victim% &ewas shot by &e%killer%"
     PillagerMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     PillagerArrowCustom:
-      - "%victim% &cwas shot by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas shot by &e%killer% using [%weapon%&f]"
     PillagerCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     PolarBear:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     PufferFish:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Rabbit:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Ravager:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Salmon:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Sheep:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Shulker:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Silverfish:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     SkeletonArrow:
-      - "%victim% &cwas shot by &e%killer%"
+      - "%victim% &ewas shot by &e%killer%"
     SkeletonMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     SkeletonArrowCustom:
-      - "%victim% &cwas shot by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas shot by &e%killer% using [%weapon%&f]"
     SkeletonCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     SkeletonHorse:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Slime:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     SnowGolem:
-      - "%victim% &cwas pummeled by &e%killer%"
+      - "%victim% &ewas pummeled by &e%killer%"
     Spider:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Squid:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     StrayArrow:
-      - "%victim% &cwas shot by &e%killer%"
+      - "%victim% &ewas shot by &e%killer%"
     StrayMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     StrayCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     TropicalFish:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Turtle:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Vex:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Villager:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Vindicator:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     WanderingTrader:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     Witch:
-      - "%victim% &cwas killed by &e%killer% using magic"
+      - "%victim% &ewas killed by &e%killer% using magic"
     Wither:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     WitherSpawnBoom: # Dies from wither spawn explosion
-      - "%victim% &cwas blown up by &e%killer%"
+      - "%victim% &ewas blown up by &e%killer%"
     WitherSkeletonMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     WitherSkeletonCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     Wolf:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     ZombieMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     ZombieCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     ZombiePigManMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     ZombiePigManCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     ZombieVillagerMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     ZombieVillagerCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     ZombieHorse:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
   pvp:
     PlayerMelee:
-      - "%victim% &cwas slain by &e%killer%"
+      - "%victim% &ewas slain by &e%killer%"
     PlayerCustom:
-      - "%victim% &cwas slain by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas slain by &e%killer% using [%weapon%&f]"
     PlayerArrow:
-      - "%victim% &cwas shot by &e%killer%"
+      - "%victim% &ewas shot by &e%killer%"
     PlayerTrident:
-      - "%victim% &cwas skewered by &e%killer%"
+      - "%victim% &ewas skewered by &e%killer%"
     PlayerTridentCustom:
-      - "%victim% &cwas skewered by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas skewered by &e%killer% using [%weapon%&f]"
     PlayerFireball: # Just in case
-      - "%victim% &cwas fireballed by &e%killer%"
+      - "%victim% &ewas fireballed by &e%killer%"
     PlayerSnowball: # Just in case
-      - "%victim% &cwas pummeled by &e%killer%"
+      - "%victim% &ewas pummeled by &e%killer%"
     PlayerProjectileCustom: # Bows, plugins like CrackShot
-      - "%victim% &cwas shot by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas shot by &e%killer% using [%weapon%&f]"
     PlayerPotion:
-      - "%victim% &cwas killed by &e%killer% using magic"
+      - "%victim% &ewas killed by &e%killer% using magic"
   natural:
     Thorns:
-      - "%victim% &cwas killed while trying to hurt &e%killer%"
+      - "%victim% &ewas killed while trying to hurt &e%killer%"
     TNT:
       - "%victim% blew up"
     TNTKill:
-      - "%victim% &cwas blown up by &e%killer%"
+      - "%victim% &ewas blown up by &e%killer%"
     EnderCrystal:
       - "%victim% blew up"
     Bed: # exploding beds
-      - "%victim% &cwas killed by Intentional Game Design"
+      - "%victim% &ewas killed by Intentional Game Design"
     Cactus:
-      - "%victim% &cwas pricked to death"
+      - "%victim% &ewas pricked to death"
     CactusKill:
       - "%victim% walked into a cactus whilst trying to escape &e%killer%"
     Anvil:
-      - "%victim% &cwas squashed by a falling anvil"
+      - "%victim% &ewas squashed by a falling anvil"
     FallingBlock: # Only when a FallingBlock is modified to cause damage
-      - "%victim% &cwas squashed by a falling block"
+      - "%victim% &ewas squashed by a falling block"
     UnknownArrow: # arrow from unknown entity or source, /summon?
-      - "%victim% &cwas shot by arrow"
+      - "%victim% &ewas shot by arrow"
     DispenserArrow:
-      - "%victim% &cwas shot by arrow"
+      - "%victim% &ewas shot by arrow"
     DispenserFireball:
       - "%victim% burned to death"
     DispenserSnowball:
@@ -594,7 +594,7 @@ death-messages:
     PotionWither:
       - "%victim% withered away"
     PotionHarming:
-      - "%victim% &cwas killed by magic"
+      - "%victim% &ewas killed by magic"
     FireBlock:
       - "%victim% went up in flames"
     FireBlockKill:
@@ -604,13 +604,13 @@ death-messages:
     FireTickKill:
       - "%victim% burnt into a crisp whilst fighting &e%killer%"
     Magma:
-      - "%victim% discovered floor &cwas lava"
+      - "%victim% discovered floor &ewas lava"
     MagmaKill:
       - "%victim% walked into danger zone due to &e%killer%"
     BerryBush:
-      - "%victim% &cwas poked to death by a sweet berry bush"
+      - "%victim% &ewas poked to death by a sweet berry bush"
     BerryBushKill:
-      - "%victim% &cwas poked to death by a sweet berry bush whilst trying to escape &e%killer%"
+      - "%victim% &ewas poked to death by a sweet berry bush whilst trying to escape &e%killer%"
     Lava:
       - "%victim% tried to swim in lava"
     LavaKill:
@@ -622,9 +622,9 @@ death-messages:
     Suffocation:
       - "%victim% suffocated in a wall"
     Cramming: # maxEntityCramming
-      - "%victim% &cwas squished too much"
+      - "%victim% &ewas squished too much"
     CrammingKill:
-      - "%victim% &cwas squished too much"
+      - "%victim% &ewas squished too much"
     Void:
       - "%victim% fell out of the world"
     VoidFall: # in DMP, if entity falls over y>=64 to the void
@@ -646,19 +646,19 @@ death-messages:
     FallCacti: 
       - "%victim% fell into a patch of cacti"
     FallKill:
-      - "%victim% &cwas doomed to fall by &e%killer%"
+      - "%victim% &ewas doomed to fall by &e%killer%"
     FallKillWeapon:
-      - "%victim% &cwas doomed to fall by &e%killer% using [%weapon%&f]"
+      - "%victim% &ewas doomed to fall by &e%killer% using [%weapon%&f]"
     FallFinishKill:
-      - "%victim% fell too far and &cwas finished by &e%killer%"
+      - "%victim% fell too far and &ewas finished by &e%killer%"
     FallFinishKillWeapon:
-      - "%victim% fell too far and &cwas finished by &e%killer% using [%weapon%&f]"
+      - "%victim% fell too far and &ewas finished by &e%killer% using [%weapon%&f]"
     FallExplosionKill: # FallKill caused by entity explosion
-      - "%victim% &cwas blown from a high place by &e%killer%"
+      - "%victim% &ewas blown from a high place by &e%killer%"
     FallLadderKill: 
-      - "%victim% &cwas shot off a ladder by &e%killer%"
+      - "%victim% &ewas shot off a ladder by &e%killer%"
     FallVineKill: 
-      - "%victim% &cwas shot off some vines by &e%killer%"
+      - "%victim% &ewas shot off some vines by &e%killer%"
     Firework: 
       - "%victim% went off with a bang"
     Elytra: 
@@ -757,26 +757,26 @@ custom-mob-death-messages:
   # Examples:
   #
   # "_*": # match all mobs
-  #   - "%victim% &cwas killed by a mob"
+  #   - "%victim% &ewas killed by a mob"
   #
   # "^[Ss]_*": # match all mobs beginning with S or s
-  #   - "%victim% &cwas killed by a mob"
+  #   - "%victim% &ewas killed by a mob"
   #
   # "§cMy Custom Boss": [] # display normal messages for mobs named 
   #                        # 'My Custom Boss' written in red
   #
   # "My Custom Boss": # match all mobs with name being 'My Custom Boss'
-  #   - "%victim% &cwas killed by a boss"
-  #   - "%victim% &cwas pummeled by a boss"
+  #   - "%victim% &ewas killed by a boss"
+  #   - "%victim% &ewas pummeled by a boss"
   #
   # "§aMy Custom Boss": # match all mobs with name being 'My Custom Boss' 
   #                     # written in light green
-  #   - "%victim% &cwas killed by a boss"
-  #   - "%victim% &cwas pummeled by a boss"
+  #   - "%victim% &ewas killed by a boss"
+  #   - "%victim% &ewas pummeled by a boss"
   #
   # "_*My Custom Boss_*": # match all mobs with name containing 'My Custom Boss'
-  #   - "%victim% &cwas killed by a boss"
-  #   - "%victim% &cwas pummeled by a boss"
+  #   - "%victim% &ewas killed by a boss"
+  #   - "%victim% &ewas pummeled by a boss"
   #
   # !!!!!!!!!!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!!!!!!!!!!
   #  IN REGEXES; ALL DOTS MUST BE REPRESENTED WITH UNDERSCORES
