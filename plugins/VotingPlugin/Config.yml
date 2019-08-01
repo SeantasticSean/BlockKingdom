@@ -663,9 +663,9 @@ MileStones:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Silver Rank!'
     Commands:
-    - 'lp user {name} parent remove default'
+    - 'lp user %player% parent remove default'
     - 'bc %player% has voted 10 times and received &7Silver&r rank!'
-    - 'lp user {name} parent add silver'
+    - 'lp user %player% parent add silver'
   '30':
     Enabled: true
     Rewards: 
@@ -674,8 +674,8 @@ MileStones:
         Player: '&aAcquired Gold Rank!'
     Commands:
     - 'bc %player% has voted 30 times and received &6Gold&r rank!'
-    - 'lp user {name} parent remove silver'
-    - 'lp user {name} parent add gold'
+    - 'lp user %player% parent remove silver'
+    - 'lp user %player% parent add gold'
   '70':
     Enabled: true
     Rewards: 
@@ -684,8 +684,8 @@ MileStones:
         Player: '&aAcquired Platinum Rank!'
     Commands:
     - 'bc %player% has voted 70 times and received &8Platinum&r rank!'
-    - 'lp user {name} parent remove gold'
-    - 'lp user {name} parent add platinum'
+    - 'lp user %player% parent remove gold'
+    - 'lp user %player% parent add platinum'
   '120':
     Enabled: true
     Rewards: 
@@ -694,8 +694,8 @@ MileStones:
         Player: '&aAcquired Crystal Rank!'
     Commands:
     - 'bc %player% has voted 120 times and received &5Crystal&r rank!'
-    - 'lp user {name} parent remove platinum'
-    - 'lp user {name} parent add crystal'
+    - 'lp user %player% parent remove platinum'
+    - 'lp user %player% parent add crystal'
   '190':
     Enabled: true
     Rewards: 
@@ -704,8 +704,8 @@ MileStones:
         Player: '&aAcquired Master Rank!'
     Commands:
     - 'bc %player% has voted 190 times and received &0Master&r rank!'
-    - 'lp user {name} parent remove crystal'
-    - 'lp user {name} parent add master'
+    - 'lp user %player% parent remove crystal'
+    - 'lp user %player% parent add master'
   '260':
     Enabled: true
     Rewards: 
@@ -714,8 +714,8 @@ MileStones:
         Player: '&aAcquired &cChampion &aRank!'
     Commands:
     - 'bc %player% has voted 260 times and received &cChampion&r rank!'
-    - 'lp user {name} parent remove master'
-    - 'lp user {name} parent add champion'
+    - 'lp user %player% parent remove master'
+    - 'lp user %player% parent add champion'
   '350':
     Enabled: true
     Rewards: 
@@ -724,8 +724,8 @@ MileStones:
         Player: '&aAcquired &cLegend &aRank!'
     Commands:
     - 'bc %player% has voted 350 times and received &2Leg&3end&r rank!'
-    - 'lp user {name} parent remove champion'
-    - 'lp user {name} parent add legend'
+    - 'lp user %player% parent remove champion'
+    - 'lp user %player% parent add legend'
 VoteStreak:
   # Valid options: Day, Week, Month
   Day:
