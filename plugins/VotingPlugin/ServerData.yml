@@ -1,15 +1,18 @@
 VotingPlugin:
   Version: 'git-Spigot-9a643a6-a77ba00 (MC: 1.14.3)'
   ServiceSites:
+  - SERVERPACT.COM
   - PlanetMinecraft.com
   - MinecraftServers.org
   - Minecraft-MP.com
+  - MinecraftServersList
   - MCSL
   - TopG.org
   - http://www.minecraft-servers-list.org
   - SERVERPACTTEST
+  - Minecraft-Server.net
 PluginVersions:
   VotingPlugin: 5.19.1
-PrevDay: 31
+PrevDay: 1
 PrevWeek: 31
-Month: JULY
+Month: AUGUST

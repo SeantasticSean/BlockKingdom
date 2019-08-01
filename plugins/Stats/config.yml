@@ -1,5 +1,5 @@
 mysql:
-  url: jdbc:mysql://localhost:3306/stats
+  url: jdbc:mysql://localhost:3306/stats?useSSL=false
   username: chickensburning
   password: 69j5k12WBwROgg6o0QbHslDoznO&C2bS
 useRabbitMq: false

@@ -3,11 +3,20 @@
 # Similar to AnySiteReward
 # This requires the site to be configured in order to get the reward.
 VoteSites:
+  BlockKingdom_org:
+    Enabled: true
+    Name: All Sites
+    ServiceSite: BlockKingdom.org
+    VoteURL: https://blockkingdom.org/vote.html
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
   PlanetMinecraft_com:
     Enabled: true
     Name: PlanetMinecraft
     ServiceSite: PlanetMinecraft.com
-    VoteURL: https://www.planetminecraft.com/server/darkages-2500481/vote
+    VoteURL: https://planetminecraft.com/server/darkages-2500481/vote
     VoteDelay: 24
     Item:
       Material: GRASS

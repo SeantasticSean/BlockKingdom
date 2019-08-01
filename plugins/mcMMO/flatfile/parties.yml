@@ -21,7 +21,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 2940
+  Xp: 2390
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -36,3 +36,20 @@ Pu$$yRippers:
   - 89808db2-8c04-4212-8038-1e8d605f7b89|zKirk
   - fff2c457-d1ac-43b7-a0bf-4f33305c5d23|SeantasticSean
   - 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
+RetiredMC:
+  Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
+  Locked: true
+  Level: 10
+  Xp: 1265
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
+  - ea42a580-355a-4981-bed2-65dc5fccbeb6|Grepses
