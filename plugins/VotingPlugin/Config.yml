@@ -663,6 +663,7 @@ MileStones:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Silver Rank!'
     Commands:
+    - 'lp user {name} parent remove default'
     - 'bc %player% has voted 10 times and received &7Silver&r rank!'
     - 'lp user {name} parent add silver'
   '30':
