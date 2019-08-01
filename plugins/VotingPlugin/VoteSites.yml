@@ -3,19 +3,10 @@
 # Similar to AnySiteReward
 # This requires the site to be configured in order to get the reward.
 VoteSites:
-  BlockKingdom_org:
-    Enabled: true
-    Name: All Sites
-    ServiceSite: BlockKingdom.org
-    VoteURL: https://blockkingdom.org/vote.html
-    VoteDelay: 24
-    Item:
-      Material: GRASS
-      Amount: 1
   PlanetMinecraft_com:
     Enabled: true
     Name: PlanetMinecraft
-    ServiceSite: PlanetMinecraft.com
+    ServiceSite: planetminecraft.com
     VoteURL: https://planetminecraft.com/server/darkages-2500481/vote
     VoteDelay: 24
     Item:
@@ -39,7 +30,7 @@ VoteSites:
   Minecraft-MP_com:
     Enabled: true
     Name: MinecraftMP
-    ServiceSite: Minecraft-MP.com
+    ServiceSite: minecraft-mp.com
     VoteURL: https://minecraft-mp.com/server/229075/vote
     VoteDelay: 24
     Item:
@@ -51,7 +42,7 @@ VoteSites:
   MCSL:
     Enabled: true
     Name: MCSL
-    ServiceSite: Minecraft-Server-List
+    ServiceSite: minecraft-server-list.com
     VoteURL: https://minecraft-server-list.com/server/443601/vote
     VoteDelay: 24
     Item:
@@ -63,7 +54,7 @@ VoteSites:
   TopG_org:
     Enabled: true
     Name: TopG
-    ServiceSite: TopG.org
+    ServiceSite: topg.org
     VoteURL: https://topg.org/Minecraft/in-360985
     VoteDelay: 24
     Item:
@@ -75,7 +66,7 @@ VoteSites:
   Minecraft-Servers-List_org:
     Enabled: true
     Name: MC-Servers
-    ServiceSite: Minecraft-Servers-List.org
+    ServiceSite: minecraft-servers-list.org
     VoteURL: http://minecraft-servers-list.org/index.php?a=in&u=ChickensBurning
     VoteDelay: 24
     Item:
@@ -87,7 +78,7 @@ VoteSites:
   Minecraft-Server_net:
     Enabled: true
     Name: Minecraft-Server
-    ServiceSite: Minecraft-Server.net
+    ServiceSite: minecraft-server.net
     VoteURL: https://minecraft-server.net/vote/CHICKENS_BURNING
     VoteDelay: 24
     Item:
@@ -99,7 +90,7 @@ VoteSites:
   NameMC_com:
     Enabled: true
     Name: NameMC
-    ServiceSite: NameMC.com
+    ServiceSite: namemc.com
     VoteURL: https://namemc.com/server/blockkingdom.org
     VoteDelay: 24
     Item:
@@ -111,8 +102,8 @@ VoteSites:
   ServerPact_com:
     Enabled: true
     Name: ServerPact
-    ServiceSite: ServerPact.com
-    VoteURL: https://www.serverpact.com/vote-22240
+    ServiceSite: serverpact.com
+    VoteURL: https://serverpact.com/vote-22240
     VoteDelay: 24
     Item:
       Material: GRASS
@@ -123,7 +114,7 @@ VoteSites:
   MinecraftList_org:
     Enabled: true
     Name: MCL
-    ServiceSite: MinecraftList.org
+    ServiceSite: minecraftlist.org
     VoteURL: https://minecraftlist.org/vote/2008
     VoteDelay: 24
     Item:
