@@ -21,7 +21,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 4747
+  Xp: 284
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -40,7 +40,7 @@ RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 3706
+  Xp: 219
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -53,3 +53,4 @@ RetiredMC:
   Members:
   - 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   - ea42a580-355a-4981-bed2-65dc5fccbeb6|Grepses
+  - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|ChickensDying

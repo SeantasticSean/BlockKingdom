@@ -41,7 +41,7 @@ VoteSites:
         Player: '&eThanks for voting on %ServiceSite%!'
   MCSL:
     Enabled: true
-    Name: MCSL
+    Name: MinecraftServersList
     ServiceSite: minecraft-server-list.com
     VoteURL: https://minecraft-server-list.com/server/443601/vote
     VoteDelay: 24
@@ -66,7 +66,7 @@ VoteSites:
   Minecraft-Servers-List_org:
     Enabled: true
     Name: MC-Servers
-    ServiceSite: minecraft-servers-list.org
+    ServiceSite: http://www.minecraft-servers-list.org
     VoteURL: http://minecraft-servers-list.org/index.php?a=in&u=ChickensBurning
     VoteDelay: 24
     Item:
@@ -80,18 +80,6 @@ VoteSites:
     Name: Minecraft-Server
     ServiceSite: minecraft-server.net
     VoteURL: https://minecraft-server.net/vote/CHICKENS_BURNING
-    VoteDelay: 24
-    Item:
-      Material: GRASS
-      Amount: 1
-    Rewards:
-      Messages:
-        Player: '&eThanks for voting on %ServiceSite%!'
-  NameMC_com:
-    Enabled: true
-    Name: NameMC
-    ServiceSite: namemc.com
-    VoteURL: https://namemc.com/server/blockkingdom.org
     VoteDelay: 24
     Item:
       Material: GRASS
@@ -116,6 +104,18 @@ VoteSites:
     Name: MCL
     ServiceSite: minecraftlist.org
     VoteURL: https://minecraftlist.org/vote/2008
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&eThanks for voting on %ServiceSite%!'
+  MinecraftServers_biz:
+    Enabled: true
+    Name: MC-Biz
+    ServiceSite: MinecraftServers.biz
+    VoteURL: https://minecraftservers.biz/servers/144688/#vote_now
     VoteDelay: 24
     Item:
       Material: GRASS
