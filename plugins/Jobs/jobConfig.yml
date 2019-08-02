@@ -2162,8 +2162,8 @@ Jobs:
         experience: 15.0
       ENDERMAN:
         income: 0.33
-        points: 2
-        experience: 2.0
+        points: 1
+        experience: 1.0
       GHAST:
         income: 0.1
         points: 30
